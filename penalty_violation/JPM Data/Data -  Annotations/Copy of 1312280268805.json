@@ -1,0 +1,815 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612255624,
+        "id": 1,
+        "lead_time": 1023.105,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "3hlqMD70Pe",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 739,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 456,
+              "text": "Securities and Exchange Board of India (hereinafter referred to as “SEBI”) conducted investigation in trading in the scrip of M s Flawless Diamond India Limited (hereinafter referred to as ‘FDIL’ ‘Company’) which is listed on Bombay Stock Exchange (hereinafter referred to as ‘BSE’)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Pk1150Qum8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 877,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 740,
+              "text": "The period of investigation in the scrip of FDIL was from June 2006 to February 2007 (hereinafter referred to as ‘Investigation Period’)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "aYbNcwfIGo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1300,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 881,
+              "text": "The findings of the investigation led to the allegation that M s Akanksha Holdings Private Limited (hereinafter referred to as ‘AHPL’ ‘Noticee’) had violated the provisions of regulation 13(3) read with regulation 13(5) of SEBI (Prohibition of Insider Trading) Regulations, 1992 (hereinafter referred to as ‘PIT Regulations’) and therefore consequently, liable for monetary penalty under section 15A(b) of the SEBI Act."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "vob6j90Kwu",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1700,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 1340,
+              "text": "The undersigned has been appointed as Adjudicating Officer vide order dated March 23, 2011 under section 15 I of SEBI Act read with rule 3 of SEBI (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (hereinafter referred to as ‘Rules’) to inquire into and adjudge the alleged violations of provisions of PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qMv-xaiv-K",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2072,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 1749,
+              "text": "Show Cause Notice No EAD-7 PB AK 16986 2011 dated May 27, 2011 (hereinafter referred to as “SCN”) was issued to the Noticee under rule 4(1) of the Rules to show cause as to why an inquiry should No be initiated and penalty be No imposed under section 15A(b) of SEBI Act for the alleged violation specified in the said SCN. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1URZXjwpsM",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2143,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 2072,
+              "text": "The said SCN was sent through courier and was delivered to the Noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0jIODJJn_g",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2342,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 2144,
+              "text": "It was alleged in the SCN that, the shareholding of the Noticee in FDIL for the quarter ending March 2007 was 3,81,990 shares i.e. 6.60% of total shareholding of FDIL consisting of 57,90,000 shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "zqSvytwDbp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2490,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2343,
+              "text": "During the June 2007 quarter FDIL had converted the warrants into shares which resulted in increase in share capital of FDIL to 1,44,78,000 shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "l9x1VEiZsV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2748,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2490,
+              "text": " Further, upon selling 1,00,491 shares of FDIL in market during the June 2007 quarter by the Noticee and because of the conversion of warrants into shares, the shareholding of the Noticee decreased to 2,81,499 shares i.e. 1.94% of total shareholding of FDIL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1cUeKHHuWv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3114,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 2748,
+              "text": " It was alleged that as there was a change of more than 2% of shareholding of the Noticee in FDIL, the Noticee was required to make the disclosures to the company i.e. FDIL, in accordance with the provisions of regulation 13(3) read with regulation 13(5) of PIT Regulations i.e. within four working days from the date of selling, which the Noticee had failed to do. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "x3cBmly2pf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3247,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 3114,
+              "text": "Therefore, it was alleged that Noticee had violated the provisions of regulation 13(3) read with regulation 13(5) of PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZCXkcV1C-S",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3506,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3251,
+              "text": "The Noticee vide letter dated July 02, 2011 submitted its reply to the SCN, which inter alia stated as under: “………… 1. At the outset, we deny the allegations made against us in the said Notice, save and except those, which are specifically admitted herei."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "iizh4d7Idb",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3669,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3507,
+              "text": "Nothing stated in the said Notice shall be deemed to be admitted by me merely on account of non-traverse, unless the same is specifically admitted in this reply. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lUXufX0hv4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3720,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3669,
+              "text": "2. Our para-wise reply to the Notice is as follows:"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "jbAGpwY4U8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3875,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3721,
+              "text": "3. With regard to Para 1 to Para 2 of the Notice, it is submitted that the same is a matter of record therefore we have no comments to offer on the same. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hHhtAwlc7n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4004,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3875,
+              "text": "4. With regard to Para 3 to Para 6 of the Notice, it is submitted that the same quotes various provisions of the PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "maxiyuBm_K",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4157,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4005,
+              "text": "5. With regard to Para 5 of the Notice, it is submitted that admittedly we are holding 3,81,990 equity shares (6.60%) for the quarter ending March 2007."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "GKfohKWj_O",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4244,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4158,
+              "text": "We also admit that we had sold 1,00,491 equity shares of the company in the June 2007."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3H9HrMEGpL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4421,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4245,
+              "text": "Since we had sold less that 2% of the equity of the target company there is no need to file the disclosure under regulation 13(3) read with regulation 13(5) of PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "DNlurzTfUC",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4755,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4422,
+              "text": "6. For the sake of argument we are re-producing the regulation 13(5) of the PIT for your reference: (5) The disclosure mentioned in sub-regulation (3) and (4) shall be made within 4 working days of: (a) the receipts of intimation of allotment of shares, or (b) the acquisition or sale of shares or voting rights, as the case may be. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IB1dtCo9oU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5010,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4755,
+              "text": "As per regulation 13(3) read with regulation 13(5)(b) disclosure is to be filed when the acquisition or sale of shares or voting rights, as the case may be. In our case we had sold 1,00,491 shares in June 2007 which is 0.69% of the capital of the company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7w9zPlV_ZS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5214,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5011,
+              "text": "7. We further inform you that our holding decreased more that 2% on account of conversion of warrants into equity shares by the company and the same is No covers into regulation 13(5) of PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "BGlc1TkJ9E",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5343,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5215,
+              "text": "8. In view of the foregoing submissions it is respectfully submitted that the allegations in the show cause Notice are tenable. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5OaK8M3h3x",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5460,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5343,
+              "text": "It is therefore humbly prayed that kindly the notice be discharged and the charges as leveled against us be dropped. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "S0LIZPLlx0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5500,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5460,
+              "text": "9. Copy of PAN No is enclosed herewith.”"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lCiFoVMZ3x",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5752,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 5504,
+              "text": "In the interest of natural justice and in order to conduct an inquiry in terms of rule 4(3) of the Rules, the Noticee was granted an opportunity of personal hearing on July 19, 2011, vide notice dated July 05, 2011 sent through SPAD to the Noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "vCKU484Jcz",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5975,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 5753,
+              "text": "The said hearing notice was delivered to the Noticee. Mr. Balveer Singh Choudhary, Choudhary & Singhvi, Chartered Accountants, Authorized Representative, (hereinafter referred to as “AR”) appeared on behalf of the Noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EF33WGVFbT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6159,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 5976,
+              "text": "During the hearing, the AR reiterated the submissions made vide letter dated July 02, 2011 and stated inter alia as under: “I deny the charges leveled against the Noticee in the SCN. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QHw7mGctWC",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6320,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6159,
+              "text": "The shareholding of the Noticee was 3,81,990 equity shares (6.60% of the total shareholding of the company i.e. 57,90,000 shares) for quarter ending March 2007. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ql6D-dmrBZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6590,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6320,
+              "text": "On account of conversion of warrants by the company on April 24, 2007 the total shareholding of the company increased to 1,44,78,000 shares due to which the shareholding of the Noticee (3,81,990 shares i.e. 2.64% of the total shareholding of the company) fell below 5%. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "F-5lo5gZ9U",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6708,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6590,
+              "text": "Noticee had sold 1,00,491 equity shares (0.69% of the total shareholding of the company) of the company in June 2007. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "WFFNQtWGGa",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6927,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6708,
+              "text": "Since Noticee had sold less than 2% of equity shares of the company, there is no need to file the disclosure under regulation 13(3) read with regulation 13(5) of SEBI (Prohibition of Insider Trading) Regulations, 1992. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1YYBvIsSVT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7065,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6927,
+              "text": "The shareholding of the Noticee after the sale is 2,81,499 equity shares (1.95% of the total shareholding of the company) of the company.”"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "mDyxKkkfZD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7221,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 7069,
+              "text": "During the course of hearing, the undersigned had asked the AR to provide the date on which the Noticee had sold 1,00,491 equity shares of the company. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ng64Adq3HR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7292,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 7221,
+              "text": "The AR requested 2 days time to furnish the details which was granted. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "OzbGqro5OL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7414,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7292,
+              "text": "The AR vide email dated July 20, 2011 furnished the following details in regard to the selling of 1,00,491 shares of FDIL:"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "6FFOaOvITd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7993,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7616,
+              "text": "Date of Holding Transaction No of Share held % of Total Capital held Share sold Percentage of share sold with respect to the total shares of the company Total Shares of the Company 31st March 2007 381990 6.60% 5790000 10th April 2007 50000 0.86 5790000 12th April 2007 491 0.01 5790000 26th June 2007 25000 0.17 14478000 27th June 2007 25000 0.17 14478000 30th June 2007 281499"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "S42qpVcv3R",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7615,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 7455,
+              "text": "I have carefully perused the submissions of the Noticee and the documents available on record. The issues that arise for consideration in the present case are :"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0QZbu2O0SK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8107,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 7994,
+              "text": "a. Whether Noticee had violated the provisions of regulation 13(3) read with regulation 13(5) of PIT Regulations?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "V2xlJ6uOzt",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8201,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 8108,
+              "text": "b. Does the violation, if any, attract monetary penalty under section 15A(b) of the SEBI Act?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2UOqtAeMG9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8346,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 8202,
+              "text": "c. If so, what would be the monetary penalty that can be imposed taking into consideration the factors mentioned in section 15J of the SEBI Act?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0FAWzGitWg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9150,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 8350,
+              "text": "Before moving forward, it is pertinent to refer to the relevant provisions of PIT Regulations, which reads as under:- 13. Disclosure of interest or holding by directors and officers and substantial shareholders in a listed company – Initial Disclosure Initial Disclosure (1) ………………. (2)………………. Continual disclosure (3) Any person who holds more than 5% shares or voting rights in any listed company shall disclose to the company [in Form C] the number of shares or voting rights held and change in shareholding or voting rights, even if such change results in shareholding falling below 5%, if there has been change in such holdings from the last disclosure made under sub- regulation (1) or under this sub-regulation; and such change exceeds 2% of total shareholding or voting rights in the company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "akGOfS7l1e",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9398,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 9164,
+              "text": "(5) The disclosure mentioned in sub-regulations (3) and (4) shall be made within 4 working days of : (a) the receipts of intimation of allotment of shares, or (b) the acquisition or sale of shares or voting rights, as the case may be."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Jb6LU79zAv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9452,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 9399,
+              "text": "Disclosure by company to stock exchanges (6)……………….. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lj8T0UKqwg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9948,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 9456,
+              "text": "As per regulations 13 (3) & 13(5) of PIT Regulations, any person who is holding more than 5% of shares or voting rights in any listed company has to make the required disclosure to the company if there is any change in shareholding of such person by more than 2% of total shareholding or voting rights in the company, in a prescribed format, within 4 working days from (a) the receipt of intimation of allotment of shares or (b) the acquisition of shares or voting rights, as the case may be."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2KfOcpvPEN",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10225,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9953,
+              "text": "Upon perusal of the documents available on record I find that, the shareholding of the Noticee in FDIL for the quarter ending March 2007 was 3,81,990 shares i.e. 6.60% of total share capital of the company consisting of 57,90,000 shares for the quarter ending March 2007. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bSf-Rhyeql",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10416,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 10225,
+              "text": "During June 2007 quarter, i.e. on April 24, 2007, FDIL had converted the warrants into shares which resulted in increase in share capital of FDIL from 57,90,000 shares to 1,44,78,000 shares. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "tWcLBdJIsX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10787,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 10416,
+              "text": "Further, Noticee upon selling 1,00,491 shares of FDIL in market during June 2007 quarter and because of increase in share capital of the company on account of conversion of warrants into shares, the shareholding of the Noticee decreased to 2,81,499 shares i.e. 1.94% of total share capital of the company consisting of 1,44,78,000 shares for the quarter ending June 2007."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "UBxsoJgJUG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10943,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 10792,
+              "text": "Further, in the instant case, I find that Noticee had No disputed the fact that it had sold 1,00,491 shares of FDIL in market during June 2007 quarter."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8y23m_iMAP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11530,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 10944,
+              "text": "However, it is observed from the submissions of the Noticee that it had sold 50,000 shares i.e. 0.86% of total share capital of the company consisting of 57,90,000 shares on April 10, 2007, 491 shares i.e. 0.01% of total share capital of the company consisting of 57,90,000 shares on April 12, 2007, 25,000 shares i.e. 0.17% of total share capital of the company consisting of 1,44,78,000 shares (expanded pursuant to conversion of warrants to shares) on June 26, 2007 and 25,000 shares i.e. 0.17% of total share capital of the company consisting of 1,44,78,000 shares on June 27, 2007."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8bxOHPajAB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11807,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 11531,
+              "text": "Thus, Noticee had sold 50,491 shares i.e. 0.87% of total share capital of the company consisting of 57,90,000 shares before conversion of warrants and 50,000 shares i.e. 0.34% of total share capital of the company consisting of 1,44,78,000 shares after conversion of warrants."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "T3B6CXMEPK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11940,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 11812,
+              "text": "Thus, from the above it is observed that Noticee had No sold more than 2% of shares of FDIL at any point of time or in totality."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "mmglj0H4lp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12216,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 11941,
+              "text": "Further, it is observed that the decrease in shareholding of the Noticee by 2% during the quarter ending June 2007 was because of increase in share capital of company on account of conversion of warrants into shares on April 24, 2007 and No due to selling of 1,00,491 shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7EQRXei91Z",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12355,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 12221,
+              "text": "Thus, in the light of above, I find merit in the submissions of the Noticee and I am inclined to give benefit of doubt to the Noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EKrjuefBP-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12487,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 12356,
+              "text": "Therefore, the allegation of violation of regulation 13(3) read with regulation 13(5) of PIT Regulations does No stand established."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ifEXj2rJI-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12760,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 12498,
+              "text": "In view of the foregoing, the alleged violation of the provisions of regulation 13(3) read with regulation 13(5) of PIT Regulations by the Noticee, as specified in the SCN dated May 27, 2011 does No stand established and the matter is, accordingly, disposed of. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "_SksBQBu7E",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12898,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 12763,
+              "text": " In terms of rule 6 of the Rules, copies of this order are sent to the Noticee and also to the Securities and Exchange Board of India. "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "- Adjudication%20order%20in%20respect%20of%20Akanksha%20Hold… BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA [ADJUDICATION ORDER No PB AO-71 2011] UNDER SECTION 15-I OF SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 READ WITH RULE 5 OF SEBI (PROCEDURE FOR HOLDING INQUIRY AND IMPOSING PENALTIES BY ADJUDICATING OFFICER) RULES, 1995 In respect of AKANKSHA HOLDINGS PRIVATE LIMITED (PAN No AACCA6478K) FACTS OF THE CASE IN BRIEF 1. Securities and Exchange Board of India (hereinafter referred to as “SEBI”) conducted investigation in trading in the scrip of M s Flawless Diamond India Limited (hereinafter referred to as ‘FDIL’ ‘Company’) which is listed on Bombay Stock Exchange (hereinafter referred to as ‘BSE’). The period of investigation in the scrip of FDIL was from June 2006 to February 2007 (hereinafter referred to as ‘Investigation Period’). 2. The findings of the investigation led to the allegation that M s Akanksha Holdings Private Limited (hereinafter referred to as ‘AHPL’ ‘Noticee’) had violated the provisions of regulation 13(3) read with regulation 13(5) of SEBI (Prohibition of Insider Trading) Regulations, 1992 (hereinafter referred to as ‘PIT Regulations’) and therefore consequently, liable for monetary penalty under section 15A(b) of the SEBI Act. APPOINTMENT OF ADJUDICATING OFFICER 3. The undersigned has been appointed as Adjudicating Officer vide order dated March 23, 2011 under section 15 I of SEBI Act read with rule 3 of SEBI (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (hereinafter referred to as ‘Rules’) to inquire into and adjudge the alleged violations of provisions of PIT Regulations. SHOW CAUSE NOTICE, REPLY AND PERSONAL HEARING 4. Show Cause Notice No EAD-7 PB AK 16986 2011 dated May 27, 2011 (hereinafter referred to as “SCN”) was issued to the Noticee under rule 4(1) of the Rules to show cause as to why an inquiry should No be initiated and penalty be No imposed under section 15A(b) of SEBI Act for the alleged violation specified in the said SCN. The said SCN was sent through courier and was delivered to the Noticee. It was alleged in the SCN that, the shareholding of the Noticee in FDIL for the quarter ending March 2007 was 3,81,990 shares i.e. 6.60% of total shareholding of FDIL consisting of 57,90,000 shares. During the June 2007 quarter FDIL had converted the warrants into shares which resulted in increase in share capital of FDIL to 1,44,78,000 shares. Further, upon selling 1,00,491 shares of FDIL in market during the June 2007 quarter by the Noticee and because of the conversion of warrants into shares, the shareholding of the Noticee decreased to 2,81,499 shares i.e. 1.94% of total shareholding of FDIL. It was alleged that as there was a change of more than 2% of shareholding of the Noticee in FDIL, the Noticee was required to make the disclosures to the company i.e. FDIL, in accordance with the provisions of regulation 13(3) read with regulation 13(5) of PIT Regulations i.e. within four working days from the date of selling, which the Noticee had failed to do. Therefore, it was alleged that Noticee had violated the provisions of regulation 13(3) read with regulation 13(5) of PIT Regulations. 5. The Noticee vide letter dated July 02, 2011 submitted its reply to the SCN, which inter alia stated as under: “………… 1. At the outset, we deny the allegations made against us in the said Notice, save and except those, which are specifically admitted herei. Nothing stated in the said Notice shall be deemed to be admitted by me merely on account of non-traverse, unless the same is specifically admitted in this reply. 2. Our para-wise reply to the Notice is as follows: 3. With regard to Para 1 to Para 2 of the Notice, it is submitted that the same is a matter of record therefore we have no comments to offer on the same. 4. With regard to Para 3 to Para 6 of the Notice, it is submitted that the same quotes various provisions of the PIT Regulations. 5. With regard to Para 5 of the Notice, it is submitted that admittedly we are holding 3,81,990 equity shares (6.60%) for the quarter ending March 2007. We also admit that we had sold 1,00,491 equity shares of the company in the June 2007. Since we had sold less that 2% of the equity of the target company there is no need to file the disclosure under regulation 13(3) read with regulation 13(5) of PIT Regulations. 6. For the sake of argument we are re-producing the regulation 13(5) of the PIT for your reference: (5) The disclosure mentioned in sub-regulation (3) and (4) shall be made within 4 working days of: (a) the receipts of intimation of allotment of shares, or (b) the acquisition or sale of shares or voting rights, as the case may be. As per regulation 13(3) read with regulation 13(5)(b) disclosure is to be filed when the acquisition or sale of shares or voting rights, as the case may be. In our case we had sold 1,00,491 shares in June 2007 which is 0.69% of the capital of the company. 7. We further inform you that our holding decreased more that 2% on account of conversion of warrants into equity shares by the company and the same is No covers into regulation 13(5) of PIT Regulations. 8. In view of the foregoing submissions it is respectfully submitted that the allegations in the show cause Notice are tenable. It is therefore humbly prayed that kindly the notice be discharged and the charges as leveled against us be dropped. 9. Copy of PAN No is enclosed herewith.” 6. In the interest of natural justice and in order to conduct an inquiry in terms of rule 4(3) of the Rules, the Noticee was granted an opportunity of personal hearing on July 19, 2011, vide notice dated July 05, 2011 sent through SPAD to the Noticee. The said hearing notice was delivered to the Noticee. Mr. Balveer Singh Choudhary, Choudhary & Singhvi, Chartered Accountants, Authorized Representative, (hereinafter referred to as “AR”) appeared on behalf of the Noticee. During the hearing, the AR reiterated the submissions made vide letter dated July 02, 2011 and stated inter alia as under: “I deny the charges leveled against the Noticee in the SCN. The shareholding of the Noticee was 3,81,990 equity shares (6.60% of the total shareholding of the company i.e. 57,90,000 shares) for quarter ending March 2007. On account of conversion of warrants by the company on April 24, 2007 the total shareholding of the company increased to 1,44,78,000 shares due to which the shareholding of the Noticee (3,81,990 shares i.e. 2.64% of the total shareholding of the company) fell below 5%. Noticee had sold 1,00,491 equity shares (0.69% of the total shareholding of the company) of the company in June 2007. Since Noticee had sold less than 2% of equity shares of the company, there is no need to file the disclosure under regulation 13(3) read with regulation 13(5) of SEBI (Prohibition of Insider Trading) Regulations, 1992. The shareholding of the Noticee after the sale is 2,81,499 equity shares (1.95% of the total shareholding of the company) of the company.” 7. During the course of hearing, the undersigned had asked the AR to provide the date on which the Noticee had sold 1,00,491 equity shares of the company. The AR requested 2 days time to furnish the details which was granted. The AR vide email dated July 20, 2011 furnished the following details in regard to the selling of 1,00,491 shares of FDIL: CONSIDERATION OF ISSUES AND FINDINGS 8. I have carefully perused the submissions of the Noticee and the documents available on record. The issues that arise for consideration in the present case are : Date of Holding Transaction No of Share held % of Total Capital held Share sold Percentage of share sold with respect to the total shares of the company Total Shares of the Company 31st March 2007 381990 6.60% 5790000 10th April 2007 50000 0.86 5790000 12th April 2007 491 0.01 5790000 26th June 2007 25000 0.17 14478000 27th June 2007 25000 0.17 14478000 30th June 2007 281499 a. Whether Noticee had violated the provisions of regulation 13(3) read with regulation 13(5) of PIT Regulations? b. Does the violation, if any, attract monetary penalty under section 15A(b) of the SEBI Act? c. If so, what would be the monetary penalty that can be imposed taking into consideration the factors mentioned in section 15J of the SEBI Act? 9. Before moving forward, it is pertinent to refer to the relevant provisions of PIT Regulations, which reads as under:- 13. Disclosure of interest or holding by directors and officers and substantial shareholders in a listed company – Initial Disclosure Initial Disclosure (1) ………………. (2)………………. Continual disclosure (3) Any person who holds more than 5% shares or voting rights in any listed company shall disclose to the company [in Form C] the number of shares or voting rights held and change in shareholding or voting rights, even if such change results in shareholding falling below 5%, if there has been change in such holdings from the last disclosure made under sub- regulation (1) or under this sub-regulation; and such change exceeds 2% of total shareholding or voting rights in the company. (4) …………………. (5) The disclosure mentioned in sub-regulations (3) and (4) shall be made within 4 working days of : (a) the receipts of intimation of allotment of shares, or (b) the acquisition or sale of shares or voting rights, as the case may be. Disclosure by company to stock exchanges (6)……………….. 10. As per regulations 13 (3) & 13(5) of PIT Regulations, any person who is holding more than 5% of shares or voting rights in any listed company has to make the required disclosure to the company if there is any change in shareholding of such person by more than 2% of total shareholding or voting rights in the company, in a prescribed format, within 4 working days from (a) the receipt of intimation of allotment of shares or (b) the acquisition of shares or voting rights, as the case may be. 11. Upon perusal of the documents available on record I find that, the shareholding of the Noticee in FDIL for the quarter ending March 2007 was 3,81,990 shares i.e. 6.60% of total share capital of the company consisting of 57,90,000 shares for the quarter ending March 2007. During June 2007 quarter, i.e. on April 24, 2007, FDIL had converted the warrants into shares which resulted in increase in share capital of FDIL from 57,90,000 shares to 1,44,78,000 shares. Further, Noticee upon selling 1,00,491 shares of FDIL in market during June 2007 quarter and because of increase in share capital of the company on account of conversion of warrants into shares, the shareholding of the Noticee decreased to 2,81,499 shares i.e. 1.94% of total share capital of the company consisting of 1,44,78,000 shares for the quarter ending June 2007. 12. Further, in the instant case, I find that Noticee had No disputed the fact that it had sold 1,00,491 shares of FDIL in market during June 2007 quarter. However, it is observed from the submissions of the Noticee that it had sold 50,000 shares i.e. 0.86% of total share capital of the company consisting of 57,90,000 shares on April 10, 2007, 491 shares i.e. 0.01% of total share capital of the company consisting of 57,90,000 shares on April 12, 2007, 25,000 shares i.e. 0.17% of total share capital of the company consisting of 1,44,78,000 shares (expanded pursuant to conversion of warrants to shares) on June 26, 2007 and 25,000 shares i.e. 0.17% of total share capital of the company consisting of 1,44,78,000 shares on June 27, 2007. Thus, Noticee had sold 50,491 shares i.e. 0.87% of total share capital of the company consisting of 57,90,000 shares before conversion of warrants and 50,000 shares i.e. 0.34% of total share capital of the company consisting of 1,44,78,000 shares after conversion of warrants. 13. Thus, from the above it is observed that Noticee had No sold more than 2% of shares of FDIL at any point of time or in totality. Further, it is observed that the decrease in shareholding of the Noticee by 2% during the quarter ending June 2007 was because of increase in share capital of company on account of conversion of warrants into shares on April 24, 2007 and No due to selling of 1,00,491 shares. 14. Thus, in the light of above, I find merit in the submissions of the Noticee and I am inclined to give benefit of doubt to the Noticee. Therefore, the allegation of violation of regulation 13(3) read with regulation 13(5) of PIT Regulations does No stand established. ORDER 15. In view of the foregoing, the alleged violation of the provisions of regulation 13(3) read with regulation 13(5) of PIT Regulations by the Noticee, as specified in the SCN dated May 27, 2011 does No stand established and the matter is, accordingly, disposed of. 16. In terms of rule 6 of the Rules, copies of this order are sent to the Noticee and also to the Securities and Exchange Board of India. Date: July 29, 2011 PARAG BASU Place: MUMBAI ADJUDICATING OFFICER"
+    },
+    "id": 0
+  }
+]

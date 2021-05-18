@@ -1,0 +1,33 @@
+Def :
+None -   More than 1,00,000 but less than or equal to 5,00,000
+NR :  More than 1,00,000 but less than or equal to 5,00,000
+--------------------------------------------------------
+Def :
+None -   More than 5,00,000 but less than or equal to 10,00,000
+NR :  More than 5,00,000 but less than or equal to 10,00,000
+--------------------------------------------------------
+Def :
+None -   Less than or equal to 10,000
+NR :  Less than or equal to 10,000
+--------------------------------------------------------
+Def :
+None -   More than 10,000 but less than or equal to 1,00,000
+NR :  More than 10,000 but less than or equal to 1,00,000
+--------------------------------------------------------
+fee mentioned : 
+None -  shall be paid by a recognised stock exchange by means of a demand draft drawn in favour of the �Securities and Exchange Board of India�, payable at Mumbai and shall be accompanied by a statement of computation of the fees.
+NR :  ( The fee mentioned in regulation shall be paid by a recognised stock exchange by means of a demand draft drawn in favour of the �Securities and Exchange Board of India�, payable at Mumbai and shall be accompanied by a statement of computation of the fees.
+--------------------------------------------------------
+recognised stock exchange : 
+None -  shall maintain such registers and furnish such returns or information to the Board in respect of its annual turnover, the listing fees collected by it and the fee paid or payable under these regulations, as may be specified by the Board.
+NR :  Every recognised stock exchange shall maintain such registers and furnish such returns or information to the Board in respect of its annual turnover, the listing fees collected by it and the fee paid or payable under these regulations, as may be specified by the Board.
+--------------------------------------------------------
+recognised stock exchange : 
+None -  <context>sub-regulation (1) - recognised stock exchange <context> <context> Every recognised stock exchange shall maintain such registers and furnish such returns or information to the Board in respect of its annual turnover, the listing fees collected by it and the fee paid or payable under these regulations, as may be specified by the Board. - recognised stock exchange<context> shall also be liable to furnish such information or explanations to the Board as may be required by it in respect of its regulated functions and the fee paid or payable under these regulations.
+NR :  Without prejudice to sub-regulation (1), a recognised stock exchange shall also be liable to furnish such information or explanations to the Board as may be required by it in respect of its regulated functions and the fee paid or payable under these regulations.
+--------------------------------------------------------
+recognised stock exchange : 
+None -  if [Where due to the default of the recognised stock exchange] : 
+ <context>regulation 4 - recognised stock exchange <context> shall, without prejudice to any other action that may be taken under the Act, rules or regulations, pay an interest of fifteen per cent per annum on the amount remaining unpaid or belatedly paid or short-paid, for every month of delay or part thereof to the Board. M. DAMODARAN CHAIRMAN
+NR :  Where due to the default of the recognised stock exchange, any fee which was liable to be paid under regulation 4 remains unpaid or is paid belatedly or is short-paid, it shall, without prejudice to any other action that may be taken under the Act, rules or regulations, pay an interest of fifteen per cent per annum on the amount remaining unpaid or belatedly paid or short-paid, for every month of delay or part thereof to the Board. M. DAMODARAN CHAIRMAN
+--------------------------------------------------------

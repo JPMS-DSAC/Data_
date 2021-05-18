@@ -1,0 +1,1347 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612760125,
+        "id": 1,
+        "lead_time": 1884.09,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "W7I9TXIGOo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 882,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 516,
+              "text": "Securities and Exchange Board of India (hereinafter referred to as ‘SEBI’) observed that Indianivesh Commodities Private Limited (hereinafter referred to as 'Noticee INCPL') failed to make certain disclosures upon change in its shareholding in Indianivesh Ltd (hereinafter referred to as ‘Company INL') during the period between July 10, 2012 to December 31 of 2012."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "f8Gn7qU1tX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1774,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 922,
+              "text": "I was appointed as Adjudicating Officer under Section 15 I of the Securities and Exchange Board of India Act, 1992 (hereinafter referred to as ‘SEBI Act’) read with Rule 3 of Securities and Exchange Board of India (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (hereinafter referred to as ‘Adjudication Rules’) to inquire into and adjudge under Section 15A (b) of the SEBI Act for the violations of Regulation 13 (1) & 13 (3) of the SEBI (Prohibition of Insider Trading) Regulations, 1992 (hereinafter referred to as ‘PIT Regulations’) and Regulations 29 (1), (2) & (3) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 (hereinafter referred to as ‘SAST Regulations’) alleged to have been committed by the noticee and the same was communicated vide communiqué dated 06.08.2013. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "muG9XeLKU-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2295,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 1814,
+              "text": "Show Cause Notice No EAD-3 DRK JP 20836 2013 dated August 21, 2013 (herein after referred to as 'SCN') was served upon the Noticee through Registered Post Acknowledgement Due under Rule 4 (1) of the Adjudication Rules, to show cause as to why an inquiry be No held against it and penalty be No imposed under Section 15 A (b) of the SEBI Act for the alleged violations of Regulations 13 (1) & 13 (3) of the PIT Regulations and Regulations 29 (1), (2) & (3) of the SAST Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "JJfkR8Nx2y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2654,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 2295,
+              "text": "The allegations leveled against the Noticee in the SCN are as under: (a) As per the requirement under aforesaid regulations of SAST Regulations and PIT Regulations, any acquirer who acquires shares or voting rights in a target company, aggregating to 5% or more, shall disclose within two days, the aggregate shareholding to the stock exchange target company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "494S0AORT1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2959,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 2655,
+              "text": "It is also required under said SAST Regulations and PIT Regulations that such acquirer who holds five per cent or more of the shares or voting rights in a target company, shall also disclose every further acquisition or disposal amounting to 2% or more of the shares voting rights in such target company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ojsDxaiSrX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3296,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 2960,
+              "text": "(b) On July 10 & 19 of 2012, September 28, 2012, October 01, 2012 and December 31, 2012, Noticee had acquired 5% or more shares voting right and also further disposed off 2% or more shares voting right in the Company, without making any disclosure about its shareholding as required under the said SAST Regulations and PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4UgwLNO1r7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3544,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 3296,
+              "text": "The list of details of such acquisition disposal of shares by the Noticee (indicating the details of dates, number of shares acquired disposed off, percentage of such holding in the Company, alleged violations etc.) was enclosed along with the SCN."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fDwQPN8FML",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3817,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 3545,
+              "text": "(c) In view of No disclosure of shareholding by the Noticee upon said acquisition disposal of shares, it was alleged that the Noticee had violated the provisions of Regulation 13 (1) & 13 (3) of the PIT Regulations and Regulation 29 (1), (2) & (3) of the SAST Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3FadIUPWbg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4255,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 3818,
+              "text": "The provisions of laws are reproduced hereunder: PIT Regulations, 1992 13. (1) Any person who holds more than 5% shares or voting rights in any listed company shall disclose to the company in Form A, the number of shares or voting rights held by such person, on becoming such holder, within 2 working days] of :— (a) the receipt of intimation of allotment of shares; or (b) the acquisition of shares or voting rights, as the case may be."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "nIgkTazGpB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4740,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 4255,
+              "text": " (3) Any person who holds more than 5% shares for voting rights in any listed company shall disclose to the company in Form C the number of shares or voting rights held and change in shareholding or voting rights, even if such change results in shareholding falling below 5%, if there has been change in such holdings from the last disclosure made under sub- regulation (1) or under this sub-regulation; and such change exceeds 2% of total shareholding or voting rights in the company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "w91WnbVQu7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5010,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 4740,
+              "text": " (5) The disclosure mentioned in sub-regulations (3), (4) and (4A) shall be made within two working days of : (a) the receipts of intimation of allotment of shares, or (b) the acquisition or sale of shares or voting rights, as the case may be. SAST Regulations, 2011 29."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FKBAFxHh4n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5415,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5010,
+              "text": "(1) Any acquirer who acquires shares or voting rights in a target company which taken together with shares or voting rights, if any, held by him and by persons acting in concert with him in such target company, aggregating to five per cent or more of the shares of such target company, shall disclose their aggregate shareholding and voting rights in such target company in such form as may be specified. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Wicry8lM9Z",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5808,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5415,
+              "text": "(2) Any acquirer, who together with persons acting in concert with him, holds shares or voting rights entitling them to five per cent or more of the shares or voting rights in a target company, shall disclose every acquisition or disposal of shares of such target company representing two per cent or more of the shares or voting rights in such target company in such form as may be specified."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4B_IFYL4wy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6178,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5808,
+              "text": " (3) The disclosures required under sub-regulation (1) and sub-regulation (2) shall be made within two working days of the receipt of intimation of allotment of shares, or the acquisition of shares or voting rights in the target company to,— (a) every stock exchange where the shares of the target company are listed; and (b) the target company at its registered office."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "VTcmTegxpO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6297,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6182,
+              "text": "Noticee submitted its reply dated September 11, 2013 towards the SCN and desired a personal hearing in the matter. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZOUevAbelt",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6489,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6297,
+              "text": "Thereafter, for the purpose of inquiry and as requested by the Noticee, an opportunity of hearing was provided to the Noticee on October 29, 2013 vide notice of hearing dated October 09, 2013."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RlFx26p9dO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6780,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6490,
+              "text": "In respect to said notice of hearing, the Noticee vide an e-mail dated October 24, 2013 (from email ID: jinesh@indianivesh.in) confirmed the name of two officials viz. Mr. Rajesh Nuwal (Director of the Noticee) and Mr. Jinesh Doshi (Company Secretary of the Noticee) to attend the hearing. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "OuS3Y_rPt5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6903,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6780,
+              "text": "However, the Noticee failed to appear before the undersigned on the scheduled date of hearing without providing any reason."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Ott9ZkemZh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7043,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6904,
+              "text": "Thereafter, a final opportunity of hearing was provided to the Noticee on December 27, 2013 vide notice of hearing dated December 12, 2013."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fb4nN6v3XO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7236,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 7047,
+              "text": "Hearing on December 27, 2013 was attended by the authorized representative of the Noticee viz. Mr. Jinesh Doshi (Company Secretary of Noticee) and the submissions made by him were recorded."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dE3U4u8Yp1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7705,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7237,
+              "text": "He also assured to submit original Bank statement showing payment of dividend to the clients, proof showing \"other reasons' for transfer of shares in Noticee's Account from the clients involved in the present proceedings and also from other clients, the Circulars of Exchanges SEBI on the issue of transfer of dividends within a period of 90 days, proof that BSE and NSE has approved the shares of Indianivesh Ltd for the purpose of keeping them as margin requirement."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "-y0LtE8tBx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7930,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 7706,
+              "text": "During the hearing, authorized representative assured to submit all aforesaid documents within a week along with additional reply briefing the points in respect of each annexures documents which were enclosed with its reply."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "etvg3WEiYe",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8256,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 7934,
+              "text": "Noticee filed its additional reply dated January 03 and January 27 of 2014 and submitted almost all the documents as assured during the hearing (except the original Bank statement and Circulars of Exchanges SEBI but submitted the ledger account details of Noticee related to two clients and some extracts of NSE Handbook)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "w-8IanKA7i",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8396,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 8257,
+              "text": "Thereafter, certain clarifications explanations were sought from the concerned department of SEBI in respect to the client margin account. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "duDbi8OZKm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8778,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 8399,
+              "text": "Vide office note dated 22.07.2014, department opined that \"..notwithstanding INCPL's contentions regarding bebeficial ownership of shares belonging to its clients, as the demat account is No a designated account for housing client's shares towards margin, it is felt that a disclosure should have been made by INCPL with respect to transaction of shares beyond specified limits.\""
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CDOz8x5phn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9069,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8782,
+              "text": "The main submissions made by the Noticee under its aforesaid reply additional reply and during the course of hearing, are produced hereunder: • We had carried out our client's trade in commodities during the period July, 2012 to December, 2012 in their names codes at the relevant time. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xgAxG4KsqA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9158,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9069,
+              "text": "We took the ‘Know Your Client Form’ and executed the necessary client - member agreement."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ToM9tkzLDR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9254,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9159,
+              "text": "The clients’ transaction in commodities were normal and they always honoured their obligations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7yJN5iVl3r",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9344,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9255,
+              "text": "We had applied normal risk containment measures as per our standard operating procedure. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8VyF_gO2j1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9471,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9344,
+              "text": "We thus acted as an agent of our clients and executed their orders in the usual course of business on MCX as well as on NCDEX ."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yi8srE-vA5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9762,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9472,
+              "text": "• The shares whose particulars have been furnished in Annexure II to the SCN, were transferred by our two clients viz. Shri Sanwara Commodities Private Limited and Union Commodities Private Limited during June 2012 and December 2012 into our demat account towards their margin requirements."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "B4RhxF33it",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9939,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9763,
+              "text": "They paid margins in the form of shares as well as in the form of cheques and such margins are required to be deposited for availing exposure limits for trading in commodities."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ArluswiO4c",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10132,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9939,
+              "text": " • The aforesaid clients transferred their shares through off-market and they have mentioned reason for transfer of shares to our demat account as 'transfer to margin A c' in their demat slips."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "a8vvW0x5NY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10249,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10132,
+              "text": " Hence, the purpose or intention or objective of transfer of shares to our demat account is clear from the beginning."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "H51y5wKhS6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10432,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10249,
+              "text": " It is submitted that as per requirements, while doing off market transactions, the reasons of such transfer are mandatorily required to be mentioned in the Delivery Instruction Slip."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5JUFoJ-P6F",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10525,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10433,
+              "text": "Hence, the clients had written it as margin requirement while transferring into our account."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZzdagPWBfK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10673,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10525,
+              "text": " • The confusion and mis-appreciation has happened on account of main title to our demat account in which our name and the word 'margin' is missing."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9RquMRS00C",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10881,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10674,
+              "text": "We cannot open deamt account with the word 'margin' therein because the name of the demat account holder should be the exact name as stated in Permanent Account Number (PAN) issued by Income Tax authorities."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hOYxfog2fJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11039,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10882,
+              "text": "• We submit that provision of respective Exchange(s) rule require clients to deposit margins in respect of their buy sell in future contracts in commodities."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gPegUD59as",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11223,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11039,
+              "text": " Such margins can be deposited with trading members in the form of cash, fixed deposit, credit balance in ledger account, bank guarantee, approved securities, warehouse receipts, etc. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FUBH4r54X4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11310,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11223,
+              "text": "• We clarify that we are having demat account in our name with number 1204940000021315."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "04sOdf8RHI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11426,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11311,
+              "text": "This account is meant and exclusively used to receive (credit), shares from commodity clients as deposit of margin."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "jbRwjyxcss",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11494,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11426,
+              "text": " This is so stated in the Delivery Instruction Slips by the clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZGNCmIl3bL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11620,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11495,
+              "text": "Hence, beneficial ownership of shares lying in this account belonged to the clients (who transferred their shares as margin)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "kNA-UQj4Ye",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11773,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11621,
+              "text": "• We clarify that beneficial ownership of shares of the Company which were transferred as margin in our demat account belonged to our aforesaid clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dJDhqXd3lA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11868,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11774,
+              "text": "Consequently, dividend declared and paid by the Company too belonged to our aforesaid clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ht8oo_vUwF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12005,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11869,
+              "text": "Dividend declared by the Company has been paid credited to the aforesaid client's ledger accounts immediately upon receipts of the same."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CPVvzkoWU4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12190,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12005,
+              "text": " • Hence, the shares received in our demat account were held in trust for clients, no actual real effective transfer of 'beneficial ownership' was intended and none was passed on to us."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hzZiPYsMuV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12361,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12190,
+              "text": " Shares received in our demat account were No dealt with by us in any manner and they remained in the account at all times till they were returned to the client concerned."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SlI5jppPA-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12535,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12362,
+              "text": "• We neither paid any consideration when shares were deposited received in our account No did we receive any consideration when we returned shared to the clients concerned. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QcyFU3r1nS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12808,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12535,
+              "text": "• Had we made disclosures under the above stated provisions of PIT and Takeover Regulations, such disclosures would have been incorrect, untrue, wrong and false and consequently we would have been accused of misleading the investors, and probably visited with penal action."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qnBzG2BxcI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12927,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12809,
+              "text": "There are several mitigating factors which are as under: i. The only monetary gain derived by us was brokerage income."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CdNGNTQU0M",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12989,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12928,
+              "text": "ii. We had followed 'know your client' regime and philosophy."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bNqc0ZayIt",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13070,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12990,
+              "text": "iii. We collect margins in the form as prescribed by the respective Exchange(s)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "uhGaeetXMQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13128,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 13071,
+              "text": "iv. We have No violated any substantive provision of law."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "f_wMPGivKo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13222,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 13129,
+              "text": "v. We are No guilty of conduct which is contumacious disregard of law and in defiance of law."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Or_mjKfLFZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13405,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 13223,
+              "text": "• In the circumstances, since our reply demolishes the allegations against us, it is humbly prayed that there is no case and there is no justification in law for any further action. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "N2RQFZj7ie",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13791,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 13408,
+              "text": "Noticee vide its letter dated 23.09.2014 submitted the following to further substantiate his claim: • Dividend declared by Indianivesh Limited has been credited to the client’s ledger accounts immediately upon receipt of the same which implies that the beneficial ownership of shares of Indianivesh Limited, deposited as margin in our demat account belonged to our aforesaid clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "R-n2CHN5e5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13965,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 13792,
+              "text": "• Dividend on the shares of Indianivesh Limited was received on 11.10.2012 and the credit of the same was given on 16.10.2012 in the ledger account of the respective clients"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2wZgY9DfCu",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14270,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 13966,
+              "text": "• Further, Union Commodities Private Limited had placed amongst other, the shares of Provogue India Limited as margin and Dividend declared by Provogue India Limited was received by us on 5.10.2012 and the credit of same was given on 16.10.2012 in the ledger account of Union Commodities Private Limited."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "-H_EV-THpg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14774,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 14271,
+              "text": "• We further would like to highlight that the ledger account of Shri Sanwaria Commodities Private Limited was settled by the Client (NIL ledger balance) on 30.3.2013 by payment of cheque amounting to 25,15,169 - and that of Union Commodities Private Limited was settled by the Client (NIL ledger balance) on 25.03.2013 by payment of cheque amounting to 3,77,159.89 - which itself implies that credit entry of dividend passed in the ledger account of the respective clients ultimately paid to the client."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "TJHbm6e-w3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15162,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 14775,
+              "text": "It is pertinent to note that we had received letter from SEBI in August 2013 whereas ledger of both the aforesaid client was settled in the F.Y. 2012- 2013 itself by the Client whereby all the debit as well as credit entries passed in the ledger statement was effected meaning that the dividend credit effected in the ledger account of the Client’s was also actually given to the Client."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "p2GPpYyodQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15383,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 15163,
+              "text": "• We further submit that dividends received on other securities lying in account no.120494000021315 as margin belonging to other clients were also credited to the ledger accounts of those respective Clients immediately. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "wM-hjUfUYl",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15817,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 15383,
+              "text": "• From the aforesaid i.e. credit of dividend to the beneficial owner by Indianivesh Commodities Private Limited clearly showcases that it does No own any of the shares transferred off market by any of its Clients in the account No 12049400 00021315 and the shares were lying as margin for those Clients and actual beneficial owner of those shares are those respective Clients themselves and No Indianivesh Commodities Private Limited."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gjpDTY0BH6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16026,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 15818,
+              "text": "• Demat a c in our name with number 12049400 00021315 with DP Indianivesh Securities Private Limited is meant and exclusively used for to receive (credit), shares from commodity clients as deposit of margin. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CgTC7Rn49-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16110,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 16026,
+              "text": "Hence, beneficial ownership of shares lying in this account belonged to the clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hhn-P_UKl5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16253,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 16111,
+              "text": "The nomenclature of the same had been modified immediately upon error came to our notice and it clearly stated that its Client Margin Account."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "o9GDE2ZN1w",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16416,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 16254,
+              "text": "• Hence, the shares received returned lying though in our demat account did No belong to us – we did No pay any consideration No did we receive any consideration."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "VD2qn_caqv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16681,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 16417,
+              "text": "• We submit that had we made disclosures under the provisions of PIT and Takeover code, such disclosures would have incorrect, untrue, wrong and false and consequently we would have been accused of misleading the investors, and probably visited with penal action. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dIYZQ3uz8z",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16895,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 16681,
+              "text": "Our No making disclosures under the aforesaid provisions is in line with and as per true facts regarding the ownership of shares which at all times belonged to the clients who transferred them in our demat account."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "VbWUiN3XGr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17074,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 16896,
+              "text": "• We crave leave to file additional documents and make further submissions, if required and shall be personally present to provide clarifications, if any, required in this regard"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "boedUS4KAr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17348,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 17079,
+              "text": "After examining Noticee's aforesaid reply, certain clarifications explanations had to be sought from the Noticee, therefore, vide hearing notice dated 09.10.2014, Noticee was granted an opportunity of hearing before the undersigned on 30.10.2014 at SEBI Bhavan, Mumbai."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "kYeNatC2BQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17532,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 17353,
+              "text": "Vide its letter dated 30.10.2014, Noticee authorised Mr. Jinesh Doshi, Company Secretary (Group) and Mr. Shatrughan Sharma (Authorised Representatives) to appear for the hearing. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "AbmIlQYfIU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17723,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 17532,
+              "text": "During the personal hearing the Authorised Representatives (ARs) submitted that the account was inadvertently No designated as margin account but the same has been rectified since 12.09.2014."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2WZy21wzeq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17892,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 17724,
+              "text": "The ARs reiterated that when the shares were transferred in and out of their DP account, no consideration was paid by the Noticee as the shares belonged to the clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2FcrypziIm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17967,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 17892,
+              "text": " Dividends accrued on those shares were paid by the Noticee to the clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9ljGswK_rI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18078,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17968,
+              "text": "Proof of the same in the form of ledger statement and bank account has already been submitted by the Noticee. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7AfvS5LnoY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18174,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18078,
+              "text": "The ARs have confirmed that there was no proprietary trading in commodities in the said account."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "unLADJ1wAd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18296,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18175,
+              "text": "Further the Noticee has confirmed that it has a DP account bearing number 21315 for clients and 15624 as its own account."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Xp1P7ESMwk",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18628,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18301,
+              "text": "Noticee vide its letter dated 10.11.2014 made further submissions by submitting letters from Union Commodities Pvt Ltd and Shri Sanwaria Commodities Pvt Ltd confirming that they had transferred the said shares in margin account and neither consideration was flown in or out while transferring the shares in the margin account. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "A0a2TGJ0E2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18785,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 18671,
+              "text": "I have taken into consideration the facts and circumstances of the case and the material made available on record."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Vmqad1RBMF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19076,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18790,
+              "text": "To attract the provision of Regulation 29 (1) of SAST Regulations, following two conditions have to be satisfied: • There has to be an acquirer who acquires shares or voting rights in the target company; • Acquisition should aggregate to 5% or more of the shares of such target company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1q-uRCHw7c",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19449,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19081,
+              "text": "To attract the provision of Regulation 29 (2) of SAST Regulations, following two conditions have to be satisfied: • Acquirer should hold shares or voting rights in the target company entitling him to exercise 5% or more of shares or voting rights; • There should be change in the shareholding exceeding 2% of total shareholding or voting rights in the target company. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "x30q9taxft",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19704,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 19453,
+              "text": "Under Regulation 13 (1) of PIT Regulations, disclosure has to be made within 2 working days of receipt of intimation of allotment of shares aggregating to more than 5% shares or voting rights or on acquisition of more than 5% shares or voting rights. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xE5F5Th2sB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19995,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 19708,
+              "text": "Under Regulation 13 (3) of PIT Regulations, disclosure has to be made by the person who holds more than 5% shares or voting rights and there is a change in the shareholding resulting in shareholding falling below 5% provided such change exceeds 2% of total shareholding or voting rights."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fVilo7q1cP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20347,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20000,
+              "text": "From the above it is noted that obligation to make disclosures under the provisions contained in SAST Regulations as also under PIT Regulations would arise as soon as there is acquisition of shares change in shareholding of a person holding more than 5% shares or voting rights, in excess of the limits prescribed under the respective Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "YdJ7oqEUYG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20662,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20352,
+              "text": "In the given fact situation, noticee has submitted that it has neither acquired shares No is the beneficial owner of the shares of INL but had received those shares towards margin requirement from its clients and to support the same the noticee has submitted evidence in the form of Delivery Instruction Slips."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "TZmWXdeHRd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20952,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20663,
+              "text": "Further, the noticee has also submitted that dividends accrued on those shares were transferred to the clients which shows that the clients were the beneficial owner of the said shares and the noticee has submitted copy of ledger account of respective clients in support of its submission."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fvNUE-tp1f",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21280,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20953,
+              "text": "In addition to it, noticee vide its letter dated 10.11.2014 submitted letters from its clients viz., Union Commodities Pvt Ltd and Sanwaria Commodities Pvt Ltd confirming that they had transferred the shares of INL in Margin Account and neither consideration was flown in or out while transferring the shares in Margin Account."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "iT5HmO60H8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21523,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 21281,
+              "text": "In the given background, noticee's submission that making disclosures under the aforesaid SAST Regulations and PIT Regulations would tantamount to wrong false disclosures as the noticee is No the beneficial owner of the shares is acceptable. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "wxtsLQfljs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21644,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 21527,
+              "text": "It may however be added that noticee has a regular corporate BO account and does No have \"margin account\" sub status."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "OPLdwX0VGI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21902,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 21645,
+              "text": "For noticee's aforesaid failure to designate the demat account for housing client's shares towards margin as \"margin account\", it is difficult to hold noticee liable for No disclosure of shareholding under the aforesaid SAST Regulations and PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pxeX3oFzev",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22166,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 21907,
+              "text": "In view of the above facts and circumstances of the case and the material made available on record, it is difficult to conclude that the noticee has violated Regulation 13 (1) & 13 (3) of PIT Regulations and Regulations 29 (1), (2) & (3) of SAST Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "tPoklWQ4Kb",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22672,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 22176,
+              "text": "Considering the facts and circumstances and the material made available on record, the alleged violation of Regulations 13 (1) & 13 (3) of the SEBI (Prohibition of Insider Trading) Regulations, 1992 and Regulations 29 (1), (2) & (3) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 are difficult to establish against Indianivesh Commodities Private Limited in the present adjudication proceedings and accordingly the present adjudication proceedings is disposed of."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Q5DXnsIdNK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23086,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 22677,
+              "text": "In terms of the provisions of Rule 6 of the Securities and Exchange Board of India (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules 1995, copies of this order are being sent to Indianivesh Commodities Private Limited having office at 601 602, \"Sukh Sagar\" N.S.Patkar Marg, Girgaum Chowpatty, Mumbai – 400 007 and also to the Securities and Exchange Board of India, Mumbai. "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA [ADJUDICATION ORDER No ISD IL ICPL AO DRK-AKS EAD3-707 32- 2015] UNDER SECTION 15 I OF SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 READ WITH RULE 5(1) OF SECURITIES AND EXCHANGE BOARD OF INDIA (PROCEDURE FOR HOLDING INQUIRY AND IMPOSING PENALTIES BY ADJUDICATING OFFICER) RULES, 1995 In respect of: Indianivesh Commodities Pvt Ltd 601 602, \"Sukh Sagar\" N.S.Patkar Marg, Girgaum Chowpatty, Mumbai – 400 007 PAN: AABCT9238P FACTS IN BRIEF 1. Securities and Exchange Board of India (hereinafter referred to as ‘SEBI’) observed that Indianivesh Commodities Private Limited (hereinafter referred to as 'Noticee INCPL') failed to make certain disclosures upon change in its shareholding in Indianivesh Ltd (hereinafter referred to as ‘Company INL') during the period between July 10, 2012 to December 31 of 2012. Appointment of Adjudicating Officer 2. I was appointed as Adjudicating Officer under Section 15 I of the Securities and Exchange Board of India Act, 1992 (hereinafter referred to as ‘SEBI Act’) read with Rule 3 of Securities and Exchange Board of India (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (hereinafter referred to as ‘Adjudication Rules’) to inquire into and adjudge under Section 15A (b) of the SEBI Act for the violations of Regulation 13 (1) & 13 (3) of the SEBI (Prohibition of Insider Trading) Regulations, 1992 (hereinafter referred to as ‘PIT Regulations’) and Regulations 29 (1), (2) & (3) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 (hereinafter referred to as ‘SAST Regulations’) alleged to have been committed by the noticee and the same was communicated vide communiqué dated 06.08.2013. SHOW CAUSE NOTICE, REPLY AND HEARING 3. Show Cause Notice No EAD-3 DRK JP 20836 2013 dated August 21, 2013 (herein after referred to as 'SCN') was served upon the Noticee through Registered Post Acknowledgement Due under Rule 4 (1) of the Adjudication Rules, to show cause as to why an inquiry be No held against it and penalty be No imposed under Section 15 A (b) of the SEBI Act for the alleged violations of Regulations 13 (1) & 13 (3) of the PIT Regulations and Regulations 29 (1), (2) & (3) of the SAST Regulations. The allegations leveled against the Noticee in the SCN are as under: (a) As per the requirement under aforesaid regulations of SAST Regulations and PIT Regulations, any acquirer who acquires shares or voting rights in a target company, aggregating to 5% or more, shall disclose within two days, the aggregate shareholding to the stock exchange target company. It is also required under said SAST Regulations and PIT Regulations that such acquirer who holds five per cent or more of the shares or voting rights in a target company, shall also disclose every further acquisition or disposal amounting to 2% or more of the shares voting rights in such target company. (b) On July 10 & 19 of 2012, September 28, 2012, October 01, 2012 and December 31, 2012, Noticee had acquired 5% or more shares voting right and also further disposed off 2% or more shares voting right in the Company, without making any disclosure about its shareholding as required under the said SAST Regulations and PIT Regulations. The list of details of such acquisition disposal of shares by the Noticee (indicating the details of dates, number of shares acquired disposed off, percentage of such holding in the Company, alleged violations etc.) was enclosed along with the SCN. (c) In view of No disclosure of shareholding by the Noticee upon said acquisition disposal of shares, it was alleged that the Noticee had violated the provisions of Regulation 13 (1) & 13 (3) of the PIT Regulations and Regulation 29 (1), (2) & (3) of the SAST Regulations. The provisions of laws are reproduced hereunder: PIT Regulations, 1992 13. (1) Any person who holds more than 5% shares or voting rights in any listed company shall disclose to the company in Form A, the number of shares or voting rights held by such person, on becoming such holder, within 2 working days] of :— (a) the receipt of intimation of allotment of shares; or (b) the acquisition of shares or voting rights, as the case may be. (3) Any person who holds more than 5% shares for voting rights in any listed company shall disclose to the company in Form C the number of shares or voting rights held and change in shareholding or voting rights, even if such change results in shareholding falling below 5%, if there has been change in such holdings from the last disclosure made under sub- regulation (1) or under this sub-regulation; and such change exceeds 2% of total shareholding or voting rights in the company. (5) The disclosure mentioned in sub-regulations (3), (4) and (4A) shall be made within two working days of : (a) the receipts of intimation of allotment of shares, or (b) the acquisition or sale of shares or voting rights, as the case may be. SAST Regulations, 2011 29.(1) Any acquirer who acquires shares or voting rights in a target company which taken together with shares or voting rights, if any, held by him and by persons acting in concert with him in such target company, aggregating to five per cent or more of the shares of such target company, shall disclose their aggregate shareholding and voting rights in such target company in such form as may be specified. (2) Any acquirer, who together with persons acting in concert with him, holds shares or voting rights entitling them to five per cent or more of the shares or voting rights in a target company, shall disclose every acquisition or disposal of shares of such target company representing two per cent or more of the shares or voting rights in such target company in such form as may be specified. (3) The disclosures required under sub-regulation (1) and sub-regulation (2) shall be made within two working days of the receipt of intimation of allotment of shares, or the acquisition of shares or voting rights in the target company to,— (a) every stock exchange where the shares of the target company are listed; and (b) the target company at its registered office. 4. Noticee submitted its reply dated September 11, 2013 towards the SCN and desired a personal hearing in the matter. Thereafter, for the purpose of inquiry and as requested by the Noticee, an opportunity of hearing was provided to the Noticee on October 29, 2013 vide notice of hearing dated October 09, 2013. In respect to said notice of hearing, the Noticee vide an e-mail dated October 24, 2013 (from email ID: jinesh@indianivesh.in) confirmed the name of two officials viz. Mr. Rajesh Nuwal (Director of the Noticee) and Mr. Jinesh Doshi (Company Secretary of the Noticee) to attend the hearing. However, the Noticee failed to appear before the undersigned on the scheduled date of hearing without providing any reason. Thereafter, a final opportunity of hearing was provided to the Noticee on December 27, 2013 vide notice of hearing dated December 12, 2013. 5. Hearing on December 27, 2013 was attended by the authorized representative of the Noticee viz. Mr. Jinesh Doshi (Company Secretary of Noticee) and the submissions made by him were recorded. He also assured to submit original Bank statement showing payment of dividend to the clients, proof showing \"other reasons' for transfer of shares in Noticee's Account from the clients involved in the present proceedings and also from other clients, the Circulars of Exchanges SEBI on the issue of transfer of dividends within a period of 90 days, proof that BSE and NSE has approved the shares of Indianivesh Ltd for the purpose of keeping them as margin requirement. During the hearing, authorized representative assured to submit all aforesaid documents within a week along with additional reply briefing the points in respect of each annexures documents which were enclosed with its reply. 6. Noticee filed its additional reply dated January 03 and January 27 of 2014 and submitted almost all the documents as assured during the hearing (except the original Bank statement and Circulars of Exchanges SEBI but submitted the ledger account details of Noticee related to two clients and some extracts of NSE Handbook). Thereafter, certain clarifications explanations were sought from the concerned department of SEBI in respect to the client margin account. 7. Vide office note dated 22.07.2014, department opined that \"..notwithstanding INCPL's contentions regarding bebeficial ownership of shares belonging to its clients, as the demat account is No a designated account for housing client's shares towards margin, it is felt that a disclosure should have been made by INCPL with respect to transaction of shares beyond specified limits.\" 8. The main submissions made by the Noticee under its aforesaid reply additional reply and during the course of hearing, are produced hereunder: • We had carried out our client's trade in commodities during the period July, 2012 to December, 2012 in their names codes at the relevant time. We took the ‘Know Your Client Form’ and executed the necessary client - member agreement. The clients’ transaction in commodities were normal and they always honoured their obligations. We had applied normal risk containment measures as per our standard operating procedure. We thus acted as an agent of our clients and executed their orders in the usual course of business on MCX as well as on NCDEX . • The shares whose particulars have been furnished in Annexure II to the SCN, were transferred by our two clients viz. Shri Sanwara Commodities Private Limited and Union Commodities Private Limited during June 2012 and December 2012 into our demat account towards their margin requirements. They paid margins in the form of shares as well as in the form of cheques and such margins are required to be deposited for availing exposure limits for trading in commodities. • The aforesaid clients transferred their shares through off-market and they have mentioned reason for transfer of shares to our demat account as 'transfer to margin A c' in their demat slips. Hence, the purpose or intention or objective of transfer of shares to our demat account is clear from the beginning. It is submitted that as per requirements, while doing off market transactions, the reasons of such transfer are mandatorily required to be mentioned in the Delivery Instruction Slip. Hence, the clients had written it as margin requirement while transferring into our account. • The confusion and mis-appreciation has happened on account of main title to our demat account in which our name and the word 'margin' is missing. We cannot open deamt account with the word 'margin' therein because the name of the demat account holder should be the exact name as stated in Permanent Account Number (PAN) issued by Income Tax authorities. • We submit that provision of respective Exchange(s) rule require clients to deposit margins in respect of their buy sell in future contracts in commodities. Such margins can be deposited with trading members in the form of cash, fixed deposit, credit balance in ledger account, bank guarantee, approved securities, warehouse receipts, etc. • We clarify that we are having demat account in our name with number 1204940000021315. This account is meant and exclusively used to receive (credit), shares from commodity clients as deposit of margin. This is so stated in the Delivery Instruction Slips by the clients. Hence, beneficial ownership of shares lying in this account belonged to the clients (who transferred their shares as margin). • We clarify that beneficial ownership of shares of the Company which were transferred as margin in our demat account belonged to our aforesaid clients. Consequently, dividend declared and paid by the Company too belonged to our aforesaid clients. Dividend declared by the Company has been paid credited to the aforesaid client's ledger accounts immediately upon receipts of the same. • Hence, the shares received in our demat account were held in trust for clients, no actual real effective transfer of 'beneficial ownership' was intended and none was passed on to us. Shares received in our demat account were No dealt with by us in any manner and they remained in the account at all times till they were returned to the client concerned. • We neither paid any consideration when shares were deposited received in our account No did we receive any consideration when we returned shared to the clients concerned. • Had we made disclosures under the above stated provisions of PIT and Takeover Regulations, such disclosures would have been incorrect, untrue, wrong and false and consequently we would have been accused of misleading the investors, and probably visited with penal action. There are several mitigating factors which are as under: i. The only monetary gain derived by us was brokerage income. ii. We had followed 'know your client' regime and philosophy. iii. We collect margins in the form as prescribed by the respective Exchange(s). iv. We have No violated any substantive provision of law. v. We are No guilty of conduct which is contumacious disregard of law and in defiance of law. • In the circumstances, since our reply demolishes the allegations against us, it is humbly prayed that there is no case and there is no justification in law for any further action. 9. Noticee vide its letter dated 23.09.2014 submitted the following to further substantiate his claim: • Dividend declared by Indianivesh Limited has been credited to the client’s ledger accounts immediately upon receipt of the same which implies that the beneficial ownership of shares of Indianivesh Limited, deposited as margin in our demat account belonged to our aforesaid clients. • Dividend on the shares of Indianivesh Limited was received on 11.10.2012 and the credit of the same was given on 16.10.2012 in the ledger account of the respective clients • Further, Union Commodities Private Limited had placed amongst other, the shares of Provogue India Limited as margin and Dividend declared by Provogue India Limited was received by us on 5.10.2012 and the credit of same was given on 16.10.2012 in the ledger account of Union Commodities Private Limited. • We further would like to highlight that the ledger account of Shri Sanwaria Commodities Private Limited was settled by the Client (NIL ledger balance) on 30.3.2013 by payment of cheque amounting to 25,15,169 - and that of Union Commodities Private Limited was settled by the Client (NIL ledger balance) on 25.03.2013 by payment of cheque amounting to 3,77,159.89 - which itself implies that credit entry of dividend passed in the ledger account of the respective clients ultimately paid to the client. It is pertinent to note that we had received letter from SEBI in August 2013 whereas ledger of both the aforesaid client was settled in the F.Y. 2012- 2013 itself by the Client whereby all the debit as well as credit entries passed in the ledger statement was effected meaning that the dividend credit effected in the ledger account of the Client’s was also actually given to the Client. • We further submit that dividends received on other securities lying in account no.120494000021315 as margin belonging to other clients were also credited to the ledger accounts of those respective Clients immediately. • From the aforesaid i.e. credit of dividend to the beneficial owner by Indianivesh Commodities Private Limited clearly showcases that it does No own any of the shares transferred off market by any of its Clients in the account No 12049400 00021315 and the shares were lying as margin for those Clients and actual beneficial owner of those shares are those respective Clients themselves and No Indianivesh Commodities Private Limited. • Demat a c in our name with number 12049400 00021315 with DP Indianivesh Securities Private Limited is meant and exclusively used for to receive (credit), shares from commodity clients as deposit of margin. Hence, beneficial ownership of shares lying in this account belonged to the clients. The nomenclature of the same had been modified immediately upon error came to our notice and it clearly stated that its Client Margin Account. • Hence, the shares received returned lying though in our demat account did No belong to us – we did No pay any consideration No did we receive any consideration. • We submit that had we made disclosures under the provisions of PIT and Takeover code, such disclosures would have incorrect, untrue, wrong and false and consequently we would have been accused of misleading the investors, and probably visited with penal action. Our No making disclosures under the aforesaid provisions is in line with and as per true facts regarding the ownership of shares which at all times belonged to the clients who transferred them in our demat account. • We crave leave to file additional documents and make further submissions, if required and shall be personally present to provide clarifications, if any, required in this regard 10. After examining Noticee's aforesaid reply, certain clarifications explanations had to be sought from the Noticee, therefore, vide hearing notice dated 09.10.2014, Noticee was granted an opportunity of hearing before the undersigned on 30.10.2014 at SEBI Bhavan, Mumbai. 11. Vide its letter dated 30.10.2014, Noticee authorised Mr. Jinesh Doshi, Company Secretary (Group) and Mr. Shatrughan Sharma (Authorised Representatives) to appear for the hearing. During the personal hearing the Authorised Representatives (ARs) submitted that the account was inadvertently No designated as margin account but the same has been rectified since 12.09.2014. The ARs reiterated that when the shares were transferred in and out of their DP account, no consideration was paid by the Noticee as the shares belonged to the clients. Dividends accrued on those shares were paid by the Noticee to the clients. Proof of the same in the form of ledger statement and bank account has already been submitted by the Noticee. The ARs have confirmed that there was no proprietary trading in commodities in the said account. Further the Noticee has confirmed that it has a DP account bearing number 21315 for clients and 15624 as its own account. 12. Noticee vide its letter dated 10.11.2014 made further submissions by submitting letters from Union Commodities Pvt Ltd and Shri Sanwaria Commodities Pvt Ltd confirming that they had transferred the said shares in margin account and neither consideration was flown in or out while transferring the shares in the margin account. CONSIDERATION OF EVIDENCE AND FINDINGS 13. I have taken into consideration the facts and circumstances of the case and the material made available on record. 14. To attract the provision of Regulation 29 (1) of SAST Regulations, following two conditions have to be satisfied: • There has to be an acquirer who acquires shares or voting rights in the target company; • Acquisition should aggregate to 5% or more of the shares of such target company. 15. To attract the provision of Regulation 29 (2) of SAST Regulations, following two conditions have to be satisfied: • Acquirer should hold shares or voting rights in the target company entitling him to exercise 5% or more of shares or voting rights; • There should be change in the shareholding exceeding 2% of total shareholding or voting rights in the target company. 16. Under Regulation 13 (1) of PIT Regulations, disclosure has to be made within 2 working days of receipt of intimation of allotment of shares aggregating to more than 5% shares or voting rights or on acquisition of more than 5% shares or voting rights. 17. Under Regulation 13 (3) of PIT Regulations, disclosure has to be made by the person who holds more than 5% shares or voting rights and there is a change in the shareholding resulting in shareholding falling below 5% provided such change exceeds 2% of total shareholding or voting rights. 18. From the above it is noted that obligation to make disclosures under the provisions contained in SAST Regulations as also under PIT Regulations would arise as soon as there is acquisition of shares change in shareholding of a person holding more than 5% shares or voting rights, in excess of the limits prescribed under the respective Regulations. 19. In the given fact situation, noticee has submitted that it has neither acquired shares No is the beneficial owner of the shares of INL but had received those shares towards margin requirement from its clients and to support the same the noticee has submitted evidence in the form of Delivery Instruction Slips. Further, the noticee has also submitted that dividends accrued on those shares were transferred to the clients which shows that the clients were the beneficial owner of the said shares and the noticee has submitted copy of ledger account of respective clients in support of its submission. In addition to it, noticee vide its letter dated 10.11.2014 submitted letters from its clients viz., Union Commodities Pvt Ltd and Sanwaria Commodities Pvt Ltd confirming that they had transferred the shares of INL in Margin Account and neither consideration was flown in or out while transferring the shares in Margin Account. In the given background, noticee's submission that making disclosures under the aforesaid SAST Regulations and PIT Regulations would tantamount to wrong false disclosures as the noticee is No the beneficial owner of the shares is acceptable. 20. It may however be added that noticee has a regular corporate BO account and does No have \"margin account\" sub status. For noticee's aforesaid failure to designate the demat account for housing client's shares towards margin as \"margin account\", it is difficult to hold noticee liable for No disclosure of shareholding under the aforesaid SAST Regulations and PIT Regulations. 21. In view of the above facts and circumstances of the case and the material made available on record, it is difficult to conclude that the noticee has violated Regulation 13 (1) & 13 (3) of PIT Regulations and Regulations 29 (1), (2) & (3) of SAST Regulations. ORDER 22. Considering the facts and circumstances and the material made available on record, the alleged violation of Regulations 13 (1) & 13 (3) of the SEBI (Prohibition of Insider Trading) Regulations, 1992 and Regulations 29 (1), (2) & (3) of the SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 2011 are difficult to establish against Indianivesh Commodities Private Limited in the present adjudication proceedings and accordingly the present adjudication proceedings is disposed of. 23. In terms of the provisions of Rule 6 of the Securities and Exchange Board of India (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules 1995, copies of this order are being sent to Indianivesh Commodities Private Limited having office at 601 602, \"Sukh Sagar\" N.S.Patkar Marg, Girgaum Chowpatty, Mumbai – 400 007 and also to the Securities and Exchange Board of India, Mumbai. Place: Mumbai D. RAVI KUMAR CHIEF GENERAL MANAGER & Date: 24.03.2015 ADJUDICATING OFFICER"
+    },
+    "id": 0
+  }
+]

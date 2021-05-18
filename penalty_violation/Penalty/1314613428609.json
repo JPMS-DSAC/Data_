@@ -1,0 +1,1585 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612088888,
+        "id": 1,
+        "lead_time": 3700.267,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "LBj9i1lDqC",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 887,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 658,
+              "text": "Securities and Exchange Board of India (hereinafter referred to as ’SEBI’) conducted an investigation into the alleged irregularities in the scheme of amalgamation of Gobind Sugar Mills Ltd (GSML) with Zuari Industries Ltd (ZIL)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ExLngYaCrP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1118,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 888,
+              "text": "The Investigating Authority observed that M s Uttar Pradesh Trading Company Ltd (hereinafter referred to as the ‘Noticee’) was holding 3,20,000 shares of GSML as on December 15, 2006 constituting 10% of the share capital of GSML. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "YTgkG-e-Vb",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1412,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1118,
+              "text": "Out of the said shares, the Noticee on December 11, 2009 sold transferred through off market 1,59,500 shares (constituting 4.98% of share capital of GSML) to one M s. Taralta Commercial Pvt Ltd (TCPL) in contravention of the provisions of Securities Contracts (Regulation) Act, 1956 (SCR Act). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IRBg78M4Ik",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1542,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1412,
+              "text": "Further, the Noticee sold the remaining 1,60,500 shares of GSML constituting 5.016 % of share capital during February 4-11, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Bm0BvF2fUI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1768,
+              "labels": [
+                "Violation"
+              ],
+              "start": 1542,
+              "text": "Though the change in shareholding was more than 2% from the last disclosure, the Noticee failed to make the required disclosure under the provisions of SEBI (Prohibition of Insider Trading) Regulations, 1992 (PIT Regulations)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "GDBCt_8nZf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2046,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 1772,
+              "text": "In view of the above, SEBI has initiated adjudication proceedings under the SCR Act and the Securities Exchange Board of India Act, 1992 (hereinafter referred to as “SEBI Act”) against the Noticee for its alleged violations of the provisions of SCR Act and PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "XfZ8qtlxo_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2655,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 2085,
+              "text": "The Adjudicating Officer (AO) issued a Notice dated May 10, 2011 (hereinafter referred to as ‘SCN’) in terms of the provisions of Rule 4 of SEBI (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (Adjudication Rules 1) read with Rule 4 of Securities Contracts (Regulation) (Procedure for Holding Inquiry and Imposing Penalties by Adjudication Officer) Rules, 2005 (Adjudication Rules 2) requiring the Noticee to show cause as to why an inquiry should No be held against it for the violations alleged to have been committed by it. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QHI2tgI3FZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2795,
+              "labels": [
+                "Allegations"
+              ],
+              "start": 2658,
+              "text": "It was alleged in the SCN that the Noticee was holding 3,20,000 shares constituting 10% of share capital of GSML as on December 15, 2006."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "WQm9AEHZsF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2939,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2796,
+              "text": "The Noticee on December 11, 2009 transferred sold through off market 1,59,500 shares to TCPL which constituted 4.98% of share capital of GSML. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4W26QREmyR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3075,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2939,
+              "text": "The payment for the said sale transfer received on December 14, 2009 and the delivery of the said shares were made on January 06, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "GARDCXOJ-o",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3161,
+              "labels": [
+                "Violation"
+              ],
+              "start": 3075,
+              "text": "The transaction was off market but No a spot delivery contract as defined in SCR Act. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Wa-h_AdNq_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3255,
+              "labels": [
+                "Allegations"
+              ],
+              "start": 3161,
+              "text": "The Noticee was therefore alleged to have violated Sections 13 and 16 read with 18 of SCR Act."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pMUdq-JQSI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3395,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 3259,
+              "text": "Further the Noticee during February 4-11, 2010 sold another 1,60,500 shares in market which constituted 5.016% of share capital of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "LTXYV5NwmI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3477,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 3396,
+              "text": "The change in shareholding of the Noticee was more than 2% of the share capital. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "_bSmLVbDDo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3585,
+              "labels": [
+                "Violation"
+              ],
+              "start": 3477,
+              "text": "The Noticee failed to make disclosure as required under Regulation 13(3) read with 13(5) of PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "a2_lPxJElY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3653,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3589,
+              "text": "The Noticee vide letter dated June 16, 2011 replied to the SCN. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yvw0GH8DxT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3803,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3653,
+              "text": "The AO considered the facts of the case, reply of the Noticee and other materials available on record and decided to conduct an inquiry in the matter."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "epcaxyzEmB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3882,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3803,
+              "text": " I granted an opportunity of personal hearing to the Noticee on July 28, 2011. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "z86Y-e0I_x",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3990,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3882,
+              "text": "The authorized representative of the Noticee appeared before me on the said date and made oral submissions. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "C6s0sWqEu2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4090,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3990,
+              "text": "In view of the above, I am proceeding with the matter on the basis of material available on record. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "miiJ7ns--p",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4314,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 4141,
+              "text": " I have carefully perused the charges made against the Noticee mentioned in the SCN, written and oral submissions made by the Noticee and the documents available on record. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "33Vbgj0x4M",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4516,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 4314,
+              "text": "The issues that arise for consideration in the present case are:- a) Whether the Noticee has violated Sections 13 and 16 read with 18 of SCR Act and Regulations 13(3) read with 13(5) of PIT Regulations?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RwiYqTwmve",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4656,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 4517,
+              "text": "b) Do the violations, if any, on the part of the Noticee attract any monetary penalty under Sections 23H of SCR Act and 15A(b) of SEBI Act?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QT1Nu-soWx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4823,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 4657,
+              "text": "c) If so, what should be the monetary penalty that can be imposed taking into consideration the factors mentioned in 23J of SCR Act and Section 15J of SEBI Act, 1992?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "sDkVYd4cPO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5678,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 4827,
+              "text": "Before moving forward, it will be appropriate to refer to the relevant provisions of SCR Act and PIT Regulations which inter alia read as under:- SCR Act “spot delivery contract” means a contract which provides for,— (a) actual delivery of securities and the payment of a price therefor either on the same day as the date of the contract or on the next day, the actual period taken for the despatch of the securities or the remittance of money therefor through the post being excluded from the computation of the period aforesaid if the parties to the contract do No reside in the same town or locality; (b) transfer of the securities by the depository from the account of a beneficial owner to the account of another beneficial owner when such securities are dealt with by a depository;] Contracts in notified areas illegal in certain circumstances. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SmnqWwTWT1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6788,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5678,
+              "text": "13. If the Central Government is satisfied, having regard to the nature or the volume of transactions in securities in any [State or States or area] that it is necessary so to do, it may, by notification in the Official Gazette, declared this section to apply to such [State or States or area], and thereupon every contract in such [State or States or area] which is entered into after the date of the notification otherwise than between members of a recognised stock exchange [or recognised stock exchanges] in such [State or States or area] or through or with such member shall be illegal : [Provided that any contract entered into between members of two or more recognised stock exchanges in such State or States or area, shall— (i) be subject to such terms and conditions as may be stipulated by the respective stock exchanges with prior approval of Securities and Exchange Board of India; (ii) require prior permission from the respective stock exchanges if so stipulated by the stock exchanges with prior approval of Securities and Exchange Board of India.] Power to prohibit contracts in certain cases. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1ib4_QUJLP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7280,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 6788,
+              "text": "16.(1) If the Central Government is of opinion that it is necessary to prevent undesirable speculation in specified securities in any State or area, it may, by notification in the Official Gazette, declare that no person in the State or area specified in the notification shall, save with the permission of the Central Government, enter into any contract for the sale or purchase of any security specified in the notification except to the extent and in the manner, if any, specified therein."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "KzJx9lzLF2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7433,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 7281,
+              "text": "(2) All contracts in contravention of the provisions of sub-section (1) entered into after the date of notification issued thereunder shall be illegal. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8zNA6JV19P",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7503,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 7433,
+              "text": "Exclusion of spot delivery contracts from sections 13, 14, 15 and 17. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "NHo-DTyViO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7598,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 7503,
+              "text": "18.(1) Nothing contained in sections 13, 14, 15 and 17 shall apply to spot delivery contracts. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5ljoLMV0Uk",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8370,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 7598,
+              "text": "(2) Notwithstanding anything contained in sub-section (1), if the Central Government is of opinion that in the interest of the trade or in the public interest it is expedient to regulate and control the business of dealing in spot delivery contracts also in any State or area (whether section 13 has been declared to apply to that State or area or not), it may, by notification in the Official Gazette, declare that the provisions of section 17 shall also apply to such State or area in respect of spot delivery contracts generally or in respect of spot delivery contracts for the sale or purchase of such securities as may be specified in the notification, and may also specify the manner in which, and the extent to which, the provisions of that section shall so apply. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2WgZqBMynZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8516,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 8370,
+              "text": "PIT Regulations Disclosure of interest or holding by directors and officers and substantial shareholders in a listed company - Initial Disclosure."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "MRCfXYfELi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9014,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 8517,
+              "text": "13. (1)…… (3)Any person who holds more than 5% shares for voting rights in any listed company shall disclose to the company [in Form C] the number of shares or voting rights held and change in shareholding or voting rights, even if such change results in shareholding falling below 5%, if there has been change in such holdings from the last disclosure made under sub- regulation (1) or under this sub-regulation; and such change exceeds 2% of total shareholding or voting rights in the company. ("
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "zObw6b7CQv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9246,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 9014,
+              "text": "5) The disclosure mentioned in sub-regulations (3) and (4) shall be made within 4 working days of: (a) the receipts of intimation of allotment of shares, or (b) the acquisition or sale of shares or voting rights, as the case may be."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "R-pkz8Wt_V",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9467,
+              "labels": [
+                "Allegations"
+              ],
+              "start": 9249,
+              "text": " Firstly, I am dealing with the allegation whether the off market transfer of 1,59,500 shares of GSML made by the Noticee to TCPL is in contravention of the provisions of Sections 13 and 16 read with 18 of the SCR Act."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "e_lb609zuW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9617,
+              "labels": [
+                "Allegations"
+              ],
+              "start": 9468,
+              "text": "It has been alleged that the Noticee sold the shares on December 11, 2009 and the transaction was No a spot delivery contract as defined in SCR Act. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fqEicftj7v",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9752,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9617,
+              "text": "The payment for the said sale was received on December 14, 2009 and the delivery of the said shares was made only on January 06, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Tk6oJUmIU7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9931,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 9752,
+              "text": "To this charge the submissions of the Noticee are summarized below: a. The Noticee sold 159,500 shares of GSML to Taralta on December 11, 2009 by way of an off-market transaction."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "nt69mP2_dh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10023,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 9932,
+              "text": "It raised a bill of the sale consideration amounting to Rs.79,75,000 on December 11, 2009. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IVtMB40eiS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10283,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 10023,
+              "text": "On receipt of the said bill, Taralta gave three separate cheques aggregating to a sum of Rs.79,75,000 being the consideration to the Noticee on December 11, 2009 at around 3.00 PM itself, i.e. payment for price was made on the same day the invoice was passed. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Rb4biruHPC",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10521,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 10283,
+              "text": "However, as December 12, 2009 was a Saturday and December 13, 2009 was a Sunday, the said cheques were deposited by the Noticee with its bank only on Monday, i.e., December 14, 2009 due to the intervention of these two non-clearing days. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Wm-kG4XbsQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10713,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 10521,
+              "text": "Therefore, the payment of the Consideration was received by the Noticee on December 11, 2009, i.e., on the date of the sale itself and this was in accordance with Section 2(i) of the SCR Act. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZQaYEbe5pX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11089,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 10713,
+              "text": "b. To discharge its obligations towards Taralta, the Noticee gave it a duly filled and signed delivery instruction slip (“DIS”) on December 11, 2009 (“First DIS”) containing complete details of the number of shares and thus delivery was intended to be effected on the same day as the invoice itself, which was duly handed over to the representative of Taralta simultaneously. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2CiCNRXfje",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11259,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 11089,
+              "text": "Taralta did No provide the spaces for such details regarding its demat account to the Noticee, the corresponding spaces of such details were left blank in the First DIS. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "UCX5dAg3L2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11476,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 11259,
+              "text": "c. Therefore, upon execution of the First DIS coupled with the delivery of the same, the Noticee had no control over the said shares and the equitable ownership of the said shares passed onto the buyer, i.e. Taralta. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Dly-Y9Uwfj",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11873,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 11476,
+              "text": "On January 6, 2010, a representative of Taralta approached the Noticee and informed it that Taralta wanted to perfect its equitable title to the shares by making it a legal title, enabling to be included in the Register of Members of GSML, which it had No been able to do as yet as Taralta did No have a demat account on December 11, 2009 and its demat account was opened only on January 5, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "X-1rXvU59e",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11986,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 11873,
+              "text": "On request of the said representative of Taralta, the details of Taralta’s account were filled in the First DIS. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "wAyCgwMDSo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12118,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 11986,
+              "text": "However, the Noticee was advised that as the demat account of Taralta did No exist on the date on which the First DIS was executed. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "jUw6eBn4lJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12325,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 12118,
+              "text": "Therefore, the First DIS was cancelled and a fresh DIS dated January 6, 2010, the same day as the request was made, was issued by the Noticee after the demat account of Taralta was opened on January 5, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "rWov6vQLn3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12397,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 12326,
+              "text": "The shares were credited in Taralta’s demat account on January 6, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "aEMUuJiQuT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12699,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 12398,
+              "text": "Thus, the fresh DIS was only executed to enable Taralta to perfect its legal title, which it was prevented from doing solely on account of it No having a demat account, i.e. No on account of any intervention or control over the shares by the Noticee, but merely because the shares were in demat form. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1FQeG_MNGm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12849,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 12699,
+              "text": "d. In case of sale of shares in demat form, only constructive equitable possession of shares can be given to the purchaser through a duly signed DIS. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Pt_bsDpNMl",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13149,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 12849,
+              "text": "The said sale of shares was a genuine and bonafide commercial transaction and was No done with intent of undesirable speculation and the same was in consonance with the spirit and object of SCR Act and S.13 & 16 of SCR Act. By virtue of S.18 of SCA Act, S.13 does No apply to spot delivery contract. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9fMmNr-vJO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13247,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13153,
+              "text": "I find that the Noticee sold 1,59,500 shares to TCPL through off market on December 11, 2009. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "NtFpBEsCk7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13399,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13247,
+              "text": "The Noticee raised the bill for the said sale on the same date and the Noticee received the payment by way of cheques from TCPL on the same day itself. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "su61lLoCGV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13581,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13399,
+              "text": "December 12 and 13, 2009 being Saturday and Sunday, the cheques were cleared on Monday i.e. the next working day and the Noticee therefore received the payment on December 14, 2009. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "reFESNrc0u",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13708,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13581,
+              "text": "The Noticee had handed over the delivery instruction slip (DIS) for the transfer of 1,59,500 shares to the TCPL simultaneously."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "JqgnnmBR_9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13877,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13709,
+              "text": "As TCPL was No having the demat account at that point of time, the transfer of shares from the Noticee’s demat account to TCPL demat account could No have taken place. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IvudNzXcxn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13997,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13877,
+              "text": "TCPL opened the demat account on January 05, 2010 and thereafter the delivery of shares took place on January 06, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CtiyFFO7KZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14187,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 13997,
+              "text": "By delivering the DIS and receiving the consideration for the said sale, the Noticee fulfilled its obligation and the delay in transfer was just technical in nature rather than intentional. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bs6xvzczj-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14347,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 14187,
+              "text": "The delay in transfer of beneficial ownership of the shares was beyond the control of the Noticee which is more of technical in nature rather than intentional. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "XCaGueDDU7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14568,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14350,
+              "text": " It is pertinent to mention here that when the securities are dealt in the physical mode, the seller make delivery of the securities by signing a blank transfer deed and the actual transfer of title takes place later. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "auqO90-7YI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14731,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14568,
+              "text": "In the demat mode the delivery of securities is said to be completed when the depository effect the transfer of beneficial ownership from the seller to the buyer. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "6OKBiOLpYq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14980,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 14731,
+              "text": "In the present case, for the reasons cited above the actual transfer of beneficial ownership didn’t take place within the prescribed time period and therefore, the transaction may No be technically fit into the definition of spot delivery contract. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lmy-b_i7-Z",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15070,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14980,
+              "text": "However, one needs to consider the purpose of Sections 13 and 16 read with 18 of SCR Act. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3-eLWy_SK7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15216,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 15073,
+              "text": " I find that the Noticee received payment of the consideration immediately on execution of the transaction and delivered the DIS to the buyer. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xMwydtr2iS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15373,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 15216,
+              "text": "The intention of the parties was clear at the time of the execution of the transaction and constructive equitable possession of the shares was given to TCPL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ygcaytKVFk",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15648,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 15373,
+              "text": " I am of the view that the transactions are bonafide and delivery based genuine commercial transaction and was No done with the intent of any undesirable speculation and therefore the transaction was in consonance with the spirit and object of SCR Act and Sections 13 and 16."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "L_RRuFWnYH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15806,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 15648,
+              "text": " In view of the same, I am inclined to give benefit of doubt to the Noticee and do No hold it guilty of violation of Sections 13, 16 read with 18 of SCR Act. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "mEFFeyKEgV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16019,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 15810,
+              "text": "The next issue for consideration is whether the Noticee was liable to make disclosure for the sale of 1,60,500 shares made during February 4-11, 2010 under Regulation 13(3) read with 13(5) of PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0Mkq8z8ViV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16275,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 16019,
+              "text": "To this charge the submissions of the Noticee are summarized below: a. “The Noticee and GSML were part of K.K Birla group and on his demise the shareholding of the group companies devolved unto three daughters and disentangling of the cross holding begun. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5DM5u2PZY0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16367,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 16275,
+              "text": "The Noticee started as a member of K.K Birla group and is No controlled by the Nopany group."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yQbuHHaVka",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16530,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 16367,
+              "text": " The GSML belonged to Poddar group and for removal of cross holdings, 1,60,000 shares held by the Noticee in GSML were transferred to the members of Poddar group. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5HmfpmtSaY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16743,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 16530,
+              "text": "Regulation 13(3) sets up a two-prolonged test; to require a disclosure, the shareholder needs to hold more than 5% of the shareholding of the company, and the quantum of change in shareholding needs to exceed 2%. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "m9eJvLmCHI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16932,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 16743,
+              "text": "Further, since the principle of the regulation is that of continual disclosure, each separate transfer or change in shareholding needs to be tested against the two prongs of the regulation."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "W13haEG3Ob",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17396,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 16933,
+              "text": "b. The two prong test was met on December 11, 2009 as the shareholding of the Noticee in GSML was greater than 5% and the quantum of change in shareholding was also greater than 2% and accordingly, a disclosure under Regulation 13(3) was made, and a matching disclosure was made under Regulation 13(6) by GSML. At no point in time subsequently were both prongs of the test met, and therefore, no requirement to make any disclosure arose under the PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ms3gj6bjGm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17518,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 17397,
+              "text": "After February 9, 2010, neither prong of the test was being met, No so did and therefore no question of disclosure arise."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "iIcKWVDMnx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17747,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 17519,
+              "text": "c. On February 04, 2010 and February 5, 2010, while the shareholding of the Noticee in GSML was greater than 5%, the quantum of shares transferred to various unrelated purchasers was 400 shares, which was a negligible quantity. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2oIiHZV9Mn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18063,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 17747,
+              "text": "Therefore, as the quantum of shares which were transferred was less than 2%, in each sale, or even together, the provision of the Regulation requiring disclosure was No triggered, and therefore, there was no requirement for any disclosure to be made, under Regulation 13(3) of the PIT Regulations or even otherwise. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "iIi-jMPSC2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18149,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 18063,
+              "text": "Accordingly, no such disclosure beyond that warranted in law was made by the Noticee. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5vqT18qhiQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18281,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 18149,
+              "text": "d. On February 5, 2010, post that transfer of aforesaid 400 shares, the shareholding of the Noticee in GSML was reduced to just 5%. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ofy7rzX2b1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18497,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 18281,
+              "text": "From this point onwards, no disclosure in the terms of Regulation 13(3) was required, as the shareholding of the Noticee in GSML was No more than 5%, by the PIT Regulations for triggering the disclosure requirement. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "A1IWj8vjSd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18606,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 18497,
+              "text": "Thus, even if the entire 5% stake had been sold subsequently, no requirement for any disclosure would arise. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yx5cTXT04u",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18795,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 18606,
+              "text": "e. By a transfer on February 9, 2010 of 19,500 shares of GSML to Indrakshi, amounting to 0.61% of the shareholding of the Noticee in GSML fell to 140,500 shares or 4.39%, i.e. less than 5%."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ozJ96a4wYV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18999,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 18796,
+              "text": "This transfer did No attract the provisions of the Regulations as the quantum of shares held was No more than 5% as required by the PIT Regulations and was also less than 2% of the shareholding of GSML. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "WP4eJRp3_G",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19159,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 18999,
+              "text": "f. From February 9, 2010, onwards, the transfers from UPTCL to the Purchasers were all for a quantum of less than 2% of the shareholding in GSML, individually. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Iz-p7xC1uL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19404,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 19159,
+              "text": "Further, as the shareholding of the Noticee in GSML had fallen to a level which was No more than 5% on February 8, 2010, the provisions of the PIT Regulations could No have been attracted, in relation to any transaction subsequent to that date. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QmHuxoDb4e",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19525,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19407,
+              "text": " I find that as on December 15, 2006 the Noticee held 3,20,000 shares constituting 10% of the shares capital of GSML. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ALuhZq23Yh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19668,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19525,
+              "text": "Out of the said holding, Noticee on December 11, 2009 sold transferred through off market 1,59,500 shares to one TCPL which constituted 4.98%. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "z9eTY0QavR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19803,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19668,
+              "text": "The Noticee’s holding thus reduced to 5.02% and the Noticee as required under Insider Trading Regulations made the disclosure of same. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "aM59xYbYir",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19919,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19807,
+              "text": "Thereafter, the Noticee during February 04-11, 2011 sold 1,60,500 shares in market in aid of family settlement. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "OUHVdXGFbs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20113,
+              "labels": [
+                "Defendants Claims"
+              ],
+              "start": 19919,
+              "text": "The Noticee at the time of personal hearing argued that it sold 1,60,500 shares in smaller lots with none of them exceeding 2 % and therefore Regulation 13(3) of PIT Regulation is No attracted. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "zxJR4gonyq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20172,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 20113,
+              "text": "This argument of the Noticee is No at all acceptable to me."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "VjKRVUxEVP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20297,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 20173,
+              "text": "The sales made by the Noticee have to be reckoned from the date of the last disclosure for the purpose of Regulation 13(3). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "98K3RwT6eG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20380,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20297,
+              "text": "The Noticee was holding 5.02% of the shareholding of GSML as on December 11, 2009. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5xdizb5wP-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20521,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 20380,
+              "text": "The Noticee is therefore legally required to disclose under Regulation 13(3) as and when the cumulative sales exceed 2% of its shareholding. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "-SSKwj3MSO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20667,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20521,
+              "text": "The Noticee crossed the limit of 2% on February 09, 2010 when the shareholding by the Noticee fell down to 1.89% of the paid-up capital; of GSML. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9mGxNPRK2Y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20786,
+              "labels": [
+                "Violation"
+              ],
+              "start": 20667,
+              "text": "The Noticee however, did No make the disclosure as required under Regulation 13(3) read with 13(5) of PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "doUv6GuMXx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21003,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20790,
+              "text": "The requirement of the disclosure under PIT Regulation is to bring transparency in the securities marker and greater dissemination of information to the investors regarding substantial sale of shares by an entity."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qX-QDt843w",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21311,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 21003,
+              "text": " In view of the foregoing, it is established beyond doubt that the Noticee failed to make disclosures as required under Regulation 13(3) read with 13(5) of PIT Regulations and therefore violated the said provisions of PIT Regulations which warrants imposition of monetary penalty under S.15A(b) of SEBI Act. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4j5NlNRjI8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21628,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 21315,
+              "text": "The Hon’ble Supreme Court of India in the matter of SEBI .. v s…Shri Ram Mutual Fund (2006) 68SCL 216 (SC) held - “once the violation of statutory regulations is established, imposition of penalty becomes sine qua No of violation and the intention of parties committing such violation becomes totally irrelevant. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "l2GFdK5MIF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21699,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 21628,
+              "text": "Once the contravention is established, then the penalty is to follow”. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "6J-ffNaX4e",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22358,
+              "labels": [
+                "Penalty"
+              ],
+              "start": 21703,
+              "text": "Thus, the aforesaid violations by the Noticee make it liable for penalty u s. 15A(b) of SEBI Act, 1992 which reads as follows: Penalty for failure to furnish information, return, etc. 15A. If any person, who is required under this Act or any rules or regulations made thereunder,— (a) …. (b) to file any return or furnish any information, books or other documents within the time specified therefor in the regulations, fails to file return or furnish the same within the time specified therefor in the regulations, he shall be liable to a penalty of one lakh rupees for each day during which such failure continues or one crore rupees, whichever is less; "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7KipIkhY6V",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22971,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 22362,
+              "text": "While determining the quantum of penalty u s. 15A(b), it is important to consider the factors stipulated in S.15J of SEBI Act, which reads as under:- Factors to be taken into account by the adjudicating officer. 15J. While adjudging quantum of penalty under section 15-I, the adjudicating officer shall have due regard to the following factors, namely :— (a) the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default; (b) the amount of loss caused to an investor or group of investors as a result of the default; (c) the repetitive nature of the default. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "z_Z323ZbNQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23143,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 22975,
+              "text": "From the material available on record, it is No possible to ascertain the disproportionate gain or unfair advantage to the Noticee or the loss caused to the investors. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "TYw8LKq0I5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23231,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 23143,
+              "text": "I find that the Noticee had No made the required disclosures under the PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FAuE1selJo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23347,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 23231,
+              "text": "There is no evidence available on record to show that the default committed by the Noticee is repetitive in nature. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "97rcQ0T5_n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23707,
+              "labels": [
+                "Penalty"
+              ],
+              "start": 23357,
+              "text": "In view of the above, after considering all the facts, circumstances of the case, examining the available records, and exercising the powers conferred upon me U S 15-I (2) of the SEBI Act, 1992, I hereby impose a penalty of Rs.1,00,000 - (Rupees One Lakh Only) on the Noticee for the violation of Regulation 13(3) read with 13(5) of PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3V-UvWSqmf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23807,
+              "labels": [
+                "Subjective Observations"
+              ],
+              "start": 23707,
+              "text": "I am of the view that the said penalty is commensurate with the violation committed by the Noticee. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RiVatVl3lC",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24020,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 23811,
+              "text": "The above penalty amount shall be paid through a duly crossed demand draft drawn in favour of “SEBI-Penalties Remittable to Government of India” and payable at Mumbai, within 45 days of receipt of this order. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "b_PZLSgNGv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24217,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 24020,
+              "text": "The said demand draft should be forwarded to Division Chief, IVD-ID5 Securities & Exchange Board of India, SEBI Bhavan, Plot No C4-A, “G” Block, Bandra Kurla Complex, Bandra (East), Mumbai-400 051."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Hl-3c8tDi1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24366,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 24222,
+              "text": "In terms of the Rule 6 of the Adjudicating Rules 1, copy of this order is sent to the Noticee and also to Securities & Exchange Board of India. "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "- Uttar%20Pradesh%20Trading%20Co.%20Ltd.%20August%2029.%2020… BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA [ADJUDICATION ORDER No PKK AO 153 2011] UNDER SECTION 15-I OF SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 READ WITH RULE 5 OF SEBI (PROCEDURE FOR HOLDING INQUIRY AND IMPOSING PENALTIES BY ADJUDICATING OFFICER) RULES, 1995 AND UNDER SECTION 23-I OF SECURITIES CONTRACTS (REGULATION) ACT, 1956 READ WITH RULE 5 OF SECURITIES CONTRACTS (REGULATION) (PROCEDURE FOR HOLDING INQUIRY AND IMPOSING PENALTIES BY ADJUDICATION OFFICER) RULES, 2005. Against M s. Uttar Pradesh Trading Company Ltd [PAN No AAACU3602P] Background: 1. Securities and Exchange Board of India (hereinafter referred to as ’SEBI’) conducted an investigation into the alleged irregularities in the scheme of amalgamation of Gobind Sugar Mills Ltd (GSML) with Zuari Industries Ltd (ZIL). The Investigating Authority observed that M s Uttar Pradesh Trading Company Ltd (hereinafter referred to as the ‘Noticee’) was holding 3,20,000 shares of GSML as on December 15, 2006 constituting 10% of the share capital of GSML. Out of the said shares, the Noticee on December 11, 2009 sold transferred through off market 1,59,500 shares (constituting 4.98% of share capital of GSML) to one M s. Taralta Commercial Pvt Ltd (TCPL) in contravention of the provisions of Securities Contracts (Regulation) Act, 1956 (SCR Act). Further, the Noticee sold the remaining 1,60,500 shares of GSML constituting 5.016 % of share capital during February 4-11, 2010. Though the change in shareholding was more than 2% from the last disclosure, the Noticee failed to make the required disclosure under the provisions of SEBI (Prohibition of Insider Trading) Regulations, 1992 (PIT Regulations). 2. In view of the above, SEBI has initiated adjudication proceedings under the SCR Act and the Securities Exchange Board of India Act, 1992 (hereinafter referred to as “SEBI Act”) against the Noticee for its alleged violations of the provisions of SCR Act and PIT Regulations. Notice, Reply and Personal Hearing: 3. The Adjudicating Officer (AO) issued a Notice dated May 10, 2011 (hereinafter referred to as ‘SCN’) in terms of the provisions of Rule 4 of SEBI (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (Adjudication Rules 1) read with Rule 4 of Securities Contracts (Regulation) (Procedure for Holding Inquiry and Imposing Penalties by Adjudication Officer) Rules, 2005 (Adjudication Rules 2) requiring the Noticee to show cause as to why an inquiry should No be held against it for the violations alleged to have been committed by it. 4. It was alleged in the SCN that the Noticee was holding 3,20,000 shares constituting 10% of share capital of GSML as on December 15, 2006. The Noticee on December 11, 2009 transferred sold through off market 1,59,500 shares to TCPL which constituted 4.98% of share capital of GSML. The payment for the said sale transfer received on December 14, 2009 and the delivery of the said shares were made on January 06, 2010. The transaction was off market but No a spot delivery contract as defined in SCR Act. The Noticee was therefore alleged to have violated Sections 13 and 16 read with 18 of SCR Act. 5. Further the Noticee during February 4-11, 2010 sold another 1,60,500 shares in market which constituted 5.016% of share capital of GSML. The change in shareholding of the Noticee was more than 2% of the share capital. The Noticee failed to make disclosure as required under Regulation 13(3) read with 13(5) of PIT Regulations. 6. The Noticee vide letter dated June 16, 2011 replied to the SCN. The AO considered the facts of the case, reply of the Noticee and other materials available on record and decided to conduct an inquiry in the matter. I granted an opportunity of personal hearing to the Noticee on July 28, 2011. The authorized representative of the Noticee appeared before me on the said date and made oral submissions. In view of the above, I am proceeding with the matter on the basis of material available on record. Consideration of Issues, Evidences and Findings: 7. I have carefully perused the charges made against the Noticee mentioned in the SCN, written and oral submissions made by the Noticee and the documents available on record. The issues that arise for consideration in the present case are:- a) Whether the Noticee has violated Sections 13 and 16 read with 18 of SCR Act and Regulations 13(3) read with 13(5) of PIT Regulations? b) Do the violations, if any, on the part of the Noticee attract any monetary penalty under Sections 23H of SCR Act and 15A(b) of SEBI Act? c) If so, what should be the monetary penalty that can be imposed taking into consideration the factors mentioned in 23J of SCR Act and Section 15J of SEBI Act, 1992? 8. Before moving forward, it will be appropriate to refer to the relevant provisions of SCR Act and PIT Regulations which inter alia read as under:- SCR Act “spot delivery contract” means a contract which provides for,— (a) actual delivery of securities and the payment of a price therefor either on the same day as the date of the contract or on the next day, the actual period taken for the despatch of the securities or the remittance of money therefor through the post being excluded from the computation of the period aforesaid if the parties to the contract do No reside in the same town or locality; (b) transfer of the securities by the depository from the account of a beneficial owner to the account of another beneficial owner when such securities are dealt with by a depository;] Contracts in notified areas illegal in certain circumstances. 13. If the Central Government is satisfied, having regard to the nature or the volume of transactions in securities in any [State or States or area] that it is necessary so to do, it may, by notification in the Official Gazette, declared this section to apply to such [State or States or area], and thereupon every contract in such [State or States or area] which is entered into after the date of the notification otherwise than between members of a recognised stock exchange [or recognised stock exchanges] in such [State or States or area] or through or with such member shall be illegal : [Provided that any contract entered into between members of two or more recognised stock exchanges in such State or States or area, shall— (i) be subject to such terms and conditions as may be stipulated by the respective stock exchanges with prior approval of Securities and Exchange Board of India; (ii) require prior permission from the respective stock exchanges if so stipulated by the stock exchanges with prior approval of Securities and Exchange Board of India.] Power to prohibit contracts in certain cases. 16.(1) If the Central Government is of opinion that it is necessary to prevent undesirable speculation in specified securities in any State or area, it may, by notification in the Official Gazette, declare that no person in the State or area specified in the notification shall, save with the permission of the Central Government, enter into any contract for the sale or purchase of any security specified in the notification except to the extent and in the manner, if any, specified therein. (2) All contracts in contravention of the provisions of sub-section (1) entered into after the date of notification issued thereunder shall be illegal. Exclusion of spot delivery contracts from sections 13, 14, 15 and 17. 18.(1) Nothing contained in sections 13, 14, 15 and 17 shall apply to spot delivery contracts. (2) Notwithstanding anything contained in sub-section (1), if the Central Government is of opinion that in the interest of the trade or in the public interest it is expedient to regulate and control the business of dealing in spot delivery contracts also in any State or area (whether section 13 has been declared to apply to that State or area or not), it may, by notification in the Official Gazette, declare that the provisions of section 17 shall also apply to such State or area in respect of spot delivery contracts generally or in respect of spot delivery contracts for the sale or purchase of such securities as may be specified in the notification, and may also specify the manner in which, and the extent to which, the provisions of that section shall so apply. PIT Regulations Disclosure of interest or holding by directors and officers and substantial shareholders in a listed company - Initial Disclosure. 13. (1)…… (3)Any person who holds more than 5% shares for voting rights in any listed company shall disclose to the company [in Form C] the number of shares or voting rights held and change in shareholding or voting rights, even if such change results in shareholding falling below 5%, if there has been change in such holdings from the last disclosure made under sub- regulation (1) or under this sub-regulation; and such change exceeds 2% of total shareholding or voting rights in the company. (5) The disclosure mentioned in sub-regulations (3) and (4) shall be made within 4 working days of: (a) the receipts of intimation of allotment of shares, or (b) the acquisition or sale of shares or voting rights, as the case may be. 9. Firstly, I am dealing with the allegation whether the off market transfer of 1,59,500 shares of GSML made by the Noticee to TCPL is in contravention of the provisions of Sections 13 and 16 read with 18 of the SCR Act. It has been alleged that the Noticee sold the shares on December 11, 2009 and the transaction was No a spot delivery contract as defined in SCR Act. The payment for the said sale was received on December 14, 2009 and the delivery of the said shares was made only on January 06, 2010. To this charge the submissions of the Noticee are summarized below: a. The Noticee sold 159,500 shares of GSML to Taralta on December 11, 2009 by way of an off-market transaction. It raised a bill of the sale consideration amounting to Rs.79,75,000 on December 11, 2009. On receipt of the said bill, Taralta gave three separate cheques aggregating to a sum of Rs.79,75,000 being the consideration to the Noticee on December 11, 2009 at around 3.00 PM itself, i.e. payment for price was made on the same day the invoice was passed. However, as December 12, 2009 was a Saturday and December 13, 2009 was a Sunday, the said cheques were deposited by the Noticee with its bank only on Monday, i.e., December 14, 2009 due to the intervention of these two non-clearing days. Therefore, the payment of the Consideration was received by the Noticee on December 11, 2009, i.e., on the date of the sale itself and this was in accordance with Section 2(i) of the SCR Act. b. To discharge its obligations towards Taralta, the Noticee gave it a duly filled and signed delivery instruction slip (“DIS”) on December 11, 2009 (“First DIS”) containing complete details of the number of shares and thus delivery was intended to be effected on the same day as the invoice itself, which was duly handed over to the representative of Taralta simultaneously. Taralta did No provide the spaces for such details regarding its demat account to the Noticee, the corresponding spaces of such details were left blank in the First DIS. c. Therefore, upon execution of the First DIS coupled with the delivery of the same, the Noticee had no control over the said shares and the equitable ownership of the said shares passed onto the buyer, i.e. Taralta. On January 6, 2010, a representative of Taralta approached the Noticee and informed it that Taralta wanted to perfect its equitable title to the shares by making it a legal title, enabling to be included in the Register of Members of GSML, which it had No been able to do as yet as Taralta did No have a demat account on December 11, 2009 and its demat account was opened only on January 5, 2010. On request of the said representative of Taralta, the details of Taralta’s account were filled in the First DIS. However, the Noticee was advised that as the demat account of Taralta did No exist on the date on which the First DIS was executed. Therefore, the First DIS was cancelled and a fresh DIS dated January 6, 2010, the same day as the request was made, was issued by the Noticee after the demat account of Taralta was opened on January 5, 2010. The shares were credited in Taralta’s demat account on January 6, 2010. Thus, the fresh DIS was only executed to enable Taralta to perfect its legal title, which it was prevented from doing solely on account of it No having a demat account, i.e. No on account of any intervention or control over the shares by the Noticee, but merely because the shares were in demat form. d. In case of sale of shares in demat form, only constructive equitable possession of shares can be given to the purchaser through a duly signed DIS. The said sale of shares was a genuine and bonafide commercial transaction and was No done with intent of undesirable speculation and the same was in consonance with the spirit and object of SCR Act and S.13 & 16 of SCR Act. By virtue of S.18 of SCA Act, S.13 does No apply to spot delivery contract. 10. I find that the Noticee sold 1,59,500 shares to TCPL through off market on December 11, 2009. The Noticee raised the bill for the said sale on the same date and the Noticee received the payment by way of cheques from TCPL on the same day itself. December 12 and 13, 2009 being Saturday and Sunday, the cheques were cleared on Monday i.e. the next working day and the Noticee therefore received the payment on December 14, 2009. The Noticee had handed over the delivery instruction slip (DIS) for the transfer of 1,59,500 shares to the TCPL simultaneously. As TCPL was No having the demat account at that point of time, the transfer of shares from the Noticee’s demat account to TCPL demat account could No have taken place. TCPL opened the demat account on January 05, 2010 and thereafter the delivery of shares took place on January 06, 2010. By delivering the DIS and receiving the consideration for the said sale, the Noticee fulfilled its obligation and the delay in transfer was just technical in nature rather than intentional. The delay in transfer of beneficial ownership of the shares was beyond the control of the Noticee which is more of technical in nature rather than intentional. 11. It is pertinent to mention here that when the securities are dealt in the physical mode, the seller make delivery of the securities by signing a blank transfer deed and the actual transfer of title takes place later. In the demat mode the delivery of securities is said to be completed when the depository effect the transfer of beneficial ownership from the seller to the buyer. In the present case, for the reasons cited above the actual transfer of beneficial ownership didn’t take place within the prescribed time period and therefore, the transaction may No be technically fit into the definition of spot delivery contract. However, one needs to consider the purpose of Sections 13 and 16 read with 18 of SCR Act. 12. I find that the Noticee received payment of the consideration immediately on execution of the transaction and delivered the DIS to the buyer. The intention of the parties was clear at the time of the execution of the transaction and constructive equitable possession of the shares was given to TCPL. I am of the view that the transactions are bonafide and delivery based genuine commercial transaction and was No done with the intent of any undesirable speculation and therefore the transaction was in consonance with the spirit and object of SCR Act and Sections 13 and 16. In view of the same, I am inclined to give benefit of doubt to the Noticee and do No hold it guilty of violation of Sections 13, 16 read with 18 of SCR Act. 13. The next issue for consideration is whether the Noticee was liable to make disclosure for the sale of 1,60,500 shares made during February 4-11, 2010 under Regulation 13(3) read with 13(5) of PIT Regulations. To this charge the submissions of the Noticee are summarized below: a. “The Noticee and GSML were part of K.K Birla group and on his demise the shareholding of the group companies devolved unto three daughters and disentangling of the cross holding begun. The Noticee started as a member of K.K Birla group and is No controlled by the Nopany group. The GSML belonged to Poddar group and for removal of cross holdings, 1,60,000 shares held by the Noticee in GSML were transferred to the members of Poddar group. Regulation 13(3) sets up a two-prolonged test; to require a disclosure, the shareholder needs to hold more than 5% of the shareholding of the company, and the quantum of change in shareholding needs to exceed 2%. Further, since the principle of the regulation is that of continual disclosure, each separate transfer or change in shareholding needs to be tested against the two prongs of the regulation. b. The two prong test was met on December 11, 2009 as the shareholding of the Noticee in GSML was greater than 5% and the quantum of change in shareholding was also greater than 2% and accordingly, a disclosure under Regulation 13(3) was made, and a matching disclosure was made under Regulation 13(6) by GSML. At no point in time subsequently were both prongs of the test met, and therefore, no requirement to make any disclosure arose under the PIT Regulations. After February 9, 2010, neither prong of the test was being met, No so did and therefore no question of disclosure arise. c. On February 04, 2010 and February 5, 2010, while the shareholding of the Noticee in GSML was greater than 5%, the quantum of shares transferred to various unrelated purchasers was 400 shares, which was a negligible quantity. Therefore, as the quantum of shares which were transferred was less than 2%, in each sale, or even together, the provision of the Regulation requiring disclosure was No triggered, and therefore, there was no requirement for any disclosure to be made, under Regulation 13(3) of the PIT Regulations or even otherwise. Accordingly, no such disclosure beyond that warranted in law was made by the Noticee. d. On February 5, 2010, post that transfer of aforesaid 400 shares, the shareholding of the Noticee in GSML was reduced to just 5%. From this point onwards, no disclosure in the terms of Regulation 13(3) was required, as the shareholding of the Noticee in GSML was No more than 5%, by the PIT Regulations for triggering the disclosure requirement. Thus, even if the entire 5% stake had been sold subsequently, no requirement for any disclosure would arise. e. By a transfer on February 9, 2010 of 19,500 shares of GSML to Indrakshi, amounting to 0.61% of the shareholding of the Noticee in GSML fell to 140,500 shares or 4.39%, i.e. less than 5%. This transfer did No attract the provisions of the Regulations as the quantum of shares held was No more than 5% as required by the PIT Regulations and was also less than 2% of the shareholding of GSML. f. From February 9, 2010, onwards, the transfers from UPTCL to the Purchasers were all for a quantum of less than 2% of the shareholding in GSML, individually. Further, as the shareholding of the Noticee in GSML had fallen to a level which was No more than 5% on February 8, 2010, the provisions of the PIT Regulations could No have been attracted, in relation to any transaction subsequent to that date. 14. I find that as on December 15, 2006 the Noticee held 3,20,000 shares constituting 10% of the shares capital of GSML. Out of the said holding, Noticee on December 11, 2009 sold transferred through off market 1,59,500 shares to one TCPL which constituted 4.98%. The Noticee’s holding thus reduced to 5.02% and the Noticee as required under Insider Trading Regulations made the disclosure of same. 15. Thereafter, the Noticee during February 04-11, 2011 sold 1,60,500 shares in market in aid of family settlement. The Noticee at the time of personal hearing argued that it sold 1,60,500 shares in smaller lots with none of them exceeding 2 % and therefore Regulation 13(3) of PIT Regulation is No attracted. This argument of the Noticee is No at all acceptable to me. The sales made by the Noticee have to be reckoned from the date of the last disclosure for the purpose of Regulation 13(3). The Noticee was holding 5.02% of the shareholding of GSML as on December 11, 2009. The Noticee is therefore legally required to disclose under Regulation 13(3) as and when the cumulative sales exceed 2% of its shareholding. The Noticee crossed the limit of 2% on February 09, 2010 when the shareholding by the Noticee fell down to 1.89% of the paid-up capital; of GSML. The Noticee however, did No make the disclosure as required under Regulation 13(3) read with 13(5) of PIT Regulations. 16. The requirement of the disclosure under PIT Regulation is to bring transparency in the securities marker and greater dissemination of information to the investors regarding substantial sale of shares by an entity. In view of the foregoing, it is established beyond doubt that the Noticee failed to make disclosures as required under Regulation 13(3) read with 13(5) of PIT Regulations and therefore violated the said provisions of PIT Regulations which warrants imposition of monetary penalty under S.15A(b) of SEBI Act. 17. The Hon’ble Supreme Court of India in the matter of SEBI .. v s…Shri Ram Mutual Fund (2006) 68SCL 216 (SC) held - “once the violation of statutory regulations is established, imposition of penalty becomes sine qua No of violation and the intention of parties committing such violation becomes totally irrelevant. Once the contravention is established, then the penalty is to follow”. 18. Thus, the aforesaid violations by the Noticee make it liable for penalty u s. 15A(b) of SEBI Act, 1992 which reads as follows: Penalty for failure to furnish information, return, etc. 15A. If any person, who is required under this Act or any rules or regulations made thereunder,— (a) …. (b) to file any return or furnish any information, books or other documents within the time specified therefor in the regulations, fails to file return or furnish the same within the time specified therefor in the regulations, he shall be liable to a penalty of one lakh rupees for each day during which such failure continues or one crore rupees, whichever is less; 19. While determining the quantum of penalty u s. 15A(b), it is important to consider the factors stipulated in S.15J of SEBI Act, which reads as under:- Factors to be taken into account by the adjudicating officer. 15J. While adjudging quantum of penalty under section 15-I, the adjudicating officer shall have due regard to the following factors, namely :— (a) the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default; (b) the amount of loss caused to an investor or group of investors as a result of the default; (c) the repetitive nature of the default. 20. From the material available on record, it is No possible to ascertain the disproportionate gain or unfair advantage to the Noticee or the loss caused to the investors. I find that the Noticee had No made the required disclosures under the PIT Regulations. There is no evidence available on record to show that the default committed by the Noticee is repetitive in nature. Order 21. In view of the above, after considering all the facts, circumstances of the case, examining the available records, and exercising the powers conferred upon me U S 15-I (2) of the SEBI Act, 1992, I hereby impose a penalty of Rs.1,00,000 - (Rupees One Lakh Only) on the Noticee for the violation of Regulation 13(3) read with 13(5) of PIT Regulations. I am of the view that the said penalty is commensurate with the violation committed by the Noticee. 22. The above penalty amount shall be paid through a duly crossed demand draft drawn in favour of “SEBI-Penalties Remittable to Government of India” and payable at Mumbai, within 45 days of receipt of this order. The said demand draft should be forwarded to Division Chief, IVD-ID5 Securities & Exchange Board of India, SEBI Bhavan, Plot No C4-A, “G” Block, Bandra Kurla Complex, Bandra (East), Mumbai-400 051. 23. In terms of the Rule 6 of the Adjudicating Rules 1, copy of this order is sent to the Noticee and also to Securities & Exchange Board of India. Date: August 29, 2011 P.K. KURIACHEN Place: Mumbai ADJUDICATING OFFICER"
+    },
+    "id": 0
+  }
+]

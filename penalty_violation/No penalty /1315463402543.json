@@ -1,0 +1,2145 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612199972,
+        "id": 1,
+        "lead_time": 11184.417,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "ZGbl2P7AHz",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 848,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 637,
+              "text": "Securities and Exchange Board of India (hereinafter referred to as ’SEBI’) conducted an investigation into the alleged irregularity in the matter of Gobind Sugar Mills Ltd (GSML) and Zuari Industries Ltd (ZIL). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "DVQpJBojb3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1002,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 848,
+              "text": "Investigations revealed that a scheme of amalgamation of GSML with ZIL was approved by the Board of Directors (BoD) of ZIL and GSML on February 22, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "-xzLOCYLik",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1192,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1002,
+              "text": "Upon completion of the amalgamation, the shareholders of GSML would receive 1 equity share of Rs.10 each of ZIL for every one share of GSML held by them as on record date to be fixed by ZIL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "G3t_yu6BJ4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1461,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1193,
+              "text": "The amalgamation of GSML with ZIL and the swap ratio of 1:1 decided by the valuer for the proposed amalgamation are price sensitive information in terms of SEBI (Prohibition of Insider Trading) Regulations, 1992 (hereinafter referred to as Insider Trading Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "sb8gbK9rNq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1910,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 1462,
+              "text": "The Investigations further revealed that (1) Mr. Akshay Poddar (2) Mrs. Puja Poddar (3) M s. Poddar Heritage Investments Ltd (4) Mrs. Shradha Agarwala and (5) M s Indrakshi Trading Company Pvt Ltd (hereinafter collectively referred to as the ‘Noticees’) allegedly violated the provisions of and Insider Trading Regulations and SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997 (hereinafter referred to as ‘SAST Regulations’)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3cgdaDdaUh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2666,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 1914,
+              "text": "In view of the above, SEBI has initiated adjudication proceedings under the Securities Exchange Board of India Act, 1992 (hereinafter referred to as the “SEBI Act”) against the Noticees {(1) Mr. Akshay Poddar - Regulations 3(i) and 4 of Insider Trading Regulations, Regulations 7(1) and 11(2) of SAST Regulations, (2) Mrs. Puja Poddar - Regulations 3(i) and 4 of Insider Trading Regulations, (3) M s. Poddar Heritage Investments Ltd - Regulations 3(i) and 4 of Insider Trading Regulations, (4) Mrs. Shradha Agarwala - Regulation 11(2) of SAST Regulations and (5) M s. Indrakshi Trading Company Pvt Ltd - Regulation 11(2) of SAST Regulations} for violating the provisions of Insider Trading Regulations and SAST Regulations as noted against their names."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "nbH33l2wrc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3121,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 2706,
+              "text": "The Adjudicating Officer (AO) issued Notices dated May 10, 2011 (hereinafter referred to as the ‘SCNs’) in terms of the provisions of Rule 4 of SEBI (Procedure For Holding Inquiry And Imposing Penalties By Adjudicating Officer) Rules, 1995 (hereinafter referred to as the Adjudicating Rules) requiring the Noticees to show cause as to why an inquiry should No be held for the violations allegedly committed by them."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1e7VG8qh-i",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3209,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3125,
+              "text": "The Noticees vide letters dated June 14, 2011 and July 02, 2011 replied to the SCNs."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "rCZoJiz2Rg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3363,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3210,
+              "text": "The AO considered the facts of the case, replies of the Noticees and other materials available on record and decided to conduct an inquiry in the matter."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4wGxZrAP-x",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3442,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3364,
+              "text": "I granted an opportunity of personal hearing to the Noticees on July 28, 2011."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lCTNfKVSRm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3551,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3443,
+              "text": "The authorized representative of the Noticees appeared before me on the said date and made oral submissions."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "NA8RWyWrzn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3671,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3552,
+              "text": "The Notiees made another written submission vide letter dated August 02, 2011 which was received on September 02, 2011."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "XNb4I-2sOo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3832,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3671,
+              "text": " In view of the above, I am proceeding with the matter on the basis of oral and written submissions made by the Noticees and other materials available on record."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "rpTojBbXoQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4044,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3885,
+              "text": "I have carefully perused the charges made against the Noticees as per the SCNs, replies and submissions of the Noticees and the documents available on record. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "tQMTNYcbEh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4269,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 4044,
+              "text": "The issues that arise for consideration in the present case are:- a) Whether the Noticees have violated the provisions of Regulations 3(i) and 4 of Insider Trading Regulations, Regulations 7 (1) and 11(2) of SAST Regulations?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8adp-6bOzP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4403,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 4270,
+              "text": "b) Do the violations, if any, on the part of the Noticees attract any monetary penalty under sections 15G, 15H and 15A(b)of SEBI Act?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "uW8eUKHEnS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4551,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 4404,
+              "text": "c) If so, what should be the monetary penalty that can be imposed taking into consideration the factors mentioned in Section 15J of SEBI Act, 1992?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lWI9oUtHgn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4827,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 4555,
+              "text": "Before moving forward, it will be appropriate to refer to the relevant provisions of the Regulations alleged to have been violated which inter alia read as under:- PIT Regulations Prohibition on dealing, communicating or counselling on matters relating to insider trading."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "C9BoLeGkNe",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5095,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 4827,
+              "text": " 3. No insider shall— (i) either on his own behalf or on behalf of any other person, deal in securities of a company listed on any stock exchange when in possession of any unpublished price sensitive information; or Violation of provisions relating to insider trading."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "NuF6YI0OHA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5227,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5095,
+              "text": " 4. Any insider who deals in securities in contravention of the provisions of regulation 3 or 3A shall be guilty of insider trading."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "MQBvKj0blW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5317,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5228,
+              "text": "SAST Regulations Acquisition of 5 per cent and more shares or voting rights of a company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qKYMuXDE7U",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6664,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5832,
+              "text": "Consolidation of holdings. 11. (1) …. (2) No acquirer, who together with persons acting in concert with him holds, fifty-five per cent (55%) or more but less than seventy-five per cent (75%) of the shares or voting rights in a target company, shall acquire either by himself or through persons acting in concert with him any additional shares or voting rights therein, unless he makes a public announcement to acquire shares in accordance with these Regulation: Provided that …….. Provided further that such acquirer may, notwithstanding the acquisition made under regulation 10 or sub-regulation (1) of regulation 11,] without making a public announcement under these Regulations, acquire, either by himself or through or with persons acting in concert with him, additional shares or voting rights entitling him upto five per cent."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "t45te503yf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7192,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 6664,
+              "text": " (5%) voting rights in the target company subject to the following:- (i) the acquisition is made through open market purchase in normal segment on the stock exchange but No through bulk deal block deal negotiated deal preferential allotment; or the increase in the shareholding or voting rights of the acquirer is pursuant to a buy back of shares by the target company; (ii) the post acquisition shareholding of the acquirer together with persons acting in concert with him shall No increase beyond seventy five per cent.(75%).]"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pHmK-BVmz6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5831,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5318,
+              "text": "7. [(1) Any acquirer, who acquires shares or voting rights which (taken together with shares or voting rights, if any, held by him) would entitle him to more than five per cent or ten per cent or fourteen per cent or fifty four per cent or seventy four per cent] shares or voting rights in a company, in any manner whatsoever, shall disclose at every stage the aggregate of his shareholding or voting rights in that company to the company and to the stock exchanges where shares of the target company are listed.]"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Cz03lPmFMd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7540,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 7196,
+              "text": "Firstly, I am dealing with the allegation whether the Noticees (1) Mr. Akshay Poddar, (2) Mrs. Puja Poddar and (3) M s. Poddar Heritage Investments Ltd have traded in the shares of GSML while in possession of unpublished price sensitive information thereby contravened the provisions of Regulation 3(i) and 4 of the Insider Trading Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yPJ4Ot-ba1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7702,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7544,
+              "text": "As per the SCN, Mr. Akshay Poddar is one of the promoters and directors of GSML. Mrs. Puja Poddar is the wife of Mr. Akshay Poddar is also a promoter of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7JB8Eiqxo6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7857,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7703,
+              "text": "M s. Poddar Heritage Investments Ltd., a Poddar group company is also the promoter of GSML in which Mr. Akshay Poddar is the Promoter- Managing Director, "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yOtDkLnDPq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7990,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7859,
+              "text": " ZIL appointed N.M Raiji & Co. as valuer on October 24, 2009 for valuation of companies ZIL and GSML for the proposed amalgamation."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "-BShfkcvWV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8122,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7991,
+              "text": "Therefore, the price sensitive information pertaining to the amalgamation of GSML with ZIL came into existence on October 24, 2009."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CYgSCDYqQ9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8183,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 8123,
+              "text": "GSML accepted the appointment of valuer on October 28, 2009."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "kbq-sgS7VU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8329,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 8184,
+              "text": "The management representation letter dated January 05, 2010 on behalf of GSML to N.M Raiji & Co. in this regard was signed by Mr. Akshay Poddar. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gYPv6AF0Vv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8395,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 8329,
+              "text": "The valuation report was sent to GSML and ZIL on January 18, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FQoCMZ6Ti7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8577,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 8396,
+              "text": "The GSML made a corporate announcement on February 18, 2010 that a BoD meeting was scheduled to be held on February 22, 2010 to consider the scheme of amalgamation of GSML with ZIL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "z2ubiJSsMi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8683,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 8578,
+              "text": "The BoD of ZIL as well as GSML approved the scheme of amalgamation of GSML with ZIL on February 22, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "HwU71OBY6I",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8866,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 8684,
+              "text": "Upon completion of amalgamation the shareholders of GSML would receive 1 equity share of Rs.10 each of ZIL for every one share of GSML held by them on record date to be fixed by ZIL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4cu8yJPyaW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9032,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 8871,
+              "text": "The proposed amalgamation and the swap ratio of 1:1 were price sensitive information as prescribed under Regulation 2(ha)(v) of the Insider Trading Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bzA3L_xEav",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9144,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9032,
+              "text": "The said price sensitive information came to the public knowledge only on February 18 and 22, 2010 respectively."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "v6p64r4XQl",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9281,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9149,
+              "text": "Mr. Akshay Poddar purchased 30000 shares of GSML on February 09, 2010 and another 10000 shares on February 10, 2010 from the market."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ohHUpdQg4S",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9395,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9282,
+              "text": "He purchased another 20000 shares of GSML on February 09, 2010 on behalf of his minor daughter Ku. Ayesha Poddar."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "zzE2xwCuVm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9472,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9396,
+              "text": "The seller of the shares was M s Uttar Pradesh Trading Company Ltd (UPTCL). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "oGP-Y-x4MR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9688,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9472,
+              "text": "Mr. Akshay Poddar, Mrs. Puja Poddar and M s. Poddar Heritage Investments Pvt Ltd purchased 1,15,000, 1,10,000 and 95000 shares of GSML respectively from M s Texmaco Ltd another promoter of GSML on February 15, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "O_ds7pUctQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9813,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9688,
+              "text": "Mrs. Puja Poddar purchased the shares through off market whereas the others purchased the shares through market transactions."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Lpov2vmvex",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10089,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 9813,
+              "text": " It is alleged that the said Noticees are insiders and connected persons in terms of Insider Trading Regulations and they traded in the shares of GSML while in possession of unpublished price sensitive information in contravention of Regulation 3(i) and 4 of PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "y6-efTP0rA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10352,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10093,
+              "text": "The submissions of the Noticees in this regard are summarized below: a. “GSML belonged to K.K. Birla Group of companies and upon his demise the group companies were to be separated and each of the three daughters were to take charge of some part of the group."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yuXKjWgLfi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10436,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10353,
+              "text": "Accordingly, three groups were made – Nopany Group, Poddar Group and Bhartia Group."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cGH3weEAQg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10551,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10436,
+              "text": " In aid of this family settlement, the process of disentangling the cross holdings of the family groups was begun. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "igjNwblv5l",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10591,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10551,
+              "text": "GSML came into the fold of Poddar Group."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EvXyJlhcW0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10733,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10592,
+              "text": "As holdings in GSML came to the fold of the Poddar group UTPCL transferred 160,000 shares held by it in GSML to the members of Poddar group. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Evn3yjBPG8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10799,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10733,
+              "text": "The transaction of 3,20,000 shares of GSML was inter-se promoters."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Mczp_4ppZV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10888,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10800,
+              "text": "Mr. Akshay Poddar is the grandson of Dr. K. K. Birla and the son of Mrs. Jyotsna Poddar."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RvYG2B8PHt",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11015,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 10889,
+              "text": "b. By accepting the appointment of N.M Raiji and Co. as valuers, no final decision is taken on amalgamation of GSML with ZIL. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xysOII-a4o",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11088,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11015,
+              "text": "Everything was at the proposal stage and contingent upon the swap ratio. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "WVEnErI0R6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11174,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11088,
+              "text": "Mere consideration without any finality in a matter is No price sensitive information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "DD3DnFC57e",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11383,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11175,
+              "text": "c. In so far as swap ratio and valuation report are concerned, ZIL was coordinating with N.M. Raiji & Co. and GSML had no direct interface with it. N.M. Raiji & Co. has No sent the report to GSML as alleged. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hO9OzbpsXk",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11550,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11383,
+              "text": "The company secretary of GSML received the sealed cover containing the valuation report and the swap ratio from the Company Secretary of ZIL only on February 19, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7ETk84t5b3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11686,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11551,
+              "text": "The Company Secretary of ZIL had received two separate covers from N.M. Raiji & Co. containing the valuation report and the swap ratio."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SMqY9_d74n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11815,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11687,
+              "text": "The sealed cover containing the report was opened at the Board Meeting held on February 22, 2010 in the presence of BOD of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Zm41D5uCgZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11932,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11815,
+              "text": " If at all, there was any unpublished price sensitive information, the same came into existence on February 22, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "-MmCR-fy01",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12045,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 11933,
+              "text": "Mere consideration of a proposal of amalgamation cannot be construed as unpublished price sensitive information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZeAKimee9C",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12141,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12046,
+              "text": "Therefore, there is no violation of provisions of Regulation 3(i) of PIT Regulation as alleged."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "zfubWnLdPp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12541,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12142,
+              "text": "d. Simply because there is some overlap in two independent activities (purchases made by Purchasers and proposal of amalgamation), it should No be automatically concluded that purchases were motivated by alleged unpublished price sensitive information and the Noticees had indulged in insider trading completely ignoring and overlooking the surrounding circumstances and the rationale for purchases."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Kf5N8_aBTE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12734,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12541,
+              "text": " Any person, who indulges in insider trading, indulges in the same with the motive of making profits by taking a contra position immediately when the information comes within the public domain."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "oIh8I0AR2L",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12843,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12734,
+              "text": " In the matter under reference, no sales have been carried out post the alleged information becoming public. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5j9fPfEEoE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12923,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12843,
+              "text": "On the contrary, the Noticees still continue to hold the entire shares of GSML. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "JynYq4Blqf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13250,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 12923,
+              "text": "Further, it is also unthinkable that the Noticees would indulge in insider trading, as alleged, in order to fleece their own relatives (Nophany’s) or the entities controlled by them (viz; Nopany Group) or their own group entities (Texmaco- Poddar group) and thereby deprive them of profit or pass on an avoidable loss to them. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "44F3e1uTVt",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13310,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 13250,
+              "text": "Same completely destroys the allegation of insider trading. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "LchbEIQI-m",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13637,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 13313,
+              "text": " I find that the proposed amalgamation of GSML with ZIL was at the proposal stage and it became public on February 22, 2010 on which date the BoD of both the companies decided on the amalgamation and swap ratio. Mere acceptance of the appointment of the valuer does No construed as a final word on the proposed amalgamation."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CAqeV563zs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13848,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 13637,
+              "text": " Even though the Noticees were impending the amalgamation of GSML with ZIL, there were other procedures which were required to be followed under the Companies Act and till then the amalgamation may No fructify. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cup1uL44_P",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13993,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 13848,
+              "text": "I find that N.M.Raiji & Co. sent the valuation report to GSML and ZIL in a sealed cover and was opened at the Board Meeting on February 22, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "wk8LAdVYmn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14289,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 13994,
+              "text": "I do No find any substantive corroborative evidences on record to counter the submissions of the Noticees and to establish that the sealed cover was opened before the Board Meeting or the Noticees were aware about the contents of the valuation report prior to its opening at the meeting of BoD. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "srqFIM3JGr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14454,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 14293,
+              "text": "Further, I find that the motive of the Noticees in purchasing the shares from UPTCL is purely separation of family business from Nopany Group which owned UPTCL. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "TeKSGtcPRz",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14643,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 14454,
+              "text": "The purchase of 3,20,000 shares from Texmaco Ltd was inter- se transfer among the promoter group and there are no reasons to suspect that the seller is unaware of the proposed amalgamation."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "KJWPdPCxN6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14738,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14643,
+              "text": " I have noted that the scrip of GSML is illiquid scrip and have very rarely traded since 1995. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "VSNClL1sDq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14793,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14738,
+              "text": "The Noticees still continue to hold the shares of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "zcHkOT1tda",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14936,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 14794,
+              "text": "This all suggest that the Noticees traded i.e. purchased shares of GSML pursuant to the separation of business interest (family arrangement). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "OmFEqGAO11",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15122,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14939,
+              "text": " I also find from the documents available on record that similar transactions were executed by Mrs. Shradha Agarwala who is the sister of Mr. Akshay Poddar, a deemed connected person."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0cHpzQyGup",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15313,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 15123,
+              "text": "Poddar group companies’ viz. M s Greenland Trading Pvt Ltd and Indrakshi Trading Company Ltd which were also deemed connected persons traded in the shares of GSML during the relevant period."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "70MejLKAf9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15601,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15314,
+              "text": "The trades of the above entities were treated as executed pursuant to the separation of business interest (family arrangement) and the motives behind their trading were No to gain any unfair advantage and accordingly No in violation of the provisions of the Insider Trading Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZA5ohLqecT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15883,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15601,
+              "text": "Similarly, ZIL and its subsidiary Zuari Investments Ltd executed transactions in the shares of GSML during the relevant period but concluded that the trades were No carried out to gain any unfair advantage and accordingly No considered in violations of Insider Trading Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "_Spm62UFPy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16198,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15886,
+              "text": " I find that there are no sufficient evidences available on record to prove that the trades were carried out by the Noticees to gain any unfair advantage but on the contrary those were executed in the aid of family arrangement and inter-se transfer amongst the group in similar lines as mentioned in para above. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "HLgNRux2R4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16490,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 16198,
+              "text": "I am thereofore, inclined to give benefit of doubt to the Noticees and conclude that the allegations of trading in shares of GSML while in possession of unpublished price sensitive information in contravention of Regulations 3(i) and 4 of Insider Trading Regulations do No stand established. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "o4-D5DAdRz",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16643,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 16494,
+              "text": "The next issue for consideration is whether Mr. Akshay Poddar had failed to make a disclosure as required under Regulation 7(1) of SAST Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "BX_Qgco02u",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16757,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 16643,
+              "text": "Investigation revealed that Mr. Akshay Poddar was holding 80000 shares (2.5%) of GSML at the end of December 2009."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bJF5nMFXh1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16876,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 16758,
+              "text": "His shareholding increased to 235000 shares constituting 7.34% of the share capital of GSML at the end of March 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "JsqcXi40lb",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16999,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 16876,
+              "text": "Since the shareholding crossed the 5% limit, he was required to make disclosure under Regulation 7(1) of SAST Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "kuCSiQGLp7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17184,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 16999,
+              "text": "It is alleged that he failed to make the said disclosure to Calcutta Stock Exchange (CSE) where the shares of GSML were listed at the relevant time thereby violated the said Regulation."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bOECmTe08n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17289,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 17189,
+              "text": "Mr. Akshay Poddar denied that he had violated the provisions of Regulation 7(1) of SAST Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xqviuOzJPF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17442,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17290,
+              "text": "He had promptly made a disclosure to GSML and CSE on February 16, 2010 after completing the acquisition of 115,000 shares of GSML on February 15, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "y_lbmEo2ZU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17547,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17442,
+              "text": "Based on the disclosure made by him, GSML also made matching disclosure to the CSE on February 16, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8lBwR7PfoJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17618,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17547,
+              "text": "He has submitted the copy of the disclosures made by him to GSML & CSE."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "y1i2-FlhPo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17734,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17618,
+              "text": " Further, he had also made a disclosure to GSML under regulation 13(4) of the PIT Regulations on February 16, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "h0qDWjVC03",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17920,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17734,
+              "text": "Mr. Akshay Poddar submitted copies of the disclosures made by him to the GSML and CSE, the disclosure made by GSML to CSE and a copy of the disclosure as appearing on the website of CSE."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Cn4HttKnUH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18160,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17925,
+              "text": "I have considered the submissions made by Mr. Akshay Poddar and the documents submitted in support of his claim that he had made the disclosure about his aggregate shareholding voting rights in GSML to CSE when he crossed the 5% limit."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "56qgZa5yKy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18342,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18160,
+              "text": " I find from the copies of documents submitted to me that Mr. Akshay Poddar had made the disclosures which were apparently received and acknowledged by the CSE on February 16, 2010. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SqgKtDqb9i",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18471,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 18342,
+              "text": "There is no substantive evidence to corroborate that Mr. Akshay Poddar failed to make the required disclosure to CSE as alleged. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "emLNRYuKFz",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18648,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 18471,
+              "text": "I am therefore, inclined to give benefit of doubt to Mr. Akshay Poddar and conclude that the alleged violation of Regulation 7(1) of SAST Regulations does No stand established. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7y_yZocCr9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18830,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 18652,
+              "text": "The last issue for consideration is whether Mr. Akshay Poddar, Mrs. Shradha Agarwala and M s. Indrakshi Trading Company Pvt Ltd had violated Regulation 11(2) of SAST Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "_BfKaV_m66",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18913,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18835,
+              "text": "The investigations revealed that the above Noticees are the promoters of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3IlvT-6FXL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19084,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18914,
+              "text": "The promoters and or persons acting in concert (PACs) of GSML were together holding 59.86% of shareholding rights or shares at the end of the quarter ended December 2009."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IqLxxcqmjM",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19242,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19085,
+              "text": "The Noticees along with other promoters and or PACs acquired additional 1,60,000 shares constituting 5 % of share capital of GSML during February 4-11, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "56Dio22vIw",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19363,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19243,
+              "text": "The shareholding of promoter group increased from 59.86% to 64.86% during the quarter January 1, 2010 to March 31, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SCG6v_ihwo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19655,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19364,
+              "text": "In terms of second proviso to Regulation 11(2) of the SAST Regulations the Noticees could have acquired any additional shares or voting rights upto 5% without making public announcement provided if the purchases are other than bulk deals i.e. No more than 0.5% of the listed capital per day."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ciJ5UBzkL2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19922,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19656,
+              "text": "Mr. Akshay Poddar, Ku. Aeysha Poddar (minor daughter of Akshay Poddar), Mrs. Shradha Agarwala, Ku. Aasthi Agarwala and Ku. Anisha Agarwala (both minor daughters of Mrs. Shradha Agarwala) and M s. Indrakshi Trading Company Pvt Ltd purchased shares through bulk deals."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "BiKSz9ChYO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20001,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 19923,
+              "text": "Therefore, the exemption under Regulation 11(2) would No be available to them."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IAlTkNJnR7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20208,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 20002,
+              "text": "It is therefore alleged that the Noticees acquired the above shares without making the public announcement thereby violated Regulation 11(2) read with second proviso to Regulation 11(2) of SAST Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ILmGzEhBde",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20476,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 20213,
+              "text": "The Noticees inter-alia submitted that a. “the second proviso to Regulation 11(2) of SAST Regulations is No applicable to them since the transaction of acquisition of 1,60,000 shares of GSML by them is exempt under Regulation 3(1)(e)(iii)(b) of SAST Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lAY-DzdNgt",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20616,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 20476,
+              "text": "The transaction is inter-se transfer amongst the qualifying promoters. b. Mr. Akshay Poddar is disclosed as a promoter and director of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "USPSaZQ-39",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20704,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 20617,
+              "text": "He is son of Mr. Saroj Kumar Poddar and Mrs. Jyotsna Poddar who are in control of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "v2JzHrZUQV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20974,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 20705,
+              "text": "Therefore, since the relatives coming within the meaning of S.6 of the Companies Act are also to be deemed as qualifying promoters, Mr. Saroj Kumar Poddar and Mrs. Jyotsna Poddar, being father and mother of Mr. Akshay Poddar will also be deemed as qualifying promoters."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hcyXZEMFCb",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21267,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 20975,
+              "text": "c. Mrs. Shradha Agarwala, who is sister of Mr. Akshay Poddar and daughter of Mr. Saroj Kumar Poddar and Mrs. Jyotsna Poddar who are qualifying promoters and are in control of GSML, comes within the meaning of S.6 of companies Act along with her minor daughters Ku. Anisha and Aashti Agarwala."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IVSzISvITy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21532,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 21268,
+              "text": "d. M s. Indrakshi Trading Company Pvt Ltd is an unlisted company and the majority of the shareholding is held by Saroj Kumar Poddar (63.33%) who is a qualifying promoter and is in control of GSML and his daughter Mrs. Shradha Agarwala (3.33%) is also on the Board."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pgmkVCb0bW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21675,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 21533,
+              "text": "Therefore, Indrakshi Trading Co. Pvt Ltd is a company directly controlled by the qualifying promoter or a relative of the qualifying promoter."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fzNNB6VUyw",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21931,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 21675,
+              "text": " e. M s. Greenland Trading Company Pvt Ltd is an unlisted company and the majority of the shareholding is held by Saroj Kumar Poddar (63.33%) who is a qualifying promoter and is in control of GSML and his son Mr. Akshay Poddar (3.33%) is also on the Board."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "vbvtWP2rr9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22074,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 21932,
+              "text": "Therefore, Greenland Trading Co. Pvt Ltd is a company directly controlled by the qualifying promoter or a relative of the qualifying promoter."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xfte7ZRY5y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22360,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 22075,
+              "text": "f. At the relevant time around 99% of shareholding of UPTCL is held by its parent company M s Upper Ganges Sugar and Industries Ltd whose majority shareholding is owned and controlled by Mrs. Nandini Noopany and her son Mr. Chandrashekar Noopany directly and through various companies."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IptDsh1rkW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22461,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 22361,
+              "text": "Further, both Mrs. Nandini Noopany and her son Chandrashekar Noopany are also on the Board of UPTCL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "JlaSaq1Uya",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22582,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 22462,
+              "text": "Mrs. Nandini Noopany who directly controls UPTCL is the real sister of Mrs. Jyotsna Poddar who is a qualifying promoter."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EVPWk4FgdX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22680,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 22583,
+              "text": "Mrs. Jyotsna Poddar is the mother of Mr. Akshay Poddar who is also a qualifying promoter of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "g-pmIxEcJ8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22816,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 22681,
+              "text": "Mrs. Nandini Noopany is relative of Mrs. Jyotsna Poddar who is a qualifying promoter within the meaning of S.6 of Companies Act, 1956. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "WEwUUV7Uua",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22979,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 22816,
+              "text": "Thus, UPTCL is a qualifying promoter of GSML being a company, directly controlled by relatives of qualifying promoters (Mrs. Jyotsna Poddar Akshay Poddar) of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FHuN3GOEqd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23080,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 22980,
+              "text": "g. Thus, both the transferor and transferees fall under the definition of term qualifying promoters."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ari8VEnBqp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23265,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 23081,
+              "text": "h. In so far as transferees are concerned, i. Mr. Akshay Poddar, one of the transferees, has been holding shares of GSML for more than 3 years prior to the acquisition under reference."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xs6BT7Ya0n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23563,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 23265,
+              "text": " ii. In so far as other transferees {Ku. Ayesha Poddar (minor), Mrs. Shradha Agarwala, Ku. Anisha Agarwala (minor), Ku Aashti Agarwala (minor), Indrakshi Trading Company Pvt Ltd., Greenland Trading Pvt Ltd.} are concerned, they have No been holding any shares in GSML prior to Impugned Transaction."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8eMcrMi0ep",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24028,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 23564,
+              "text": "iii. In this context, SEBI has taken a view in certain responses issued by it under SEBI (Informal Guidance) Scheme, 2003, that even if one of the transferees has been holding shares of the target company for a period of at least 3 years prior to the said acquisition and the other transferees do No satisfy this criterion, the acquisition would still be exempted under Regulation 3(1)(e)(iii)(b) provided that the other conditions mentioned therein are fulfilled."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "NCcNQGuYJW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24419,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 24029,
+              "text": "The said view of SEBI has been expressed in several responses including inter-alia the following: (i) SEBI’s response dated October 19, 2004 to Sudarshan Chemical Industries Ltd CFD DCR TO MM 04; (ii) SEBI’s response dated March 26, 2008 to ABC India Ltd CFD DCR TO INF AG 121363 08 and (iii) SEBI’s response dated June 18, 2007 to Jubilee Investments & Industries Ltd CFD DCR TO INF HB 07."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xyDOgYE5ra",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24606,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 24419,
+              "text": " iv. In the circumstances, since Akshay Poddar (who belongs to the same group as other transferees) had been holding shares for more than 3 years in GSML, this condition stands satisfied."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bXDjwHD9xU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24772,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 24606,
+              "text": " i. In so far as transferor, UPTCL is concerned, prior to the date of impugned transaction, it was holding shares of GSML since the year 2001. i.e. more than 3 years."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "rw9bjljNhk",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24922,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 24772,
+              "text": " j. Thus, both the transferor and transferees have been holding shares in GSML for a period at least 3 years prior to the acquisition under reference."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Tsmqg_FnkU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25053,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 24922,
+              "text": " k. The shares of GSML, prior to the impugned transaction were infrequently traded in terms of Explanation (i) to Regulation 20(5)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "LyFEZtHHyG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25416,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 25054,
+              "text": "Further, as per the C.A Certificate dated March 29, 2011 the price of the shares, as per the methodology stipulated in Regulation 20, works out to Rs. 52.78 per share and the impugned transactions have taken place between the price range of Rs.50- 60 which is No exceeding 25% of the price as determined in terms of sub- regulations (4) and (5) of Regulation 20."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "h_hY46GWLF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25651,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 25416,
+              "text": " l. Thus, the inter-se transfer of shares amongst the transferor and transferees has been done at a price range of Rs. 50-60 which is No exceeding 25% of the price as determined in terms of sub-regulations (4) and (5) of Regulation 20."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "uBBVNya2E0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25750,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 25652,
+              "text": "Both the transferor and transferees have complied with Regulations 6, 7 and 8 of SAST Regualtions."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9mqssYRKfI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25919,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 25751,
+              "text": "m. In the circumstances, the impugned transaction satisfies all the conditions stipulated in Regulation 3(1)(e)(iii)(b) of SAST Regulations and qualifies for exemption."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "kimQLoNcqE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26066,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 25924,
+              "text": "I find from the records that the Noticees are the promoters and or PACs of GSML who were together holding 59.86% of shares or rights of GSML. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bedcGPFdgf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26299,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 26066,
+              "text": "The Promoter group and or PACs together during February 4-10, 2010 purchased through market transactions 1,60,000 shares from erstwhile promoter M s Uttar Pradesh Trading Company Ltd The said purchase is 5% of share capital of GSML. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "UemKhIrBhd",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26547,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 26303,
+              "text": "As per Regulation 11(2) if an acquirer together with PACs holds 55% or more but less that 75% of shares or voting rights of target company in present case GSML, they shall No acquire any additional shares unless they make a public announcement."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "G4iX-q8nev",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26677,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 26548,
+              "text": "The second proviso to Regulation 11(2) provides conditions where acquisition can be made even without making public announcement."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "AzOnyVuM6E",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26898,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 26678,
+              "text": "The first condition which is in issue is that acquisition can be made even without making public announcement if shares are acquired in normal segment on stock exchange but the same should No be bulk deals block deals…… "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0f1GHjOb2S",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27059,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 26901,
+              "text": " In present case the Noticees along with other promoters and or PACs acquired 5% shares or voting rights of GSML on CSE during February 4-10, 2010 from UPTCL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SpcFdQUzvQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27195,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 27060,
+              "text": "The said purchase transactions were executed as Bulk Deals which is defined in SEBI Cir MRD DOP SE Cir-19 05 dated September 02, 2005. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "47Pe4KrE_B",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27394,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 27195,
+              "text": "Bulk deals means all transactions in a scrip (on an exchange) where total quantity of shares bought sold is more than 0.5% of the number of equity shares of the company (GSML) listed on the exchange."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "rrZR-xGaF2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27468,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 27395,
+              "text": "The Noticees executed transactions on February 09 10, 2010 as bulk deals."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "25wRYbzpj3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27649,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 27469,
+              "text": "In view of the above, it is established beyond doubt that the acquisition of the shares by the Noticees is No exempted under second proviso to Regulation 11(2) of SAST Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7KV5cj8nVS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27802,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 27654,
+              "text": "However, I have considered the submissions of the Noticees that the second proviso to Regulation 11(2) of SAST Regulations is No applicable to them."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yR9jQ1yGBV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 28069,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 27803,
+              "text": "Further, the acquisition of 1,60,000 shares of GSML by them is exempt under Regulation 3(1)(e)(iii)(b) of SAST Regulations as the transactions are inter-se transfer amongst the qualifying promoters and that they satisfy all the conditions for availing the exemption."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "KiwwG907j7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 28170,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 28069,
+              "text": " I have noted that they have also submitted a report under Regulation 3(4) to SEBI on April 5, 2011. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cV0E_lPly5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 28268,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 28170,
+              "text": "I find from the documents available on record that the Noticees are promoters and or PACs of GSML."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8QxhWpTeWn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 28519,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 28269,
+              "text": "The UPTCL is also erstwhile promoter of GSML and that the said transaction forms part of family arrangement and the motive of trades being separation of business between families (Nopany family and Poddar family) pursuant to death of Dr. K. K. Birla."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "YUlGqz5Gaf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 28674,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 28520,
+              "text": "In view of the above, I am inclined to give benefit of doubt to the Noticees and do No hold them guilty of violating Regulation 11(2) of SAST Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EkwF65mKG7",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 28991,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 28685,
+              "text": "In view of the above, after considering all the facts and circumstances of the case and exercising the powers conferred upon me U S 15-I (2) of the SEBI Act, 1992, I conclude that the allegations as per the SCNs are No established and or the case is No fit to impose any monetary penalties on the Noticees."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hn30MJK5qE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 29030,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 28992,
+              "text": "The matter is accordingly disposed of."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "jjVNbttLe-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 29180,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 29034,
+              "text": " In terms of the Rule 6 of the Adjudicating Rules, copies of the order are sent to the Noticees and also to Securities & Exchange Board of India. "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "- Akshay%20Poddar%20and%20Others%20September%2007%2C%202011[… BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA [ADJUDICATION ORDER NOs. PKK AO 157-161 2011] UNDER SECTION 15-I OF SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 READ WITH RULE 5 OF SEBI (PROCEDURE FOR HOLDING INQUIRY AND IMPOSING PENALTIES BY ADJUDICATING OFFICER) RULES, 1995. Against 1. Mr. Akshay Poddar [PAN No AFUPP0096C] 2. Mrs. Puja Poddar [PAN No ALRPP0822B] 3. M s. Poddar Heritage Investments Ltd [PAN No AACCP3995N] 4. Mrs. Shradha Agarwala [PAN No ACTPA8806F] 5. M s Indrakshi Trading Company Pvt Ltd [PAN No AAACI5318Q] Background: 1. Securities and Exchange Board of India (hereinafter referred to as ’SEBI’) conducted an investigation into the alleged irregularity in the matter of Gobind Sugar Mills Ltd (GSML) and Zuari Industries Ltd (ZIL). Investigations revealed that a scheme of amalgamation of GSML with ZIL was approved by the Board of Directors (BoD) of ZIL and GSML on February 22, 2010. Upon completion of the amalgamation, the shareholders of GSML would receive 1 equity share of Rs.10 each of ZIL for every one share of GSML held by them as on record date to be fixed by ZIL. The amalgamation of GSML with ZIL and the swap ratio of 1:1 decided by the valuer for the proposed amalgamation are price sensitive information in terms of SEBI (Prohibition of Insider Trading) Regulations, 1992 (hereinafter referred to as Insider Trading Regulations. The Investigations further revealed that (1) Mr. Akshay Poddar (2) Mrs. Puja Poddar (3) M s. Poddar Heritage Investments Ltd (4) Mrs. Shradha Agarwala and (5) M s Indrakshi Trading Company Pvt Ltd (hereinafter collectively referred to as the ‘Noticees’) allegedly violated the provisions of and Insider Trading Regulations and SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997 (hereinafter referred to as ‘SAST Regulations’). 2. In view of the above, SEBI has initiated adjudication proceedings under the Securities Exchange Board of India Act, 1992 (hereinafter referred to as the “SEBI Act”) against the Noticees {(1) Mr. Akshay Poddar - Regulations 3(i) and 4 of Insider Trading Regulations, Regulations 7(1) and 11(2) of SAST Regulations, (2) Mrs. Puja Poddar - Regulations 3(i) and 4 of Insider Trading Regulations, (3) M s. Poddar Heritage Investments Ltd - Regulations 3(i) and 4 of Insider Trading Regulations, (4) Mrs. Shradha Agarwala - Regulation 11(2) of SAST Regulations and (5) M s. Indrakshi Trading Company Pvt Ltd - Regulation 11(2) of SAST Regulations} for violating the provisions of Insider Trading Regulations and SAST Regulations as noted against their names. Notice, Reply and Personal Hearing: 3. The Adjudicating Officer (AO) issued Notices dated May 10, 2011 (hereinafter referred to as the ‘SCNs’) in terms of the provisions of Rule 4 of SEBI (Procedure For Holding Inquiry And Imposing Penalties By Adjudicating Officer) Rules, 1995 (hereinafter referred to as the Adjudicating Rules) requiring the Noticees to show cause as to why an inquiry should No be held for the violations allegedly committed by them. 4. The Noticees vide letters dated June 14, 2011 and July 02, 2011 replied to the SCNs. The AO considered the facts of the case, replies of the Noticees and other materials available on record and decided to conduct an inquiry in the matter. I granted an opportunity of personal hearing to the Noticees on July 28, 2011. The authorized representative of the Noticees appeared before me on the said date and made oral submissions. The Notiees made another written submission vide letter dated August 02, 2011 which was received on September 02, 2011. In view of the above, I am proceeding with the matter on the basis of oral and written submissions made by the Noticees and other materials available on record. Consideration of Issues, Evidences and Findings: 5. I have carefully perused the charges made against the Noticees as per the SCNs, replies and submissions of the Noticees and the documents available on record. The issues that arise for consideration in the present case are:- a) Whether the Noticees have violated the provisions of Regulations 3(i) and 4 of Insider Trading Regulations, Regulations 7 (1) and 11(2) of SAST Regulations? b) Do the violations, if any, on the part of the Noticees attract any monetary penalty under sections 15G, 15H and 15A(b)of SEBI Act? c) If so, what should be the monetary penalty that can be imposed taking into consideration the factors mentioned in Section 15J of SEBI Act, 1992? 6. Before moving forward, it will be appropriate to refer to the relevant provisions of the Regulations alleged to have been violated which inter alia read as under:- PIT Regulations Prohibition on dealing, communicating or counselling on matters relating to insider trading. 3. No insider shall— (i) either on his own behalf or on behalf of any other person, deal in securities of a company listed on any stock exchange when in possession of any unpublished price sensitive information; or Violation of provisions relating to insider trading. 4. Any insider who deals in securities in contravention of the provisions of regulation 3 or 3A shall be guilty of insider trading. SAST Regulations Acquisition of 5 per cent and more shares or voting rights of a company. 7. [(1) Any acquirer, who acquires shares or voting rights which (taken together with shares or voting rights, if any, held by him) would entitle him to more than five per cent or ten per cent or fourteen per cent or fifty four per cent or seventy four per cent] shares or voting rights in a company, in any manner whatsoever, shall disclose at every stage the aggregate of his shareholding or voting rights in that company to the company and to the stock exchanges where shares of the target company are listed.] Consolidation of holdings. 11. (1) …. (2) No acquirer, who together with persons acting in concert with him holds, fifty-five per cent (55%) or more but less than seventy-five per cent (75%) of the shares or voting rights in a target company, shall acquire either by himself or through persons acting in concert with him any additional shares or voting rights therein, unless he makes a public announcement to acquire shares in accordance with these Regulation: Provided that …….. Provided further that such acquirer may, notwithstanding the acquisition made under regulation 10 or sub-regulation (1) of regulation 11,] without making a public announcement under these Regulations, acquire, either by himself or through or with persons acting in concert with him, additional shares or voting rights entitling him upto five per cent. (5%) voting rights in the target company subject to the following:- (i) the acquisition is made through open market purchase in normal segment on the stock exchange but No through bulk deal block deal negotiated deal preferential allotment; or the increase in the shareholding or voting rights of the acquirer is pursuant to a buy back of shares by the target company; (ii) the post acquisition shareholding of the acquirer together with persons acting in concert with him shall No increase beyond seventy five per cent.(75%).] 7. Firstly, I am dealing with the allegation whether the Noticees (1) Mr. Akshay Poddar, (2) Mrs. Puja Poddar and (3) M s. Poddar Heritage Investments Ltd have traded in the shares of GSML while in possession of unpublished price sensitive information thereby contravened the provisions of Regulation 3(i) and 4 of the Insider Trading Regulations. 8. As per the SCN, Mr. Akshay Poddar is one of the promoters and directors of GSML. Mrs. Puja Poddar is the wife of Mr. Akshay Poddar is also a promoter of GSML. M s. Poddar Heritage Investments Ltd., a Poddar group company is also the promoter of GSML in which Mr. Akshay Poddar is the Promoter- Managing Director, 9. ZIL appointed N.M Raiji & Co. as valuer on October 24, 2009 for valuation of companies ZIL and GSML for the proposed amalgamation. Therefore, the price sensitive information pertaining to the amalgamation of GSML with ZIL came into existence on October 24, 2009. GSML accepted the appointment of valuer on October 28, 2009. The management representation letter dated January 05, 2010 on behalf of GSML to N.M Raiji & Co. in this regard was signed by Mr. Akshay Poddar. The valuation report was sent to GSML and ZIL on January 18, 2010. The GSML made a corporate announcement on February 18, 2010 that a BoD meeting was scheduled to be held on February 22, 2010 to consider the scheme of amalgamation of GSML with ZIL. The BoD of ZIL as well as GSML approved the scheme of amalgamation of GSML with ZIL on February 22, 2010. Upon completion of amalgamation the shareholders of GSML would receive 1 equity share of Rs.10 each of ZIL for every one share of GSML held by them on record date to be fixed by ZIL. 10. The proposed amalgamation and the swap ratio of 1:1 were price sensitive information as prescribed under Regulation 2(ha)(v) of the Insider Trading Regulations. The said price sensitive information came to the public knowledge only on February 18 and 22, 2010 respectively. 11. Mr. Akshay Poddar purchased 30000 shares of GSML on February 09, 2010 and another 10000 shares on February 10, 2010 from the market. He purchased another 20000 shares of GSML on February 09, 2010 on behalf of his minor daughter Ku. Ayesha Poddar. The seller of the shares was M s Uttar Pradesh Trading Company Ltd (UPTCL). Mr. Akshay Poddar, Mrs. Puja Poddar and M s. Poddar Heritage Investments Pvt Ltd purchased 1,15,000, 1,10,000 and 95000 shares of GSML respectively from M s Texmaco Ltd another promoter of GSML on February 15, 2010. Mrs. Puja Poddar purchased the shares through off market whereas the others purchased the shares through market transactions. It is alleged that the said Noticees are insiders and connected persons in terms of Insider Trading Regulations and they traded in the shares of GSML while in possession of unpublished price sensitive information in contravention of Regulation 3(i) and 4 of PIT Regulations. 12. The submissions of the Noticees in this regard are summarized below: a. “GSML belonged to K.K. Birla Group of companies and upon his demise the group companies were to be separated and each of the three daughters were to take charge of some part of the group. Accordingly, three groups were made – Nopany Group, Poddar Group and Bhartia Group. In aid of this family settlement, the process of disentangling the cross holdings of the family groups was begun. GSML came into the fold of Poddar Group. As holdings in GSML came to the fold of the Poddar group UTPCL transferred 160,000 shares held by it in GSML to the members of Poddar group. The transaction of 3,20,000 shares of GSML was inter-se promoters. Mr. Akshay Poddar is the grandson of Dr. K. K. Birla and the son of Mrs. Jyotsna Poddar. b. By accepting the appointment of N.M Raiji and Co. as valuers, no final decision is taken on amalgamation of GSML with ZIL. Everything was at the proposal stage and contingent upon the swap ratio. Mere consideration without any finality in a matter is No price sensitive information. c. In so far as swap ratio and valuation report are concerned, ZIL was coordinating with N.M. Raiji & Co. and GSML had no direct interface with it. N.M. Raiji & Co. has No sent the report to GSML as alleged. The company secretary of GSML received the sealed cover containing the valuation report and the swap ratio from the Company Secretary of ZIL only on February 19, 2010. The Company Secretary of ZIL had received two separate covers from N.M. Raiji & Co. containing the valuation report and the swap ratio. The sealed cover containing the report was opened at the Board Meeting held on February 22, 2010 in the presence of BOD of GSML. If at all, there was any unpublished price sensitive information, the same came into existence on February 22, 2010. Mere consideration of a proposal of amalgamation cannot be construed as unpublished price sensitive information. Therefore, there is no violation of provisions of Regulation 3(i) of PIT Regulation as alleged. d. Simply because there is some overlap in two independent activities (purchases made by Purchasers and proposal of amalgamation), it should No be automatically concluded that purchases were motivated by alleged unpublished price sensitive information and the Noticees had indulged in insider trading completely ignoring and overlooking the surrounding circumstances and the rationale for purchases. Any person, who indulges in insider trading, indulges in the same with the motive of making profits by taking a contra position immediately when the information comes within the public domain. In the matter under reference, no sales have been carried out post the alleged information becoming public. On the contrary, the Noticees still continue to hold the entire shares of GSML. Further, it is also unthinkable that the Noticees would indulge in insider trading, as alleged, in order to fleece their own relatives (Nophany’s) or the entities controlled by them (viz; Nopany Group) or their own group entities (Texmaco- Poddar group) and thereby deprive them of profit or pass on an avoidable loss to them. Same completely destroys the allegation of insider trading. 13. I find that the proposed amalgamation of GSML with ZIL was at the proposal stage and it became public on February 22, 2010 on which date the BoD of both the companies decided on the amalgamation and swap ratio. Mere acceptance of the appointment of the valuer does No construed as a final word on the proposed amalgamation. Even though the Noticees were impending the amalgamation of GSML with ZIL, there were other procedures which were required to be followed under the Companies Act and till then the amalgamation may No fructify. I find that N.M.Raiji & Co. sent the valuation report to GSML and ZIL in a sealed cover and was opened at the Board Meeting on February 22, 2010. I do No find any substantive corroborative evidences on record to counter the submissions of the Noticees and to establish that the sealed cover was opened before the Board Meeting or the Noticees were aware about the contents of the valuation report prior to its opening at the meeting of BoD. 14. Further, I find that the motive of the Noticees in purchasing the shares from UPTCL is purely separation of family business from Nopany Group which owned UPTCL. The purchase of 3,20,000 shares from Texmaco Ltd was inter- se transfer among the promoter group and there are no reasons to suspect that the seller is unaware of the proposed amalgamation. I have noted that the scrip of GSML is illiquid scrip and have very rarely traded since 1995. The Noticees still continue to hold the shares of GSML. This all suggest that the Noticees traded i.e. purchased shares of GSML pursuant to the separation of business interest (family arrangement). 15. I also find from the documents available on record that similar transactions were executed by Mrs. Shradha Agarwala who is the sister of Mr. Akshay Poddar, a deemed connected person. Poddar group companies’ viz. M s Greenland Trading Pvt Ltd and Indrakshi Trading Company Ltd which were also deemed connected persons traded in the shares of GSML during the relevant period. The trades of the above entities were treated as executed pursuant to the separation of business interest (family arrangement) and the motives behind their trading were No to gain any unfair advantage and accordingly No in violation of the provisions of the Insider Trading Regulations. Similarly, ZIL and its subsidiary Zuari Investments Ltd executed transactions in the shares of GSML during the relevant period but concluded that the trades were No carried out to gain any unfair advantage and accordingly No considered in violations of Insider Trading Regulations. 16. I find that there are no sufficient evidences available on record to prove that the trades were carried out by the Noticees to gain any unfair advantage but on the contrary those were executed in the aid of family arrangement and inter-se transfer amongst the group in similar lines as mentioned in para above. I am thereofore, inclined to give benefit of doubt to the Noticees and conclude that the allegations of trading in shares of GSML while in possession of unpublished price sensitive information in contravention of Regulations 3(i) and 4 of Insider Trading Regulations do No stand established. 17. The next issue for consideration is whether Mr. Akshay Poddar had failed to make a disclosure as required under Regulation 7(1) of SAST Regulations. Investigation revealed that Mr. Akshay Poddar was holding 80000 shares (2.5%) of GSML at the end of December 2009. His shareholding increased to 235000 shares constituting 7.34% of the share capital of GSML at the end of March 2010. Since the shareholding crossed the 5% limit, he was required to make disclosure under Regulation 7(1) of SAST Regulations. It is alleged that he failed to make the said disclosure to Calcutta Stock Exchange (CSE) where the shares of GSML were listed at the relevant time thereby violated the said Regulation. 18. Mr. Akshay Poddar denied that he had violated the provisions of Regulation 7(1) of SAST Regulations. He had promptly made a disclosure to GSML and CSE on February 16, 2010 after completing the acquisition of 115,000 shares of GSML on February 15, 2010. Based on the disclosure made by him, GSML also made matching disclosure to the CSE on February 16, 2010. He has submitted the copy of the disclosures made by him to GSML & CSE. Further, he had also made a disclosure to GSML under regulation 13(4) of the PIT Regulations on February 16, 2010. Mr. Akshay Poddar submitted copies of the disclosures made by him to the GSML and CSE, the disclosure made by GSML to CSE and a copy of the disclosure as appearing on the website of CSE. 19. I have considered the submissions made by Mr. Akshay Poddar and the documents submitted in support of his claim that he had made the disclosure about his aggregate shareholding voting rights in GSML to CSE when he crossed the 5% limit. I find from the copies of documents submitted to me that Mr. Akshay Poddar had made the disclosures which were apparently received and acknowledged by the CSE on February 16, 2010. There is no substantive evidence to corroborate that Mr. Akshay Poddar failed to make the required disclosure to CSE as alleged. I am therefore, inclined to give benefit of doubt to Mr. Akshay Poddar and conclude that the alleged violation of Regulation 7(1) of SAST Regulations does No stand established. 20. The last issue for consideration is whether Mr. Akshay Poddar, Mrs. Shradha Agarwala and M s. Indrakshi Trading Company Pvt Ltd had violated Regulation 11(2) of SAST Regulations. 21. The investigations revealed that the above Noticees are the promoters of GSML. The promoters and or persons acting in concert (PACs) of GSML were together holding 59.86% of shareholding rights or shares at the end of the quarter ended December 2009. The Noticees along with other promoters and or PACs acquired additional 1,60,000 shares constituting 5 % of share capital of GSML during February 4-11, 2010. The shareholding of promoter group increased from 59.86% to 64.86% during the quarter January 1, 2010 to March 31, 2010. In terms of second proviso to Regulation 11(2) of the SAST Regulations the Noticees could have acquired any additional shares or voting rights upto 5% without making public announcement provided if the purchases are other than bulk deals i.e. No more than 0.5% of the listed capital per day. Mr. Akshay Poddar, Ku. Aeysha Poddar (minor daughter of Akshay Poddar), Mrs. Shradha Agarwala, Ku. Aasthi Agarwala and Ku. Anisha Agarwala (both minor daughters of Mrs. Shradha Agarwala) and M s. Indrakshi Trading Company Pvt Ltd purchased shares through bulk deals. Therefore, the exemption under Regulation 11(2) would No be available to them. It is therefore alleged that the Noticees acquired the above shares without making the public announcement thereby violated Regulation 11(2) read with second proviso to Regulation 11(2) of SAST Regulations. 22. The Noticees inter-alia submitted that a. “the second proviso to Regulation 11(2) of SAST Regulations is No applicable to them since the transaction of acquisition of 1,60,000 shares of GSML by them is exempt under Regulation 3(1)(e)(iii)(b) of SAST Regulations. The transaction is inter-se transfer amongst the qualifying promoters. b. Mr. Akshay Poddar is disclosed as a promoter and director of GSML. He is son of Mr. Saroj Kumar Poddar and Mrs. Jyotsna Poddar who are in control of GSML. Therefore, since the relatives coming within the meaning of S.6 of the Companies Act are also to be deemed as qualifying promoters, Mr. Saroj Kumar Poddar and Mrs. Jyotsna Poddar, being father and mother of Mr. Akshay Poddar will also be deemed as qualifying promoters. c. Mrs. Shradha Agarwala, who is sister of Mr. Akshay Poddar and daughter of Mr. Saroj Kumar Poddar and Mrs. Jyotsna Poddar who are qualifying promoters and are in control of GSML, comes within the meaning of S.6 of companies Act along with her minor daughters Ku. Anisha and Aashti Agarwala. d. M s. Indrakshi Trading Company Pvt Ltd is an unlisted company and the majority of the shareholding is held by Saroj Kumar Poddar (63.33%) who is a qualifying promoter and is in control of GSML and his daughter Mrs. Shradha Agarwala (3.33%) is also on the Board. Therefore, Indrakshi Trading Co. Pvt Ltd is a company directly controlled by the qualifying promoter or a relative of the qualifying promoter. e. M s. Greenland Trading Company Pvt Ltd is an unlisted company and the majority of the shareholding is held by Saroj Kumar Poddar (63.33%) who is a qualifying promoter and is in control of GSML and his son Mr. Akshay Poddar (3.33%) is also on the Board. Therefore, Greenland Trading Co. Pvt Ltd is a company directly controlled by the qualifying promoter or a relative of the qualifying promoter. f. At the relevant time around 99% of shareholding of UPTCL is held by its parent company M s Upper Ganges Sugar and Industries Ltd whose majority shareholding is owned and controlled by Mrs. Nandini Noopany and her son Mr. Chandrashekar Noopany directly and through various companies. Further, both Mrs. Nandini Noopany and her son Chandrashekar Noopany are also on the Board of UPTCL. Mrs. Nandini Noopany who directly controls UPTCL is the real sister of Mrs. Jyotsna Poddar who is a qualifying promoter. Mrs. Jyotsna Poddar is the mother of Mr. Akshay Poddar who is also a qualifying promoter of GSML. Mrs. Nandini Noopany is relative of Mrs. Jyotsna Poddar who is a qualifying promoter within the meaning of S.6 of Companies Act, 1956. Thus, UPTCL is a qualifying promoter of GSML being a company, directly controlled by relatives of qualifying promoters (Mrs. Jyotsna Poddar Akshay Poddar) of GSML. g. Thus, both the transferor and transferees fall under the definition of term qualifying promoters. h. In so far as transferees are concerned, i. Mr. Akshay Poddar, one of the transferees, has been holding shares of GSML for more than 3 years prior to the acquisition under reference. ii. In so far as other transferees {Ku. Ayesha Poddar (minor), Mrs. Shradha Agarwala, Ku. Anisha Agarwala (minor), Ku Aashti Agarwala (minor), Indrakshi Trading Company Pvt Ltd., Greenland Trading Pvt Ltd.} are concerned, they have No been holding any shares in GSML prior to Impugned Transaction. iii. In this context, SEBI has taken a view in certain responses issued by it under SEBI (Informal Guidance) Scheme, 2003, that even if one of the transferees has been holding shares of the target company for a period of at least 3 years prior to the said acquisition and the other transferees do No satisfy this criterion, the acquisition would still be exempted under Regulation 3(1)(e)(iii)(b) provided that the other conditions mentioned therein are fulfilled. The said view of SEBI has been expressed in several responses including inter-alia the following: (i) SEBI’s response dated October 19, 2004 to Sudarshan Chemical Industries Ltd CFD DCR TO MM 04; (ii) SEBI’s response dated March 26, 2008 to ABC India Ltd CFD DCR TO INF AG 121363 08 and (iii) SEBI’s response dated June 18, 2007 to Jubilee Investments & Industries Ltd CFD DCR TO INF HB 07. iv. In the circumstances, since Akshay Poddar (who belongs to the same group as other transferees) had been holding shares for more than 3 years in GSML, this condition stands satisfied. i. In so far as transferor, UPTCL is concerned, prior to the date of impugned transaction, it was holding shares of GSML since the year 2001. i.e. more than 3 years. j. Thus, both the transferor and transferees have been holding shares in GSML for a period at least 3 years prior to the acquisition under reference. k. The shares of GSML, prior to the impugned transaction were infrequently traded in terms of Explanation (i) to Regulation 20(5). Further, as per the C.A Certificate dated March 29, 2011 the price of the shares, as per the methodology stipulated in Regulation 20, works out to Rs. 52.78 per share and the impugned transactions have taken place between the price range of Rs.50- 60 which is No exceeding 25% of the price as determined in terms of sub- regulations (4) and (5) of Regulation 20. l. Thus, the inter-se transfer of shares amongst the transferor and transferees has been done at a price range of Rs. 50-60 which is No exceeding 25% of the price as determined in terms of sub-regulations (4) and (5) of Regulation 20. Both the transferor and transferees have complied with Regulations 6, 7 and 8 of SAST Regualtions. m. In the circumstances, the impugned transaction satisfies all the conditions stipulated in Regulation 3(1)(e)(iii)(b) of SAST Regulations and qualifies for exemption. 23. I find from the records that the Noticees are the promoters and or PACs of GSML who were together holding 59.86% of shares or rights of GSML. The Promoter group and or PACs together during February 4-10, 2010 purchased through market transactions 1,60,000 shares from erstwhile promoter M s Uttar Pradesh Trading Company Ltd The said purchase is 5% of share capital of GSML. 24. As per Regulation 11(2) if an acquirer together with PACs holds 55% or more but less that 75% of shares or voting rights of target company in present case GSML, they shall No acquire any additional shares unless they make a public announcement. The second proviso to Regulation 11(2) provides conditions where acquisition can be made even without making public announcement. The first condition which is in issue is that acquisition can be made even without making public announcement if shares are acquired in normal segment on stock exchange but the same should No be bulk deals block deals…… 25. In present case the Noticees along with other promoters and or PACs acquired 5% shares or voting rights of GSML on CSE during February 4-10, 2010 from UPTCL. The said purchase transactions were executed as Bulk Deals which is defined in SEBI Cir MRD DOP SE Cir-19 05 dated September 02, 2005. Bulk deals means all transactions in a scrip (on an exchange) where total quantity of shares bought sold is more than 0.5% of the number of equity shares of the company (GSML) listed on the exchange. The Noticees executed transactions on February 09 10, 2010 as bulk deals. In view of the above, it is established beyond doubt that the acquisition of the shares by the Noticees is No exempted under second proviso to Regulation 11(2) of SAST Regulations. 26. However, I have considered the submissions of the Noticees that the second proviso to Regulation 11(2) of SAST Regulations is No applicable to them. Further, the acquisition of 1,60,000 shares of GSML by them is exempt under Regulation 3(1)(e)(iii)(b) of SAST Regulations as the transactions are inter-se transfer amongst the qualifying promoters and that they satisfy all the conditions for availing the exemption. I have noted that they have also submitted a report under Regulation 3(4) to SEBI on April 5, 2011. I find from the documents available on record that the Noticees are promoters and or PACs of GSML. The UPTCL is also erstwhile promoter of GSML and that the said transaction forms part of family arrangement and the motive of trades being separation of business between families (Nopany family and Poddar family) pursuant to death of Dr. K. K. Birla. In view of the above, I am inclined to give benefit of doubt to the Noticees and do No hold them guilty of violating Regulation 11(2) of SAST Regulations. Order 27. In view of the above, after considering all the facts and circumstances of the case and exercising the powers conferred upon me U S 15-I (2) of the SEBI Act, 1992, I conclude that the allegations as per the SCNs are No established and or the case is No fit to impose any monetary penalties on the Noticees. The matter is accordingly disposed of. 28. In terms of the Rule 6 of the Adjudicating Rules, copies of the order are sent to the Noticees and also to Securities & Exchange Board of India. Date: September 07, 2011 P.K. KURIACHEN Place: Mumbai ADJUDICATING OFFICER"
+    },
+    "id": 0
+  }
+]
