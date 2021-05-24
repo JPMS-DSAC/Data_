@@ -1,0 +1,703 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612173197,
+        "id": 1,
+        "lead_time": 1182.402,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "3fLZizsRzc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 820,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 548,
+              "text": "The Securities and Exchange Board of India (hereinafter referred to as ‘SEBI’) investigated into various price sensitive disclosure made by M s Suzlon Energy Limited (hereinafter referred to as ‘Suzlon the company’) for the period of November 3, 2009 and December 2, 2009."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dd2jFof0Kr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1342,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 824,
+              "text": "During the course of investigation it was observed that Suzlon had amended its code of internal procedures and conduct for prevention of insider trading for listed companies (“Code of Conduct”) in line with amendments in SEBI (Prohibition of Insider Trading) Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited Regulations, 1992 (hereinafter referred to as “PIT Regulations”) notified on November 19, 2008 only on February 4th, 2011, i.e. after a delay of more than 2 years."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "J_gxo-9x9b",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1469,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1343,
+              "text": "Further no mechanism for pre- clearance of trades was incorporated in the Code of Conduct as mandated by the PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Ciiz5bzm_U",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1642,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1472,
+              "text": "It was alleged that the Code of Conduct was to be implemented under the overall supervision of the Board of Directors of Suzlon (hereinafter referred to as “the Board”). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "X191rZqflI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1789,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1642,
+              "text": "Mrs. Mythili Balasubramanian (hereinafter referred to as “the Noticee”), was a member of the Board between November 19, 2008 and February 4, 2011. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "JSaEpnAVuh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1928,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1789,
+              "text": "As a member of the Board, the Noticee was also allegedly responsible for the delay in amendment and implementation of the Code of Conduct. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "BmQb2eDDdO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2289,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 1928,
+              "text": "As a result of this delay, the Board, including the Noticee, was alleged to have violated Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations and was therefore liable for monetary penalty under section 15HB of Securities and Exchange Board of India Act, 1992 (hereinafter referred to as “SEBI Act”). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gwRAdHauJN",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2832,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 2328,
+              "text": "The undersigned was appointed as the Adjudicating Officer vide order of SEBI dated March 22, 2012 under section 15-I of the Act r w rule 3 of SEBI (Procedure for holding Inquiry and Imposing Penalty by Adjudicating Officer) Rules, 1995 (hereinafter referred to as the Adjudicating Rules) to inquire into and adjudge under Section 15HB of the Act, the alleged violation of the provisions of Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cHP-uoNGaf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3285,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 2967,
+              "text": " A show cause notice (hereinafter referred to as SCN) in terms of the provisions of Rule 4(1) of the Adjudicating Rules was issued to the Noticee on June 19, 2012 seeking reply of the Noticee as to why an inquiry should No be held against the Noticee in respect of the violations alleged to have been committed by her."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lWI2jlbv8B",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3403,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3289,
+              "text": "In response to the said SCN, the Noticee vide letter dated July 5, 2012 sought extension to file a detailed reply."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "n02LiArFqh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3481,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3404,
+              "text": "An extension upto July 21, 2012 was granted to Noticee for filing her reply. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "AnVnHTirxV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3552,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3481,
+              "text": "The Noticee submitted a detailed reply vide letter dated July 20, 2012."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Ut0hehLoGn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3746,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3556,
+              "text": "In the interest of natural justice and in order to conduct an inquiry as per rule 4 (3) of the Rules, the Noticee was granted an opportunity of personal hearing before me on August 6, 2012. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "43Ux3wm89a",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3850,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3746,
+              "text": "The Noticee sought an adjournment of the hearing and the next hearing date was fixed on August 7, 2012. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fW2iqglqMv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4015,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3850,
+              "text": "The Noticee attended the said hearing through her authorized representative (hereinafter referred to as the ‘AR’) and reiterated the contentions raised in her reply."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "54GHDp7zoI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4147,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 4016,
+              "text": "All the submissions made by the Noticee in her defense have been considered and discussed during the course of order, as required. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "z5RJfOe_VE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4337,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 4187,
+              "text": " I have carefully perused the charges against the Noticee mentioned in the SCN, the submissions of the Noticee and the documents available on record. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "f3e4K3aWKK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4680,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 4337,
+              "text": "The issue that arises for consideration in the present case is stated and determined, as follows: Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited  Whether the Noticee has violated Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations? "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RLUL9BTjTr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4868,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 4682,
+              "text": " Before proceeding to decide the above issue, it is important to have a look at the abovementioned provisions as they existed at the relevant time, which interalia are reproduced below. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "nkrVEZZSQw",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4966,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 4868,
+              "text": "PIT Regulations “Code of internal procedures and conduct for listed companies and other entities. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "KO322I89yX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5764,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 4966,
+              "text": "12. (1) All listed companies and organisations associated with securities markets including : (a) the intermediaries as mentioned in section 12 of the Act, asset management company and trustees of mutual funds ; (b) the self-regulatory organisations recognised or authorised by the Board; (c) the recognised stock exchanges and clearing house or corporations; (d) the public financial institutions as defined in section 4A of the Companies Act, 1956; and (e) the professional firms such as auditors, accountancy firms, law firms, analysts, consultants, etc., assisting or advising listed companies, shall frame a code of internal procedures and conduct as near thereto the Model Code specified in Schedule I of these Regulations without diluting it in any manner and ensure compliance of the same.”"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0jUkDG7_Oj",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6424,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 5861,
+              "text": "“Model Code of Conduct, Schedule I, Part A under Reg. 12(1) of PIT Regulations 1.0 Compliance Officer 1.1 … 1.2 The compliance officer shall be responsible for setting forth policies, procedures, monitoring adherence to the rules for the preservation of “Price Sensitive Information”, pre-clearing; of designated employees’ and their dependents’ trades (directly or through respective department heads as decided by the company), monitoring of trades and the implementation of the code of conduct under the overall supervision of the Board of the listed company.”"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xt7Ck0rX5B",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6610,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6429,
+              "text": "Suzlon, as a listed company, was required to comply with the PIT Regulations and accordingly had to implement code of Conduct as required by Regulation 12(1) of the PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "rEAaFJO3PN",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6718,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6611,
+              "text": "The PIT Regulations were amended and the amendments were notified in official gazette on November 19, 2008."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ACM5B513W_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6828,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6719,
+              "text": "Accordingly, Suzlon was required to amend its code of conduct in line with the amendments in PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "6J_P4PC_uy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6963,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6829,
+              "text": "However, Suzlon implemented the amended Code of Conduct only on February 4th, 2011, which is more than 2 years after the notification."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "_qy_MT6fFy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7077,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 6964,
+              "text": "This huge delay occurred inspite of Suzlon’s Board of Directors being aware about the changes in PIT Regulations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2oI1sGvswR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7264,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7078,
+              "text": "The Board was informed about the changes in the PIT regulations in the meeting dated July 31, 2009 by Mr. Sundar Rajagopalan, who was the President (Legal) and General Counsel of Suzlon."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pjIs30Ut3z",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7536,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7265,
+              "text": "The Board unduly delayed the implementation of revised Code of Conduct by deferring the matter when it was listed as agenda item in the Board meetings dated May 29, 2010 and August 13, 2010 and the code was subsequently passed in the board meeting dated February 4, 2011."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZW9jV9aV31",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7868,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 7636,
+              "text": " It is clear from the material available on record that the Board was aware of the requirement to implement a new code of conduct and inspite of this, the Board deferred even the deliberation on the code of conduct for two meetings."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1MFrNVJa_3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7950,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 7869,
+              "text": "Thus, it is clear that Suzlon delayed the implementation of new code of conduct. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "t8j-_ZVf2x",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8190,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 7950,
+              "text": "As per Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations, the compliance officer is responsible for implementation of Code of conduct under the overall supervision of the Board."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "mWDg2667TI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8330,
+              "labels": [
+                "Violation"
+              ],
+              "start": 8191,
+              "text": "In the present matter it is clear that the Board, by delaying the implementation, has acted in violation of the above mentioned provision. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "zwMKq3S0QJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8419,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 8334,
+              "text": "The Noticee in her reply and during personal hearing put forward various contentions."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "L-z1VHsjPg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8640,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8420,
+              "text": "A summary of the main contentions is as follows: i) She was appointed as Director w.e.f. November 1, 2010 and the revised Code of conduct was approved in the course of first meeting after she was appointed as a director."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "AS9m-zteAP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8802,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8641,
+              "text": "ii) Suzlon operates in various jurisdictions and the time was required to design policies in a manner so that they are compliant with laws of all jurisdictions. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "euewg_i0VD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8917,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8802,
+              "text": "iii) No time limit was stipulated in the Notification dated November 19, 2008 for amendment to the Code of conduct."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Fc3m-B1QbL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9066,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8918,
+              "text": "iv) Suzlon was undertaking certain acquisitions during this period and was undergoing certain changes which delayed the implementation of the code. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "XzVwAZxguK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9152,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9066,
+              "text": "There was no malafide on the part of Suzlon in implementation of the code of conduct. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EPb7jpEJYF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9338,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9156,
+              "text": "The major submission of the Noticee is that the code of conduct was approved and implemented in the first meeting after her appointment and thus she is No responsible for any delay. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "UDfa1hGVRD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9583,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9438,
+              "text": "It is observed from the meeting wise constitution of the Board that the Noticee was No a member of the Board till the meeting on August 13, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1IdU6Z6ZT5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9661,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9584,
+              "text": "The Noticee was made a director between August 13, 2010 and February 4, 2011."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Vb-DCgeiLE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9745,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9662,
+              "text": "The Noticee attended his first board meeting after appointment on February 4, 2011."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ii_ddoc00I",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9823,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 9746,
+              "text": "This was the meeting in which the code of conduct was approved by the Board. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "-pwxg4Ojvy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9993,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 9823,
+              "text": "As the Noticee was No even a member of the Board till August 13, 2010 it is No possible to attribute the delay caused in implementation of the code of conduct on Noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EO162whM61",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10107,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 9994,
+              "text": "Thus, the Noticee cannot be held responsible for the delay caused in implementation of code of conduct by Suzlon."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "XcHuhiUpup",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10368,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 10112,
+              "text": "In view of the above observations, findings and material on record I conclude that the allegation of violation of Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations by the Noticee is No proved. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZGVZ_PqH7I",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10594,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 10378,
+              "text": "In view of the foregoing, the alleged violation of the provisions of PIT Regulations by the Noticee, as specified in the SCN dated June 19, 2012 does No stand established and the matter is, accordingly, disposed of. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3wpCKW-crY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10745,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 10598,
+              "text": "In terms of the Rule 6 of the Adjudicating Rules, copies of this order are sent to the Noticee and also to Securities and Exchange Board of India. "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "- Adjudication%200clean[1] Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA [ADJUDICATION ORDER NO.: - PG AO AB 46 2012] UNDER SECTION 15-I OF SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 READ WITH RULE 5 OF SEBI (PROCEDURE FOR HOLDING INQUIRY AND IMPOSING PENALTIES BY ADJUDICATING OFFICER) RULES, 1995 Against Mrs. Mythili Balasubramanian AN:ACBPB6404C In the matter of M s Suzlon Energy Limited BRIEF FACTS OF THE CASE: 1. The Securities and Exchange Board of India (hereinafter referred to as ‘SEBI’) investigated into various price sensitive disclosure made by M s Suzlon Energy Limited (hereinafter referred to as ‘Suzlon the company’) for the period of November 3, 2009 and December 2, 2009. 2. During the course of investigation it was observed that Suzlon had amended its code of internal procedures and conduct for prevention of insider trading for listed companies (“Code of Conduct”) in line with amendments in SEBI (Prohibition of Insider Trading) Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited Regulations, 1992 (hereinafter referred to as “PIT Regulations”) notified on November 19, 2008 only on February 4th, 2011, i.e. after a delay of more than 2 years. Further no mechanism for pre- clearance of trades was incorporated in the Code of Conduct as mandated by the PIT Regulations. 3. It was alleged that the Code of Conduct was to be implemented under the overall supervision of the Board of Directors of Suzlon (hereinafter referred to as “the Board”). Mrs. Mythili Balasubramanian (hereinafter referred to as “the Noticee”), was a member of the Board between November 19, 2008 and February 4, 2011. As a member of the Board, the Noticee was also allegedly responsible for the delay in amendment and implementation of the Code of Conduct. As a result of this delay, the Board, including the Noticee, was alleged to have violated Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations and was therefore liable for monetary penalty under section 15HB of Securities and Exchange Board of India Act, 1992 (hereinafter referred to as “SEBI Act”). APPOINTMENT OF ADJUDICATING OFFICER 4. The undersigned was appointed as the Adjudicating Officer vide order of SEBI dated March 22, 2012 under section 15-I of the Act r w rule 3 of SEBI (Procedure for holding Inquiry and Imposing Penalty by Adjudicating Officer) Rules, 1995 (hereinafter referred to as the Adjudicating Rules) to inquire into and adjudge under Section 15HB of the Act, the alleged violation of the provisions of Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations. Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited SHOW CAUSE NOTICE, REPLY AND HEARING 5. A show cause notice (hereinafter referred to as SCN) in terms of the provisions of Rule 4(1) of the Adjudicating Rules was issued to the Noticee on June 19, 2012 seeking reply of the Noticee as to why an inquiry should No be held against the Noticee in respect of the violations alleged to have been committed by her. 6. In response to the said SCN, the Noticee vide letter dated July 5, 2012 sought extension to file a detailed reply. An extension upto July 21, 2012 was granted to Noticee for filing her reply. The Noticee submitted a detailed reply vide letter dated July 20, 2012. 7. In the interest of natural justice and in order to conduct an inquiry as per rule 4 (3) of the Rules, the Noticee was granted an opportunity of personal hearing before me on August 6, 2012. The Noticee sought an adjournment of the hearing and the next hearing date was fixed on August 7, 2012. The Noticee attended the said hearing through her authorized representative (hereinafter referred to as the ‘AR’) and reiterated the contentions raised in her reply. All the submissions made by the Noticee in her defense have been considered and discussed during the course of order, as required. CONSIDERATION OF ISSUES AND FINDINGS: 8. I have carefully perused the charges against the Noticee mentioned in the SCN, the submissions of the Noticee and the documents available on record. The issue that arises for consideration in the present case is stated and determined, as follows: Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited  Whether the Noticee has violated Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations? 9. Before proceeding to decide the above issue, it is important to have a look at the abovementioned provisions as they existed at the relevant time, which interalia are reproduced below. PIT Regulations “Code of internal procedures and conduct for listed companies and other entities. 12. (1) All listed companies and organisations associated with securities markets including : (a) the intermediaries as mentioned in section 12 of the Act, asset management company and trustees of mutual funds ; (b) the self-regulatory organisations recognised or authorised by the Board; (c) the recognised stock exchanges and clearing house or corporations; (d) the public financial institutions as defined in section 4A of the Companies Act, 1956; and (e) the professional firms such as auditors, accountancy firms, law firms, analysts, consultants, etc., assisting or advising listed companies, shall frame a code of internal procedures and conduct as near thereto the Model Code specified in Schedule I of these Regulations without diluting it in any manner and ensure compliance of the same.” Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited “Model Code of Conduct, Schedule I, Part A under Reg. 12(1) of PIT Regulations 1.0 Compliance Officer 1.1 … 1.2 The compliance officer shall be responsible for setting forth policies, procedures, monitoring adherence to the rules for the preservation of “Price Sensitive Information”, pre-clearing; of designated employees’ and their dependents’ trades (directly or through respective department heads as decided by the company), monitoring of trades and the implementation of the code of conduct under the overall supervision of the Board of the listed company.” 10. Suzlon, as a listed company, was required to comply with the PIT Regulations and accordingly had to implement code of Conduct as required by Regulation 12(1) of the PIT Regulations. The PIT Regulations were amended and the amendments were notified in official gazette on November 19, 2008. Accordingly, Suzlon was required to amend its code of conduct in line with the amendments in PIT Regulations. However, Suzlon implemented the amended Code of Conduct only on February 4th, 2011, which is more than 2 years after the notification. This huge delay occurred inspite of Suzlon’s Board of Directors being aware about the changes in PIT Regulations. The Board was informed about the changes in the PIT regulations in the meeting dated July 31, 2009 by Mr. Sundar Rajagopalan, who was the President (Legal) and General Counsel of Suzlon. The Board unduly delayed the implementation of revised Code of Conduct by deferring the matter when it was listed as agenda item in the Board meetings dated May 29, 2010 and August 13, 2010 and the code was subsequently passed in the board meeting dated February 4, 2011. Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited 11. It is clear from the material available on record that the Board was aware of the requirement to implement a new code of conduct and inspite of this, the Board deferred even the deliberation on the code of conduct for two meetings. Thus, it is clear that Suzlon delayed the implementation of new code of conduct. As per Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations, the compliance officer is responsible for implementation of Code of conduct under the overall supervision of the Board. In the present matter it is clear that the Board, by delaying the implementation, has acted in violation of the above mentioned provision. 12. The Noticee in her reply and during personal hearing put forward various contentions. A summary of the main contentions is as follows: i) She was appointed as Director w.e.f. November 1, 2010 and the revised Code of conduct was approved in the course of first meeting after she was appointed as a director. ii) Suzlon operates in various jurisdictions and the time was required to design policies in a manner so that they are compliant with laws of all jurisdictions. iii) No time limit was stipulated in the Notification dated November 19, 2008 for amendment to the Code of conduct. iv) Suzlon was undertaking certain acquisitions during this period and was undergoing certain changes which delayed the implementation of the code. There was no malafide on the part of Suzlon in implementation of the code of conduct. 13. The major submission of the Noticee is that the code of conduct was approved and implemented in the first meeting after her appointment and thus she is No responsible for any delay. Adjudication Order in respect of Mythili Balasubramanian in the matter of Suzlon Energy Limited 14. It is observed from the meeting wise constitution of the Board that the Noticee was No a member of the Board till the meeting on August 13, 2010. The Noticee was made a director between August 13, 2010 and February 4, 2011. The Noticee attended his first board meeting after appointment on February 4, 2011. This was the meeting in which the code of conduct was approved by the Board. As the Noticee was No even a member of the Board till August 13, 2010 it is No possible to attribute the delay caused in implementation of the code of conduct on Noticee. Thus, the Noticee cannot be held responsible for the delay caused in implementation of code of conduct by Suzlon. 15. In view of the above observations, findings and material on record I conclude that the allegation of violation of Clause 1.2 of Model code of Conduct in Part A, Schedule I provided under Regulation 12(1) of the PIT Regulations by the Noticee is No proved. ORDER 16. In view of the foregoing, the alleged violation of the provisions of PIT Regulations by the Noticee, as specified in the SCN dated June 19, 2012 does No stand established and the matter is, accordingly, disposed of. 17. In terms of the Rule 6 of the Adjudicating Rules, copies of this order are sent to the Noticee and also to Securities and Exchange Board of India. Date: August 28, 2012 PIYOOSH GUPTA Place: Mumbai ADJUDICATING OFFICER"
+    },
+    "id": 0
+  }
+]

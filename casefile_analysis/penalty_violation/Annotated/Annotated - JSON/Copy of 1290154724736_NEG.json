@@ -1,0 +1,1151 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612423485,
+        "id": 1,
+        "lead_time": 1084.307,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "eG41BH8yZA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 530,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 413,
+              "text": "The shares of Channel Guide India Ltd (hereinafter referred to as CGIL Company) are listed at Bombay Stock Exchange. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "vP_hP4Ksjn",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 667,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 530,
+              "text": "Total paid- up equity share capital voting capital of the Company was 60,00,000 as filed by the Company for the quarter ended March 2007."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "suYE4JvNxK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1118,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 671,
+              "text": "On perusal of the shareholding pattern of CGIL for the quarter ended December 2007 and March 2008 as available on the BSE website, under the category “public” holding more than 1% of the total number of shares, Securities and Exchange Board of India (hereinafter referred to as “SEBI”) observed that M s Angel Broking Limited (hereinafter referred to as “ABL” ”Noticee”) was shown holding 2,91,282 (4.85%) and 3,05,546 (5.9%) shares respectively. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "WpBgD1l1v6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1655,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 1121,
+              "text": "Since ABL had acquired more than 5% shares voting rights in CGIL and did No make necessary disclosure under regulations 7(1) and 7(2) of SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997 (hereinafter referred to as “SAST”) and 13 (1) of SEBI (Prohibition of Insider Trading) Regulations, 1992 (hereinafter referred to as “PIT”), it was alleged that it had violated the said provisions and consequently, liable for monetary penalty under section 15A (b) of SEBI Act, 1992 (hereinafter referred to as the “Act”). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fJodNTFnpQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2077,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 1694,
+              "text": "The undersigned was appointed as the Adjudicating Officer under Section 19 of the Act read with Section 15 I of SEBI (Procedure of Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (hereinafter referred to as “Rules”) vide order dated September 15, 2008 to inquire into and adjudge under Section 15A(b) of the Act for the alleged violation of SAST and PIT. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1DPjOJid3y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2471,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 2117,
+              "text": "Show Cause Notice No EAD VSS TZ 146051 2008 dated November 28, 2008 (hereinafter referred to as “SCN”) was issued to the Noticee under rule 4 of the Rules to show cause as to why an inquiry should No be held against the Noticee and penalty be No imposed on the Noticee under section 15A (b) of the Act for the alleged violation specified in the said SCN."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3o7WlHmcgF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2813,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 2475,
+              "text": "The Noticee vide letter dated January 21, 2009 replied to the SCN stating, inter alia, the following: a. We maintain a separate account designated as “Client Beneficiary Account-1203320000000066” (hereinafter “Client Beneficiary Account”) in our capacity as Depository participant for retaining securities traded on behalf of our clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1H94GwF8Wg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3092,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 2814,
+              "text": "Under the Member Client Agreement executed by the Clients for trading, Clients have specifically authorized us to retain their shares by maintaining a running account, instead of effecting settlement to settlement clearance, for facilitating trading operations on their behalf. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hAMV89eOi2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3369,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3092,
+              "text": "The shares of the clients so retained are held in the said designated Client Beneficiary Account and used to meet their pay-in obligations in any settlement or inter-settlement or considered, at their request, as collateral margin for allowing enhanced gross exposure to them. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "vybfBMtMTJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3507,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3369,
+              "text": "Shares held in the said Client Beneficiary Account are transferred to their Demat Account as and when the Clients make a request to do so."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cgjVWwa2ea",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3694,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3508,
+              "text": "Shares are retained in the said Client Beneficiary Account client wise and scrip wise and a proper system and procedure is in place for reconciliation of the securities on a daily basis."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "XBmF-EgUfZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3807,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3695,
+              "text": "The system generates a Stock Mapping Report daily which clearly demonstrates scrip held acquired by each Client."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cVkKxBL4vt",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4113,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 3808,
+              "text": "b. We have made it abundantly clear above that shares in the Client Beneficiary Account belong to the Clients themselves and as Stock Brokers retaining the shares on behalf of the Clients on their express authorization, we do No acquire or exercise any voting or controlling interests in the said company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "YwZ9sdtPy1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4363,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4114,
+              "text": "All the corporate benefits arising out of the shares retained in the Clients Beneficiary Account are passed on to the Clients and, as Stock Broker retaining the shares, we do No have any interests or rights in or claim over these corporate benefits."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hkTCjcuUZ6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4533,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4364,
+              "text": "Thus, by merely retaining the shares on behalf of our clients in the manner aforesaid, there is no acquisition of shares, substantial or otherwise, by us in any company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "sgJQ4Z3CLm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4610,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4533,
+              "text": " Further, we do No carry out any proprietary trading ourselves in any shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pUUPvG3jaG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4729,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4611,
+              "text": "We, therefore, humbly submit that provisions of Regulations 7(1) and 7(2) of SEBI (SAST) are No attracted in our case."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "B2kEd2ttOX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4930,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4730,
+              "text": "c. Having explained the facts relating to maintenance of Client Beneficiary Account as above, we would No like to make our submissions with respect to the shares of Channel Guide India Limited (CGIL)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "tCgvZP_aMs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5133,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 4930,
+              "text": " It is submitted that 2,91,282 shares in CGIL constituting 4.85% for the quarter ending on December, 2007, retained in the Client Beneficiary Account were held for and on behalf of as many as 28 clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ngZfOpTvin",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5265,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5134,
+              "text": "Similarly, 3,05,546 shares in CGIL constituting 5.09% for the quarter ending March, 2008 were held for and on behalf of 22 clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hyPiJhV9_j",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5398,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5265,
+              "text": " We did No hold any shares at all in CGIL on our own accord and none of our Clients individually held 5% or more shares at any time. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3y3xVi2fl-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5739,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5398,
+              "text": "d. With particular reference to the shares of CGIL held by our Constituent, Mr. Jagdish Kumar, who held a substantial portion of the shares but less than 5%, for both the quarters under consideration, we would like to submit that these shares have since been transferred to the Client’s Demat account 1203320000900784 as per his instruction."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "v7Mtm7QEFA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5919,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5739,
+              "text": " The consideration for all these transactions in the shares of CGIL were passed from or to Mr. Jagdish Kumar himself and as Stock Broker we have had no interest or concern therein."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "mDOCyL-YfY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6023,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 5920,
+              "text": "This is true in case of all the other Clients who held shares of CGIL for the two quarters in question."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "AKZ27LJyDV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6755,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 6024,
+              "text": "e. In light of the fact that we were merely acting in the ordinary course of business of Stock Brokers for and on behalf of the Clients and have never ourselves acquired or ever intended to acquire any voting rights or controlling interests in CGIL and having regard to the fact that the considerations for the shares in question proceeded from the Clients themselves and all the corporate benefits arising thereout, and significantly in the case of Mr. Jagdish Kumar the shares also, have been transferred to the beneficial holders, we humbly submit that SEBI (SAST) Regulations 7(1) or 7(2) or SEBI (PIT) Regulations 13 (1) are No attracted and, therefore, we have No committed any violation or breach of the provisions thereof. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "jmHGrwlSJH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6975,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6758,
+              "text": "In the interest of natural justice and in order to conduct an inquiry as per rule 4 (3) of the Rules, the Noticee was granted an opportunity of personal hearing on February 12, 2009 vide Notice dated January 29, 2009."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RBzbHtt66A",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7098,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6975,
+              "text": " Mr. Amit Majumdar, appeared on behalf of the Noticee as its Authorized Representatives (hereinafter referred to as “AR”). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FjBgNP_LK3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7343,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7098,
+              "text": "During the hearing, the AR reiterated the submissions made vide letter dated January 21, 2009 and further submitted the following: “We have developed an in-house utility wherein the position of holding in any scrip is monitored on a daily basis."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "6fKGvzPJWk",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7496,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7343,
+              "text": " We also download the listed capital of companies listed on BSE and NSE so as to calculate our concentration on an individual scrip level on daily basis."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CaDoEiRtf2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7639,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7497,
+              "text": "Based on this concentration the system provides a drill-down facility to identify the clients on whose behalf the shares have been held by us."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "eL46sm5xof",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7841,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7640,
+              "text": "An escalation matrix has been designed to provide for an automatic trigger at 3 levels viz., 2.5% for the operations manager, 3.5% for the compliance head and 4% for the Executive Director- Operations."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "y8ZjmgfcUD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7963,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7841,
+              "text": " When the trigger is hit at 3.5% the holdings in the particular scrip would be duly transferred to the concerned clients. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "scmhSNewGf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8181,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7963,
+              "text": "When the trigger is hit at the 4%, instruction would be given to the surveillance team to discontinue the buying temporarily in the said scrip till the overall concentration is brought down below the threshold limits. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bF7nd3Q-My",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8240,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8181,
+              "text": "This system has been put in place w.e.f. January 15, 2009. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "iw6gbynRuI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8382,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8240,
+              "text": "As one time measure the system was run to verify any such instance over the last one year and the results have been found to be satisfactory. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "m8Cm4Tnnno",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8510,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8382,
+              "text": "Subsequent to the introduction of this system, we found that in one scrip the concentration holding of one client was above 3%. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ciyOSbFFP9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8677,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8510,
+              "text": "Immediately on getting this alert through this system we have informed the client about the same and restricted him from making any fresh purchases in the said scrip. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ApTpjwOm6A",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8727,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8677,
+              "text": "We reiterate that we do No do proprietary trading."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "zBSpPf3McU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8818,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8727,
+              "text": " Therefore, our owning any share of any company through our trading account does No arise. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ifAR-9wQGT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8939,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8818,
+              "text": "Thus, any share held by us is only on behalf of our clients and we do No have any ownership in respect of those shares.” "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2e6lhCUrOc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9138,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 8979,
+              "text": "The issues that arise for consideration in the present case are : i. Whether the Noticee had violated regulations 7(1) read with 7(2) of SAST and 13(1) of PIT?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RvKu5mRYmh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9260,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 9139,
+              "text": "ii. Does the non-compliance, if any, on the part of the Noticee attract monetary penalty under section 15A(b) of the Act?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dsQYSfbre9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9402,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 9260,
+              "text": " iii. If so, what would be the monetary penalty that can be imposed taking into consideration the factors mentioned in section 15J of the Act?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "q9i581zSWK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10112,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 9406,
+              "text": "Before moving forward, it will be appropriate to refer to the relevant provisions of SAST and PIT, which read as under: SAST 7. Acquisition of 5 per cent or more shares or voting rights of a company (1) Any acquirer, who acquires shares or voting rights which (taken together with shares or voting rights, if any, held by him) would entitle him to more than five per cent or ten per cent or fourteen per cent or fifty four per cent or seventy four per cent shares or voting rights in a company, in any manner whatsoever, shall disclose at every stage the aggregate of his shareholding or voting rights in that company to the company and to the stock exchanges where shares of the target company are listed."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "tuKRj8Bxus",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10334,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 10113,
+              "text": "(2) The disclosures mentioned in sub-regulations (1) and (1A) shall be made within two days of,— (a) the receipt of intimation of allotment of shares; or (b) the acquisition of shares or voting rights, as the case may be."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7-Lh82KwMx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10835,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 10335,
+              "text": "PIT 13. Disclosure of interest or holding by directors and officers and substantial shareholders in a listed company – Initial Disclosure (1) Any person who holds more than 5% shares or voting rights in any listed company shall disclose to the company in Form A, the number of shares or voting rights held by such person, on becoming such holder, within 4 working days of :— (a) the receipt of intimation of allotment of shares; or (b) the acquisition of shares or voting rights, as the case may be. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "oYS7QDkspr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10933,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 10838,
+              "text": " In terms of regulation 7(1) of SAST, the obligation of disclosure is cast upon the “acquirer”."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "s801OHdxSI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11388,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 10934,
+              "text": "It is, therefore, pertinent to examine whether the Noticee falls within the ambit of the term “acquirer” as defined under regulation 2(1)(b) of SAST, which reads as under: 2(1)(b) \"acquirer\" means any person who, directly or indirectly, acquires or agrees to acquire shares or voting rights in the target company, or acquires or agrees to acquire control over the target company, either by himself or with any person acting in concert with the acquirer. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SImvlqGxBq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11688,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 11392,
+              "text": "I have noted the following submissions of the Noticee in this regard: That it was acting in ordinary course of business in the capacity of a broker and had traded in the scrip of CGIL only on behalf of its clients and that the consideration for the shares in question proceeded from the clients. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8ZcqAcPRyt",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11871,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 11688,
+              "text": "That the shares in the Client Beneficiary account belonged to the clients and the Noticee as a stockbroker retained the shares on behalf of its clients on their express authorization."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "F1SGPAw4tf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11998,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 11872,
+              "text": "All the corporate benefits arising out of the shares retained in the Client Beneficiary Account were passed on to the clients."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fZycV_8cFO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12136,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 11999,
+              "text": "The Noticee, as a stock broker, having retained the shares did No have any interest or rights in or claim over these corporate benefits. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "_7xIW3a1AQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12416,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 12136,
+              "text": "One of the clients, namely, Mr. Jagdish Kumar (hereinafter referred to as “JK”) held 4.33% and 4.34% shares of CGIL out of the total collective holding of 4.85% and 5.90% shares held in the Client Beneficiary Account as on quarter ended December 2007 and March 2008 respectively. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hmlntvDep9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12472,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 12416,
+              "text": "The Noticee had No indulged in any proprietary trading. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xhRWM2z6Ck",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12739,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 12472,
+              "text": "To avoid any recurrence of such instances, a new system has been put in place wherein there is an alarm in the form of an automatic trigger at 3 levels viz., 2.5% for the Operations Manager, 3.5% for the Compliance Head and 4% for the Executive Director- Operations. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "UK2ocOSVUp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12861,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 12739,
+              "text": "When the trigger is hit at 3.5%, the holdings in the particular scrip would be duly transferred to the concerned clients. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "rjMhxtGmKG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13113,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 12861,
+              "text": "When the trigger is hit at the 4%, instruction would be given to the surveillance team to discontinue the buying temporarily in the said scrip till the overall concentration in the Client Beneficiary Account is brought down below the threshold limits. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xi3QA77NAi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13171,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13113,
+              "text": "This system has been put in place w.e.f. January 15, 2009."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SKoHeZBZxB",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13496,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13176,
+              "text": "In order to verify the veracity of the aforesaid submissions, the Noticee was advised to furnish documentary evidence including details of ledger accounts of clients whose shares were retained by the Noticee during the relevant period, proof of consent of the clients authorizing the Noticee to retain the clients, etc. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "CxVf8EV5Lg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13571,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13496,
+              "text": "The same was submitted by the Noticee vide letter dated February 16, 2009. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cJJj_Z-5KL",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13772,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13575,
+              "text": "On perusal of the ledger account of JK submitted by the Noticee, I find that payments have been made by JK to the Noticee for all the trading done on his behalf by the Noticee in the scrip of CGIL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "GlmMjuhFE8",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13892,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13773,
+              "text": "This indicates that 4.34% of shares held in the Client beneficiary Account were bought by the Noticee on behalf of JK. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Fybu8yxVJc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14023,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13892,
+              "text": "Similarly, I find that in case of other clients as well, payments have been received by the Noticee for the purchases made by them."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RvDCK0qeTq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14115,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14024,
+              "text": "I also find that the clients have given their consent to the Noticee to retain the shares. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "z03-iZKpOm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14325,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 14119,
+              "text": "In view of the foregoing, I find merit in the submissions of the Noticee and I am of the view that the Noticee does No fall within the ambit of the term ‘acquirer’ as defined in regulation 2(1)(b) of SAST. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pASLuWRdZY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14413,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 14325,
+              "text": "On the other hand, the clients who have purchased these shares are the actual acquirers."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FgTp9Xc2LD",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14503,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 14413,
+              "text": " Consequently, compliance with provisions of regulation 7(1) read with 7(2) did No arise. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "KUsn60K2aZ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14596,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 14503,
+              "text": "Therefore, when regulation 7(1) was No attracted, the question of its violation cannot arise."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Uy8zDoHXAs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14722,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 14601,
+              "text": "As regards regulation 13 (1) of PIT, the disclosure has to be made in Form A by any person who holds more than 5% shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "m_56I48GMx",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14861,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 14723,
+              "text": "On perusal of Form A, I find that the person is required to disclose the details of acquisition of 5% or more shares in a listed company. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qgBY46uz5y",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14930,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 14861,
+              "text": "The term ‘acquisition’ has No been defined either under PIT or SAST. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ZP-Drvz9ov",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15121,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 14930,
+              "text": "Black’s Law Dictionary, Sixth Edition, defines the term ‘Acquisition’ as ”the gaining of possession or control over something <acquisition of target company’s assets> 0r something acquired”. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "sFlLYc-tvs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15255,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15121,
+              "text": "Thus, the primary requirement for acquisition is to acquire something, thereby making the person an “acquirer” as defined under SAST. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3MGR-8Z1sN",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15432,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15255,
+              "text": "However, as mentioned above, the Noticee does No fall within the ambit of the term “Acquirer” as defined under SAST and therefore, it cannot be said to have acquired the shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "sKY3bRRQ0W",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15545,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15433,
+              "text": "Accordingly, there was no acquisition by the Noticee which needed to be disclosed under regulation 13(1) of PIT."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5GsEnmxF_n",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15762,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15550,
+              "text": "Be that as it may, it is pertinent to highlight the failure on the part of the Noticee to transfer the shares to the respective Beneficiary Owner accounts of clients for whom the Noticee had purchased the shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7xsD_1gTOk",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15866,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15763,
+              "text": "This failure practice enabled the true owners of the shares to hide their identity behind the Noticee. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cYoPRA2wsh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16149,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15866,
+              "text": "This would encourage the clients to acquire shares through differrent brokers and even if their total acquisition exceeds the limits specified under PIT and SAST, they may No be disclosing the same as they have found a convenient mask to hide their real identity behind the brokers. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hnJ5OiQVzJ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16392,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 16149,
+              "text": "The said market practice, if No checked and nipped in the bud, may snowball into an appalling strategy in the hands of unscrupulous elements affecting the smooth functioning of the securities market and jeopardizing the interest of investors. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QOWPasREOK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16595,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 16402,
+              "text": "In view of the foregoing, the alleged violation of the provisions of SAST and PIT by the Noticee, as specified in the SCN, does No stand established and the matter is, accordingly, disposed of."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "N0cc9Yydm1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16734,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 16600,
+              "text": "In terms of rule 6 of the Rules, copies of this order are sent to the Noticee and also to the Securities and Exchange Board of India. "
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "- … BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA [ADJUDICATION ORDER No VSS AO- 22 2009] UNDER SECTION 15-I OF SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 READ WITH RULE 5 OF SEBI (PROCEDURE FOR HOLDING INQUIRY AND IMPOSING PENALTIES BY ADJUDICATING OFFICER) RULES, 1995 In respect of M s ANGEL BROKING Ltd (PAN. AAACA8821G) SEBI Regn No INB 010996539 FACTS OF THE CASE IN BRIEF 1. The shares of Channel Guide India Ltd (hereinafter referred to as CGIL Company) are listed at Bombay Stock Exchange. Total paid- up equity share capital voting capital of the Company was 60,00,000 as filed by the Company for the quarter ended March 2007. 2. On perusal of the shareholding pattern of CGIL for the quarter ended December 2007 and March 2008 as available on the BSE website, under the category “public” holding more than 1% of the total number of shares, Securities and Exchange Board of India (hereinafter referred to as “SEBI”) observed that M s Angel Broking Limited (hereinafter referred to as “ABL” ”Noticee”) was shown holding 2,91,282 (4.85%) and 3,05,546 (5.9%) shares respectively. 3. Since ABL had acquired more than 5% shares voting rights in CGIL and did No make necessary disclosure under regulations 7(1) and 7(2) of SEBI (Substantial Acquisition of Shares and Takeovers) Regulations, 1997 (hereinafter referred to as “SAST”) and 13 (1) of SEBI (Prohibition of Insider Trading) Regulations, 1992 (hereinafter referred to as “PIT”), it was alleged that it had violated the said provisions and consequently, liable for monetary penalty under section 15A (b) of SEBI Act, 1992 (hereinafter referred to as the “Act”). APPOINTMENT OF ADJUDICATING OFFICER 4. The undersigned was appointed as the Adjudicating Officer under Section 19 of the Act read with Section 15 I of SEBI (Procedure of Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (hereinafter referred to as “Rules”) vide order dated September 15, 2008 to inquire into and adjudge under Section 15A(b) of the Act for the alleged violation of SAST and PIT. SHOW CAUSE NOTICE, HEARING AND REPLY 5. Show Cause Notice No EAD VSS TZ 146051 2008 dated November 28, 2008 (hereinafter referred to as “SCN”) was issued to the Noticee under rule 4 of the Rules to show cause as to why an inquiry should No be held against the Noticee and penalty be No imposed on the Noticee under section 15A (b) of the Act for the alleged violation specified in the said SCN. 6. The Noticee vide letter dated January 21, 2009 replied to the SCN stating, inter alia, the following: a. We maintain a separate account designated as “Client Beneficiary Account-1203320000000066” (hereinafter “Client Beneficiary Account”) in our capacity as Depository participant for retaining securities traded on behalf of our clients. Under the Member Client Agreement executed by the Clients for trading, Clients have specifically authorized us to retain their shares by maintaining a running account, instead of effecting settlement to settlement clearance, for facilitating trading operations on their behalf. The shares of the clients so retained are held in the said designated Client Beneficiary Account and used to meet their pay-in obligations in any settlement or inter-settlement or considered, at their request, as collateral margin for allowing enhanced gross exposure to them. Shares held in the said Client Beneficiary Account are transferred to their Demat Account as and when the Clients make a request to do so. Shares are retained in the said Client Beneficiary Account client wise and scrip wise and a proper system and procedure is in place for reconciliation of the securities on a daily basis. The system generates a Stock Mapping Report daily which clearly demonstrates scrip held acquired by each Client. b. We have made it abundantly clear above that shares in the Client Beneficiary Account belong to the Clients themselves and as Stock Brokers retaining the shares on behalf of the Clients on their express authorization, we do No acquire or exercise any voting or controlling interests in the said company. All the corporate benefits arising out of the shares retained in the Clients Beneficiary Account are passed on to the Clients and, as Stock Broker retaining the shares, we do No have any interests or rights in or claim over these corporate benefits. Thus, by merely retaining the shares on behalf of our clients in the manner aforesaid, there is no acquisition of shares, substantial or otherwise, by us in any company. Further, we do No carry out any proprietary trading ourselves in any shares. We, therefore, humbly submit that provisions of Regulations 7(1) and 7(2) of SEBI (SAST) are No attracted in our case. c. Having explained the facts relating to maintenance of Client Beneficiary Account as above, we would No like to make our submissions with respect to the shares of Channel Guide India Limited (CGIL). It is submitted that 2,91,282 shares in CGIL constituting 4.85% for the quarter ending on December, 2007, retained in the Client Beneficiary Account were held for and on behalf of as many as 28 clients. Similarly, 3,05,546 shares in CGIL constituting 5.09% for the quarter ending March, 2008 were held for and on behalf of 22 clients. We did No hold any shares at all in CGIL on our own accord and none of our Clients individually held 5% or more shares at any time. d. With particular reference to the shares of CGIL held by our Constituent, Mr. Jagdish Kumar, who held a substantial portion of the shares but less than 5%, for both the quarters under consideration, we would like to submit that these shares have since been transferred to the Client’s Demat account 1203320000900784 as per his instruction. The consideration for all these transactions in the shares of CGIL were passed from or to Mr. Jagdish Kumar himself and as Stock Broker we have had no interest or concern therein. This is true in case of all the other Clients who held shares of CGIL for the two quarters in question. e. In light of the fact that we were merely acting in the ordinary course of business of Stock Brokers for and on behalf of the Clients and have never ourselves acquired or ever intended to acquire any voting rights or controlling interests in CGIL and having regard to the fact that the considerations for the shares in question proceeded from the Clients themselves and all the corporate benefits arising thereout, and significantly in the case of Mr. Jagdish Kumar the shares also, have been transferred to the beneficial holders, we humbly submit that SEBI (SAST) Regulations 7(1) or 7(2) or SEBI (PIT) Regulations 13 (1) are No attracted and, therefore, we have No committed any violation or breach of the provisions thereof. 7. In the interest of natural justice and in order to conduct an inquiry as per rule 4 (3) of the Rules, the Noticee was granted an opportunity of personal hearing on February 12, 2009 vide Notice dated January 29, 2009. Mr. Amit Majumdar, appeared on behalf of the Noticee as its Authorized Representatives (hereinafter referred to as “AR”). During the hearing, the AR reiterated the submissions made vide letter dated January 21, 2009 and further submitted the following: “We have developed an in-house utility wherein the position of holding in any scrip is monitored on a daily basis. We also download the listed capital of companies listed on BSE and NSE so as to calculate our concentration on an individual scrip level on daily basis. Based on this concentration the system provides a drill-down facility to identify the clients on whose behalf the shares have been held by us. An escalation matrix has been designed to provide for an automatic trigger at 3 levels viz., 2.5% for the operations manager, 3.5% for the compliance head and 4% for the Executive Director- Operations. When the trigger is hit at 3.5% the holdings in the particular scrip would be duly transferred to the concerned clients. When the trigger is hit at the 4%, instruction would be given to the surveillance team to discontinue the buying temporarily in the said scrip till the overall concentration is brought down below the threshold limits. This system has been put in place w.e.f. January 15, 2009. As one time measure the system was run to verify any such instance over the last one year and the results have been found to be satisfactory. Subsequent to the introduction of this system, we found that in one scrip the concentration holding of one client was above 3%. Immediately on getting this alert through this system we have informed the client about the same and restricted him from making any fresh purchases in the said scrip. We reiterate that we do No do proprietary trading. Therefore, our owning any share of any company through our trading account does No arise. Thus, any share held by us is only on behalf of our clients and we do No have any ownership in respect of those shares.” CONSIDERATION OF ISSUES AND FINDINGS 8. The issues that arise for consideration in the present case are : i. Whether the Noticee had violated regulations 7(1) read with 7(2) of SAST and 13(1) of PIT? ii. Does the non-compliance, if any, on the part of the Noticee attract monetary penalty under section 15A(b) of the Act? iii. If so, what would be the monetary penalty that can be imposed taking into consideration the factors mentioned in section 15J of the Act? 9. Before moving forward, it will be appropriate to refer to the relevant provisions of SAST and PIT, which read as under: SAST 7. Acquisition of 5 per cent or more shares or voting rights of a company (1) Any acquirer, who acquires shares or voting rights which (taken together with shares or voting rights, if any, held by him) would entitle him to more than five per cent or ten per cent or fourteen per cent or fifty four per cent or seventy four per cent shares or voting rights in a company, in any manner whatsoever, shall disclose at every stage the aggregate of his shareholding or voting rights in that company to the company and to the stock exchanges where shares of the target company are listed. (2) The disclosures mentioned in sub-regulations (1) and (1A) shall be made within two days of,— (a) the receipt of intimation of allotment of shares; or (b) the acquisition of shares or voting rights, as the case may be. PIT 13. Disclosure of interest or holding by directors and officers and substantial shareholders in a listed company – Initial Disclosure (1) Any person who holds more than 5% shares or voting rights in any listed company shall disclose to the company in Form A, the number of shares or voting rights held by such person, on becoming such holder, within 4 working days of :— (a) the receipt of intimation of allotment of shares; or (b) the acquisition of shares or voting rights, as the case may be. 10. In terms of regulation 7(1) of SAST, the obligation of disclosure is cast upon the “acquirer”. It is, therefore, pertinent to examine whether the Noticee falls within the ambit of the term “acquirer” as defined under regulation 2(1)(b) of SAST, which reads as under: 2(1)(b) \"acquirer\" means any person who, directly or indirectly, acquires or agrees to acquire shares or voting rights in the target company, or acquires or agrees to acquire control over the target company, either by himself or with any person acting in concert with the acquirer. 11. I have noted the following submissions of the Noticee in this regard: That it was acting in ordinary course of business in the capacity of a broker and had traded in the scrip of CGIL only on behalf of its clients and that the consideration for the shares in question proceeded from the clients. That the shares in the Client Beneficiary account belonged to the clients and the Noticee as a stockbroker retained the shares on behalf of its clients on their express authorization. All the corporate benefits arising out of the shares retained in the Client Beneficiary Account were passed on to the clients. The Noticee, as a stock broker, having retained the shares did No have any interest or rights in or claim over these corporate benefits. One of the clients, namely, Mr. Jagdish Kumar (hereinafter referred to as “JK”) held 4.33% and 4.34% shares of CGIL out of the total collective holding of 4.85% and 5.90% shares held in the Client Beneficiary Account as on quarter ended December 2007 and March 2008 respectively. The Noticee had No indulged in any proprietary trading. To avoid any recurrence of such instances, a new system has been put in place wherein there is an alarm in the form of an automatic trigger at 3 levels viz., 2.5% for the Operations Manager, 3.5% for the Compliance Head and 4% for the Executive Director- Operations. When the trigger is hit at 3.5%, the holdings in the particular scrip would be duly transferred to the concerned clients. When the trigger is hit at the 4%, instruction would be given to the surveillance team to discontinue the buying temporarily in the said scrip till the overall concentration in the Client Beneficiary Account is brought down below the threshold limits. This system has been put in place w.e.f. January 15, 2009. 12. In order to verify the veracity of the aforesaid submissions, the Noticee was advised to furnish documentary evidence including details of ledger accounts of clients whose shares were retained by the Noticee during the relevant period, proof of consent of the clients authorizing the Noticee to retain the clients, etc. The same was submitted by the Noticee vide letter dated February 16, 2009. 13. On perusal of the ledger account of JK submitted by the Noticee, I find that payments have been made by JK to the Noticee for all the trading done on his behalf by the Noticee in the scrip of CGIL. This indicates that 4.34% of shares held in the Client beneficiary Account were bought by the Noticee on behalf of JK. Similarly, I find that in case of other clients as well, payments have been received by the Noticee for the purchases made by them. I also find that the clients have given their consent to the Noticee to retain the shares. 14. In view of the foregoing, I find merit in the submissions of the Noticee and I am of the view that the Noticee does No fall within the ambit of the term ‘acquirer’ as defined in regulation 2(1)(b) of SAST. On the other hand, the clients who have purchased these shares are the actual acquirers. Consequently, compliance with provisions of regulation 7(1) read with 7(2) did No arise. Therefore, when regulation 7(1) was No attracted, the question of its violation cannot arise. 15. As regards regulation 13 (1) of PIT, the disclosure has to be made in Form A by any person who holds more than 5% shares. On perusal of Form A, I find that the person is required to disclose the details of acquisition of 5% or more shares in a listed company. The term ‘acquisition’ has No been defined either under PIT or SAST. Black’s Law Dictionary, Sixth Edition, defines the term ‘Acquisition’ as ”the gaining of possession or control over something <acquisition of target company’s assets> 0r something acquired”. Thus, the primary requirement for acquisition is to acquire something, thereby making the person an “acquirer” as defined under SAST. However, as mentioned above, the Noticee does No fall within the ambit of the term “Acquirer” as defined under SAST and therefore, it cannot be said to have acquired the shares. Accordingly, there was no acquisition by the Noticee which needed to be disclosed under regulation 13(1) of PIT. 16. Be that as it may, it is pertinent to highlight the failure on the part of the Noticee to transfer the shares to the respective Beneficiary Owner accounts of clients for whom the Noticee had purchased the shares. This failure practice enabled the true owners of the shares to hide their identity behind the Noticee. This would encourage the clients to acquire shares through differrent brokers and even if their total acquisition exceeds the limits specified under PIT and SAST, they may No be disclosing the same as they have found a convenient mask to hide their real identity behind the brokers. The said market practice, if No checked and nipped in the bud, may snowball into an appalling strategy in the hands of unscrupulous elements affecting the smooth functioning of the securities market and jeopardizing the interest of investors. ORDER 17. In view of the foregoing, the alleged violation of the provisions of SAST and PIT by the Noticee, as specified in the SCN, does No stand established and the matter is, accordingly, disposed of. 18. In terms of rule 6 of the Rules, copies of this order are sent to the Noticee and also to the Securities and Exchange Board of India. Date: February 19, 2009 V.S.SUNDARESAN Place: Mumbai ADJUDICATING OFFICER"
+    },
+    "id": 0
+  }
+]

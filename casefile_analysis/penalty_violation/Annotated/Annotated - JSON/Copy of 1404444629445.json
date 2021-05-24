@@ -1,0 +1,1837 @@
+[
+  {
+    "completions": [
+      {
+        "created_at": 1612250160,
+        "id": 1,
+        "lead_time": 3825.915,
+        "result": [
+          {
+            "from_name": "label",
+            "id": "G4xTz1pPPG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 821,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 583,
+              "text": " Securities and Exchange Board of India (SEBI) had conducted investigation pertaining to issues relating to insider trading in the scrip of Satyam Computer Services Limited (SCSL) during the financial year 2008-09 (investigation period). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1RPiyJYzVc",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1168,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 821,
+              "text": "The investigation revealed that SCSL’s announcement on December 16, 2008 to acquire Maytas Infra Limited (MIL) and Maytas Properties Limited (MPL), the subsequent cancellation of the said proposal on December 17, 2008 and the confession made by Mr. B. Ramalinga Raju, the then Chairman of SCSL on January 07, 2009 were price sensitive information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EyOESMkGPh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1444,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1169,
+              "text": "It was also observed that certain employees and clients had sold SCSL shares between November 25, 2008 and December 16, 2008 till before the announcement and Adjudication order in respect of TAN Murti in the matter of SCSL some 80 clients sold shares before January 7, 2009. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "aKeD6alHPk",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 1747,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 1444,
+              "text": "The trading window was closed from December 17, 2008 and stayed closed till June 12, 2009. On December 17, 2008 the price of the scrip fell to a low of 151, i.e 33.5% fall from previous close price but after the cancellation of decision of acquisition, it recovered marginally to close at 157.10 on NSE."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QNZrKpH8PY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2250,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 1751,
+              "text": "The investigation alleged that Shri T.A.N. Murti ( “Noticee”), Head, Investor Relations of SCSL, indulged in insider trading when he was in possession of unpublished price sensitive information relating to the acquisition of MIL and MPL by SCSL which was announced on December 16, 2008. It was alleged that the noticee was one of the key personnel of SCSL who got to know about the announcement of acquisition of MIL and MPL in advance and traded immediately before the announcement of acquisition. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Bq4eOTK31l",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2385,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2250,
+              "text": "The noticee had sold 14,500 shares on December 15, 2008 at around 11.30 AM, after which his holding in SCSL was reduced to 3000 shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Qf9yHh5OSN",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2568,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2386,
+              "text": "It was further observed that the noticee had sent SMS to Mr. Srinivasu Satti (SS), Head of Mergers and Acquisitions department of SCSL at midnight i.e, 00:18:51 on December 15, 2008."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gxtcPqLis3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2770,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2569,
+              "text": "It was also observed from the telephone records of SS that he had called the noticee at 12:36:05 hours on December 14, 2008 and at 00:19:27 hours on December 15, 2008, which lasted for about 9 minutes."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "enUDrGufnE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 2879,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2771,
+              "text": "SS had mailed the draft presentation on the acquisition deal to the noticee on December 14, 2008 at 7:56 PM."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "L_DVUdB0RX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3010,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 2880,
+              "text": "The financial results of MPL were also sent to the noticee by SS at 7:53 PM and 10:09 PM on December 14, 2008 through two e-mails."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "GKJwACGBTy",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 3665,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3013,
+              "text": " In view of the findings of the investigation as given above, SEBI, vide Orders dated January 07, 2011 and April 08, 2011, appointed the undersigned as Adjudicating Officer (AO) under Section 15-I of the SEBI Act, 1992 (SEBI Act) read with Rule 3 of Securities and Exchange Board of India (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (Adjudication Rules) to inquire into and adjudge under Section 15G of the SEBI Act, the alleged violation of Regulation 3 (i) of the SEBI (Prohibition of Insider Trading) Regulations, 1992 (PIT Regulations) read with Section 12A (d) and (e) of the SEBI Act by the Noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ak9p8NpRWb",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4049,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 3777,
+              "text": " Show Cause Notice dated August 17, 2011 (SCN) was issued to the Noticee in terms of the provisions of Rule 4 (1) of the Adjudication Rules to show cause as to why an inquiry should No be held against him in respect of the violations alleged to have been committed by him."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7_O8Gc6ab9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4178,
+              "labels": [
+                "Allegation"
+              ],
+              "start": 4050,
+              "text": "The SCN alleged that the Noticee had traded in the shares of SCSL when in possession of unpublished price sensitive information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xiGx98AM6c",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4529,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 4179,
+              "text": "Copy of the statement of the noticee recorded by SEBI, noticee's letter dated February 01, 2010 to SEBI, telephone records of the noticee of his phone No 9849171150 mentioning details of calls to the number (9849098158) of SS and copies of e-mails received by the noticee on December 14, 2008 from SS were furnished to the noticee along with the SCN."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "evViqNhmRP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4649,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 4532,
+              "text": " In response to the SCN, the noticee had sought, vide e-mail dated September 02, 2011, 6 weeks time for filing reply."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IV5fhfMocp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4868,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 4649,
+              "text": " However, the Noticee was informed vide letter dated September 09, 2011 that such long extension of time for filing reply to SCN cannot be granted and he was advised to appear for personal hearing on September 29, 2011."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "VxempAWwVK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 4971,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 4868,
+              "text": " Further, vide e- mail dated September 14, 2011, the noticee was advised to submit response to the SCN."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dNdt1Yfl82",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5108,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 4972,
+              "text": "The noticee appeared for hearing on September 29, 2011 and submitted that he had filed consent application for settling the proceedings."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qcT8p289gP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5231,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 5109,
+              "text": "SEBI, vide communication dated September 04, 2012 advised that the consent application filed by noticee had been rejected."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cIrGqZChyo",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5426,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 5232,
+              "text": "Vide e- mail dated September 27, 2012 , the noticee has also intimated that the consent application filed by him had been rejected by SEBI and sought time till October 25, 2012 for filing reply."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Gf2D0UW-5s",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5644,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 5427,
+              "text": "Vide notice dated October 05, 2012, the request of the noticee for extension of time was acceded to partially and the noticee was advised to file the reply on or before personal hearing scheduled for October 19, 2012."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0UOSpeJ6Aq",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5873,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 5645,
+              "text": "The noticee’s representative, Shri Joby Mathew, Advocate, vide letter dated October 15, 2012 sought time for filing reply till October 25, 2012 and also requested for rescheduling the personal hearing fixed for October 19, 2012."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "HrN2ZgbPlW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 5941,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 5874,
+              "text": "The noticee was advised to appear for hearing on November 05, 2012."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cBgP0OLy4u",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6060,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 5942,
+              "text": "The noticee submitted detailed reply vide letter dated October 31, 2012 and appeared for hearing on November 05, 2012."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "r7TFXznluS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6301,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6061,
+              "text": "During the hearing, while reiterating the submissions made vide reply dated October 31, 2012, the noticee sought time till Adjudication order in respect of TAN Murti in the matter of SCSL November 12, 2012 for filing additional submissions."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "eDZ0p-y9vf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6383,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 6302,
+              "text": "The noticee submitted additional submissions vide letter dated November 09, 2012."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pR9zV0Zw1L",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6662,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 6386,
+              "text": " The salient submissions of the Noticee in response to the SCN, made vide his letters dated October 31, 2012 and November 09, 2012 are as under:  He is an alumni of the prestigious Indian Institute of Management (IIM) Bangalore and Birla Institute of Technology (BITS) Ranchi"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "njbab_Vyf1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 6799,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 6663,
+              "text": " He joined SCSL in 2001 and he has never been a designated employee No a key managerial person in any offer document and public record."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FJuALeKjco",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7012,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 6799,
+              "text": " He was No part of the \"Leadership council\"  As an Assistant Vice President of Finance & Investor Relations, he was No always privy to information available to Board of Directors or the senior management of SCSL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Gn0LWR7cDf",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7331,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7012,
+              "text": "  With regard to the merger of MIL & MPL, he received a draft version of the proposal from SS on December 14, 2008 & the said proposal did No mention the names of the entities to be merged, the date of merger or any other material particulars based on which a decision could have been taken to sell the shares of SCSL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "LGnQ5KP3UY",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7632,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7332,
+              "text": " He met the Chairman of SCSL only late in the evening of December 15, 2008 (after he had sold his shares) i.e. on the eve of the Board meeting and only in the said meeting for the first time he came to know about the merger and the identity of the entities that were proposed to be merged with SCSL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "KJ41jww2Fi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7814,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7633,
+              "text": "He was involved in the Board meeting with the Chairman and was given information regarding the merger for having interaction with investors following the announcement of the merger."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "TVvLI4WKgu",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 7935,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7815,
+              "text": "Further, he was equally surprised by the decision of the Board to withdraw the proposal for merger on December 17, 2008."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bQHlB-V92i",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8092,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 7936,
+              "text": "He sold the shares of SCSL in December, 2008 to accumulate funds for purchase of a house flat at a better location and having better amenities in Hyderabad."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pnjRxz3Sne",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8297,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8093,
+              "text": " He had received the draft presentation on proposed acquisition of the two companies from SS at 7.53 pm and 10.09 pm on December 14, Adjudication order in respect of TAN Murti in the matter of SCSL 2008."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2VJz0Ujt8R",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8445,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8297,
+              "text": " However, he would No have been able to take the decision to sell a major portion of his holdings in SCSL based on such incomplete data information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Jt3RPoh6RV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8677,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8445,
+              "text": "  The contract notes issued by broker in respect of the sale of 14,500 shares of SCSL on December 15, 2008 show the time of sale as 11.16 am whereas in the Show Cause Notice, the time of sale is stated to be from around 11.30 a.m. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3gSLu2bHfg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 8842,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8677,
+              "text": " It is No established from the SMS sent by the noticee or the conversation that he had with SS was with the knowledge of the proposed merger or the details thereof."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "SYH1E0Y-m5",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9044,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 8842,
+              "text": " The call on December 14, 2008 at 12:36:05 was for a mere 7 seconds thereby precluding the chance of SS passing on the purported unpublished price sensitive information, as falsely alleged or otherwise."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "2U3uQUiWXu",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9135,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9044,
+              "text": "  Even the Compliance Officer of SCSL closed the trading window only on December 17, 2008."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "KmsW9SrVil",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9212,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9136,
+              "text": "As the trading window was No closed, he did No suspect the presence of UPSI."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "RDgxY3PCau",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9370,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 9212,
+              "text": "  The sale of these shares was influenced by numerous analyst and Bloomberg indicating lower profit estimates and target prices for many IT sector companies."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "DR5WDYTI4h",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9530,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 9421,
+              "text": "I have carefully perused the documents available on record, written and oral submissions made by the Noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "yJO5OHwaS1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9741,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 9531,
+              "text": "The issues that arise for consideration in the present case are: a. Whether the Noticee has violated the provisions of Regulation 3 (i) of the PIT Regulations read with Section 12A (d) and (e) of the SEBI Act? "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "6wZrFMgHHX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9845,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 9741,
+              "text": "b. Does the violation, if any, on the part of the Noticee attract penalty under section 15G of SEBI Act?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "jLMQiHLlK9",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 9985,
+              "labels": [
+                "Issues Framed"
+              ],
+              "start": 9845,
+              "text": " c. If so, how much penalty should be imposed on the Noticee taking into consideration the factors mentioned in section 15J of the SEBI Act?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "MNp-BW0Dvp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 10677,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 10054,
+              "text": "The relevant provisions of the SEBI Act and the PIT Regulations are as follows: \"Section 12A, SEBI Act- Prohibition of manipulative and deceptive devices, insider trading and substantial acquisition of securities or control: No person shall directly or indirectly- (a).......... (b).......... (c)................. (d) engage in insider trading; (e) deal in securities while in possession of material or non-public information or communicate such material or non-public information to any other person, in a manner which is in contravention of the provisions of this Act or the rules or the regulations made thereunder.....\""
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dFiZvotDcP",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11005,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 10678,
+              "text": "Reg.3(i), PIT Regulations- Prohibition on dealing, communicating or counseling on matters relating to insider trading: No insider shall- (i) either on his own behalf or on behalf of any other person, deal in securities of a company listed on any stock exchange when in possession of any unpublished price sensitive information;"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gVeaI3dF6C",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11156,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 11009,
+              "text": "Regulation 3 (i) of the PIT Regulations prohibits dealing in securities of a company when in possession of unpublished price sensitive information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "MyDGA3ZKkT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11426,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 11157,
+              "text": "Section 12A (d) and (e) of the SEBI Act prohibit insider trading and dealing in securities, while in possession of material or non-public information, in a manner which is in contravention of the provisions of the SEBI Act and the rules and regulations made thereunder."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "nAzVeLdTfg",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11639,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 11431,
+              "text": "I note that in order to establish the charge, it is necessary to prove that the noticee was an 'insider' and whether he dealt in securities when in possession of any 'unpublished price sensitive information'."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "g74zxNj6yW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 11813,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 11640,
+              "text": "In terms of Regulation 2(e) of the PIT Regulations, an 'insider' is any person who is or was connected with the company or is deemed to have been connected with the company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "H1SltDk83I",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12116,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 11814,
+              "text": "Regulation 2(c) of PIT Regulations deals with the term 'connected person' and as per Regulation 2(c) (ii), inter alia, any person who occupies the position as an officer or an employee of the company is a person connected to the Adjudication order in respect of TAN Murti in the matter of SCSL company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "GaDz9vlf3K",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12320,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 12116,
+              "text": " I find that the noticee was Head, Investor Relations of SCSL during the period of investigation and being an employee of the company he was a 'connected person' and was thus an 'insider' of the company. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hwarI6WpMW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12504,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 12324,
+              "text": "In order to decide whether the said acquisition proposal amounted to 'price sensitive information', it is imperative to look into the relevant legal provisions concerning the same."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "YU6Wus2FNF",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 12754,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 12505,
+              "text": "Regulation 2(ha) of the PIT Regulations states as under:- \"price sensitive information' means any information which relates directly or indirectly to a company and which if published is likely to materially affect the price of securities of company."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FaGbpVCJ5a",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13248,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 12754,
+              "text": " Explanation.- The following shall be deemed to be price sensitive information:- (i) periodical financial results of the company; (ii) intended declaration of dividend (both interim and final); (iii) issue of securities or buy-back of securities; (iv) any major expansion plans or execution of new projects; (v) amalgamation, mergers and takeovers; (vi) disposal of the whole or substantial part of the undertaking; and (vii) significant changes in policies, plans or operations of the company\""
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "xJlb-eSPL-",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13432,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 13252,
+              "text": " I find that the various types of information mentioned in the above list are very wide in nature & scope and are No limited to only concrete decisions steps taken in that regard. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "OHDPY1Dv56",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13688,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13432,
+              "text": "They are broad enough to cover within their ambit any information, related to these 7 types of information in the list, which if published is likely to materially affect the price of securities of a company, which could even be in the nature of a proposal."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "ALInp-JjBp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13814,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 13688,
+              "text": " I find that SCSL's announcement on December 16, 2008 about the merger of MIL & MPL with SCSL was price sensitive information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "vclEQ7Ymtz",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 13942,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13815,
+              "text": "This announcement resulted in a fall in the price of SCSL scrip to 151 - (33.5% fall from previous close day's closing price). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "HD5Y07OCMR",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14086,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 13942,
+              "text": "However, after the announcement of cancellation of the decision on December 17, 2008, the price recovered marginally to close at 157.10 on NSE ."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4kFoJOIr5Q",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14444,
+              "labels": [
+                "Defendant Claims"
+              ],
+              "start": 14156,
+              "text": "The Noticee has contended that he only received a draft proposal by e- mail from SS and the said proposal did No mention the names of the entities to be merged, the date of merger or any other material particulars based on which he could have taken a decision to sell the shares of SCSL. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "5Jq53u35NT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14656,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14444,
+              "text": "I find that the noticee who was Head, Investor Relations at the relevant time was a key personnel at SCSL and sold a major chunk of his holdings i.e, 14,500 shares of SCSL on December 15, 2008 at around 11.30 AM."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "BmcVAR6BwX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14721,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14657,
+              "text": "After this sale, his holding in SCSL was reduced to 3000 shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "EjThGb2i9W",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14810,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14721,
+              "text": " I find that the noticee had received an e- mail from SS at 7.53 PM on December 14, 2008."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IffXAEYbRr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14864,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14811,
+              "text": "The subject of the said mail was \"B2: Balance sheet\"."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9G8oncp58v",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 14948,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14865,
+              "text": "Another e-mail was received by the noticee from SS at 7:56 PM on December 14, 2008."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7jPMJ9ypVQ",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15124,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 14949,
+              "text": "The attachment to the said mail was titled \"Acquisition of B1 & B2 by Alpha -notes.pptx.\". The attachment contained draft presentation about the acquisition of two companies. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "84A_F3B2h2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15367,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 15124,
+              "text": "Following this mail, at around 10:09 PM, the noticee received another mail from SS with the subject \"B2: Financial Statements\" and the attachment to the said mail was titled \"Maytas Properties2008.pdf:Maytas Properties2008Auditor Report.pdf\". "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "BOyWRxYuhM",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15506,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 15367,
+              "text": "This attachment contained the financials and auditors report for MPL. From all these mails, it is clear that that \"B2\" is the code for MPL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "fNoRQRdHHT",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15717,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 15507,
+              "text": "The e-mails talk about the acquisition of two companies and from the above discussion, it is clear that one of the two companies is MPL (\"B2\"), then it can be reasonably presumed that \"B1\" is the code for MIL. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "bJ__zDHcUK",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15842,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 15717,
+              "text": "Thus, I find that the noticee was aware of the acquisition of MIL and MPL by SCSL before he transacted in the shares of SCSL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "DrHUpQkl-r",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 15983,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 15843,
+              "text": "Further, the e- mail sent at 7.56 PM was addressed to the noticee and a copy of the same was marked to Mr. Vadlamani Srinivas (CFO of SCSL)."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "pQ9hna-Q0F",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16178,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 15984,
+              "text": "The e-mail which was sent at 10:09 PM was sent to Mr.G Ramakrishna (VP, Finance) and Mr G Jayaraman (Compliance Officer, SCSL) and copies were marked to the noticee and Shri Vadlamani Srinivas. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lXU_sqk_bv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16322,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 16178,
+              "text": "E- mail sent at 7:53 PM was originally sent to Mr. G Ramakrishna , G Jayaraman and Vadlamani Srinivas and later on was forwarded to the noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "J6FavLl9ZV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16577,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 16323,
+              "text": "As all the recipients of the said mails are key personnel senior management persons of SCSL, it is clear that the discussions on the proposed acquisition of MIL and MPL were happening for some time and the noticee was also aware of the said acquisitions."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qdcEUBwFv2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 16827,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 16578,
+              "text": "In view of the same, I am No in a position to accept the Adjudication order in respect of TAN Murti in the matter of SCSL contention of the Noticee that he was No aware of the proposal for acquisition of MIL & MPL by SCSL before he sold SCSL shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "R3DGC2g1xW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17107,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 16832,
+              "text": "Further, I find from the mobile records of the noticee that he had sent an SMS to SS at midnight i.e, 00:18:51 on December 15, 2008. SS had called the noticee at 12:36:05 hours on December 14, 2008 and at 00:19:27 hours on December 15, 2008, which lasted for about 9 minutes."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9A0UCH4dXC",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17444,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 17108,
+              "text": "Taking into account the mobile records and the e- mails as stated above and the subsequent transaction of the noticee on the morning of December 15, 2008 in the shares of SCSL, I find that the noticee was aware of the forthcoming acquisition deal by December 14, 2008 itself and traded when he was in possession of the said information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "rtDQOcXJDp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17667,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17445,
+              "text": "Being a seasoned finance professional with substantial experience in the field, there would No have been any difficulty for the noticee to anticipate the possible market reaction to the acquisition of MIL and MPL by SCSL. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gKBAOnH4AA",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 17987,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17667,
+              "text": "In fact, SCSL’s announcement on December 16, 2008 (evening) to acquire MIL and MPL resulted in a substantial fall in share price of SCSL on December 17, 2008 when the scrip fell to a low of 151, a 33.5% fall from previous close, but after the cancellation of the decision, recovered marginally to close at 157.10 on NSE."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "0pX9RKWdiV",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18153,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 17992,
+              "text": "The noticee has sold 14,500 shares of SCSL at an average price of 226 - per share on December 15, 2008 before the news of acquisition of MIL & MPL became public."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "4L2X_U9pVh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18393,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18154,
+              "text": "The trading window that was closed on December 17, 2008 remained closed till June 12, 2009, thereby the employees could trade again only on June 15, 2009 (June 13-14,2009 being Saturday and Sunday) when the scrip of SCSL opened at . 77.40."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "8c5lUOXN3e",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18560,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18393,
+              "text": " If the noticee had held on to those 14,500 shares without selling them on December 15, 2008, the noticee could have sold them off earliest on June 15, 2009 at 77.40. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Zak1btNkK0",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18735,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18560,
+              "text": "As a result, the noticee has avoided losses of about .148.60 per share being the difference between the average sale price on December 15, 2008 and the price on June 15, 2009."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "dDBUPubnai",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 18797,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 18736,
+              "text": "This difference amounts to . 21, 54, 700 - for 14,500 shares."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "uwekYD9T6m",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19077,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 18867,
+              "text": "From the discussion above and the facts and circumstances of the case, I find that the noticee being an insider was in possession of 'unpublished price sensitive information' when he sold 14,500 shares of SCSL."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "WmxGGmRfub",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19424,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 19078,
+              "text": "Hon'ble SAT in the matter of Mrs Chandrakala vs SEBI (Appeal No 209 2011 decided on 31.01.2012) observed thus: \"..........If an insider trades or deals in securities of a listed company, it may be presumed that he she traded on the basis of unpublished price sensitive information in his her possession unless contrary to the same is established."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gxFc5l06dS",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19524,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 19424,
+              "text": " The burden of proving a situation contrary to the presumption mentioned above lies on the insider\"."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "gOk9kF3Fr6",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19653,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19529,
+              "text": "In this context, I have perused the reasons given by the noticee for his sale of 14,500 shares of SCSL on December 15, 2010."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "IdN5g97Mlp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19752,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 19654,
+              "text": "I find that the noticee is very inconsistent or unstable regarding the reasons for the said sale. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "jBcBJCEdqs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 19802,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19752,
+              "text": "He has cited different reasons at different times."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "UH1RYViszv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20030,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 19803,
+              "text": "In his letter dated February 01, 2010 he mentioned numerous reasons such as funding for exercise of options, selling before quiet period (trading window closure), bearish outlook of investment community towards IT industry etc."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "cDc9xevhF_",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20170,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20030,
+              "text": " In his letter dated October 31, 2012, he mentions that he wanted to purchase a house at a better location and he needed money for the same."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "p8I3FbMIie",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20268,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20170,
+              "text": " However, in his letter dated November 09, 2012, he mentions about analyst reports as the reason. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "28LM50aEsU",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20390,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20268,
+              "text": "He has No submitted any documents which indicate that he had a pressing need of funds at that time for purchase of house. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "wuBOffHby4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20522,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 20390,
+              "text": "In other words, the noticee has No given any convincing evidence for selling such a large quantity of shares at that point of time. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qsb4KmmI-A",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20655,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20526,
+              "text": "In the instant case, the noticee was an insider and he had traded while in possession of unpublished price sensitive information."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "98WWIumjNv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 20873,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 20656,
+              "text": "The noticee has contended that he was No aware that the two companies SCSL was going to acquire were MIL and MPL as the names of the companies were mentioned as B1 and B2 in the draft presentation he received from SS."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9jkaPDYky3",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21042,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 20874,
+              "text": "This contention does No appear to be correct because from the e- mails received by the noticee from SS on December 14, 2008 it is clear that \"B2\" was the code for MPL. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "QrMIGT9ckO",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21292,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 21111,
+              "text": "The frequent conversations by the noticee with SS on December 14-15, 2008 further support the view that the noticee was aware of the information of acquisition of the two companies."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "1s1Gt9aBrr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 21571,
+              "labels": [
+                "Violation"
+              ],
+              "start": 21297,
+              "text": "Thus it is clear that the noticee sold the shares of SCSL on December 15, 2010 when he was in possession of unpublished price sensitive information and has thus violated the provisions of Regulation 3(i) of PIT Regulations read with Section 12A (e) and (d) of the SEBI Act. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "tGvg7gfj_X",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22441,
+              "labels": [
+                "Penalty"
+              ],
+              "start": 21575,
+              "text": "The aforesaid violations by the Noticee make him liable for penalty u s. 15G of the SEBI Act which reads as under: “Penalty for insider trading 15G. If any insider who,- (i) either on his own behalf or on behalf of any other person, deals in securities of a body corporate listed on any stock exchange on the basis of any unpublished price sensitive information; or (ii) communicates any unpublished price- sensitive information to any person, with or without his request for such information except as required in the ordinary course of business or under any law; or (iii) counsels, or procures for any other person to deal in any securities of any body corporate on the basis of unpublished price-sensitive information, shall be liable to a penalty of twenty-five crore rupees or three times the amount of profits made out of insider trading, whichever is higher. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qaP10fQ0Es",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22698,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 22445,
+              "text": "I find that unlike the charging provision of regulation 3 (i) of PIT Regulations which prohibits trading in a scrip ‘while in possession’ of UPSI regarding the same scrip, section 15 G of SEBI Act penalises trading in a scrip ‘on the basis of’ the UPSI."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "HbkHLhK2HX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 22953,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 22699,
+              "text": "For interpretation of the words ‘on the basis of’ in section 15G of SEBI Act, I rely on the interpretation of the words ‘on the basis of’ by the Hon’ble SAT in its order dated May 09, 2008 in the matter of Rajiv B Gandhi vs. SEBI (Appeal No.50 of 2007). "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "StU5jr2GvW",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23222,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 22953,
+              "text": "In the said case, the Hon’ble SAT has elaborated on the issue of whether the insider, though in possession of unpublished price sensitive information, had traded ‘on the basis of’ that Adjudication order in respect of TAN Murti in the matter of SCSL information or not?"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "k7M_TbJ87V",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23541,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 23222,
+              "text": " In this regard the Hon’ble SAT made the following observation: We are of the considered opinion that if an insider trades or deals in securities of a listed company, it would be presumed that he traded on the basis of the unpublished price sensitive information in his possession unless he establishes to the contrary."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Q6OxWJhiQE",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23684,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 23542,
+              "text": "Facts necessary to establish the contrary being especially within the knowledge of the insider, the burden of proving those facts is upon him."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "Ran_BEl9C1",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23892,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 23685,
+              "text": "The presumption that arises is rebuttable and the onus would be on the insider to show that he did No trade on the basis of the unpublished price sensitive information and that he traded on some other basis."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "OG-4ZoRTbr",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 23992,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 23892,
+              "text": " He shall have to furnish some reasonable or plausible explanation of the basis on which he traded. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "vw9pRDZmF2",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24087,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 23992,
+              "text": "If he can do that, the onus shall stand discharged or else the charge shall stand established”."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "BySWoD3CSm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24383,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 24092,
+              "text": "The Hon’ble Supreme Court of India in the matter of SEBI vs. Shri Ram Mutual Fund1 held that “once the violation of statutory regulations is established, imposition of penalty becomes sine qua No of violation and the intention of parties committing such violation becomes totally irrelevant."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "3Xq7jjiRpz",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24455,
+              "labels": [
+                "Related Facts"
+              ],
+              "start": 24383,
+              "text": " Once the contravention is established, then the penalty is to follow.” "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "9P8ZenaPfH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 24664,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 24459,
+              "text": "While determining the quantum of penalty, it is important to consider the factors stipulated in section 15J of SEBI Act, which reads as under:- Factors to be taken into account by the adjudicating officer."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "M0rIGvCZRl",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25050,
+              "labels": [
+                "Statutory Facts"
+              ],
+              "start": 24665,
+              "text": "While adjudging quantum of penalty under S.15-I, the adjudicating officer shall have due regard to the following factors, namely:- (a) the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default; (b) the amount of loss caused to an investor or group of investors as a result of the default; (c) the repetitive nature of the default.”"
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "eDMB2lOGAv",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25239,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 25055,
+              "text": "It is one of the basic tenets of PIT Regulations is to prohibit trading by insiders by virtue of their access to price sensitive information and thereby gain at the cost of investors. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "wZLGzSbEoa",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25296,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 25239,
+              "text": "This is to bring about fairness in the securities market."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "MR0_YvoNKI",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25368,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 25297,
+              "text": "Thus, any violation of the PIT Regulations has to be viewed seriously. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "jqliidTFB4",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25515,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 25368,
+              "text": "For orderly and fair functioning of the securities market, it is essential for every market player to fulfill the requirements mandated by the law."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "q3m65fihNG",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25671,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 25516,
+              "text": "Hence, the violation by 1 (2006) 68SCL 216 (SC) Adjudication order in respect of TAN Murti in the matter of SCSL the Noticee needs to be viewed seriously. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "p9kzmdxA-U",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25874,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 25671,
+              "text": "In the instant case, the information was highly price sensitive and when the same was made public, the market reacted very adversely leading to a fall of 33.5% of share price which is quite substantial. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "lFntz8l4xX",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 25979,
+              "labels": [
+                "Material Facts"
+              ],
+              "start": 25874,
+              "text": "The noticee by selling 14,500 shares of SCSL on December 15, 2008 has avoided a loss of . 21, 54, 700 -. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "FApsxm0_Uh",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26174,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 25989,
+              "text": "After taking into consideration all the facts and circumstances of the case, I come to the conclusion that this is a fit case for imposing the monetary penalty on the aforesaid Noticee."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "mCEFaudYTs",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26491,
+              "labels": [
+                "Penalty"
+              ],
+              "start": 26174,
+              "text": " I, in exercise of the powers conferred upon me under section 15- I (2) of the SEBI Act, impose a penalty of 65,00,000 (Rupees Sixty Five Lakh only) on the Noticee in terms of Section 15G of the SEBI Act for violation provisions of Regulation 3(i) of PIT Regulations read with Section 12A (e) and (d) of the SEBI Act."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "7i9z-n7isi",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26592,
+              "labels": [
+                "Subjective Observation"
+              ],
+              "start": 26491,
+              "text": " I am of the view that the said penalty is commensurate with the violation committed by the Noticee. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "R6v1e3ATyp",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 26789,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 26596,
+              "text": "The penalty shall be paid by way of a duly crossed demand draft drawn in favour of “SEBI- Penalties Remittable to Government of India” payable at Mumbai within 45 days of receipt of this order."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "GO3SGhplQH",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27005,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 26790,
+              "text": "The said demand draft shall be forwarded to General Manager, Investigation Department-6 (IVD-ID6), Securities and Exchange Board of India, Plot no.C4-A, ‘G’ Block, Bandra Kurla Complex, Bandra (E), Mumbai- 400 051. "
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "hMxTGLRMrm",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27159,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 27009,
+              "text": "In terms of the Rule 6 of the Adjudication Rules, copies of this order are sent to the Noticee and also to the Securities and Exchange Board of India."
+            }
+          },
+          {
+            "from_name": "label",
+            "id": "qe1TnZxyao",
+            "to_name": "text",
+            "type": "labels",
+            "value": {
+              "end": 27198,
+              "labels": [
+                "Procedural Facts"
+              ],
+              "start": 27160,
+              "text": "The matter is disposed of accordingly."
+            }
+          }
+        ]
+      }
+    ],
+    "data": {
+      "text": "- AO Order dated 21.12.2012 Adjudication order in respect of TAN Murti in the matter of SCSL BEFORE THE ADJUDICATING OFFICER SECURITIES AND EXCHANGE BOARD OF INDIA [ADJUDICATION ORDER No PG AO SPV 76 2012] UNDER SECTION 15-I OF SECURITIES AND EXCHANGE BOARD OF INDIA ACT, 1992 READ WITH RULE 5 OF SECURITIES AND EXCHANGE BOARD OF INDIA (PROCEDURE FOR HOLDING INQUIRY AND IMPOSING PENALTIES BY ADJUDICATING OFFICER) RULES, 1995 In respect of Mr. T.A.N. Murti (Appallanarasimha Murti Tanikkella) [PAN: AAGPT9677A] In the matter of Satyam Computer Services Ltd Background of the case 1. Securities and Exchange Board of India (SEBI) had conducted investigation pertaining to issues relating to insider trading in the scrip of Satyam Computer Services Limited (SCSL) during the financial year 2008-09 (investigation period). The investigation revealed that SCSL’s announcement on December 16, 2008 to acquire Maytas Infra Limited (MIL) and Maytas Properties Limited (MPL), the subsequent cancellation of the said proposal on December 17, 2008 and the confession made by Mr. B. Ramalinga Raju, the then Chairman of SCSL on January 07, 2009 were price sensitive information. It was also observed that certain employees and clients had sold SCSL shares between November 25, 2008 and December 16, 2008 till before the announcement and Adjudication order in respect of TAN Murti in the matter of SCSL some 80 clients sold shares before January 7, 2009. The trading window was closed from December 17, 2008 and stayed closed till June 12, 2009. On December 17, 2008 the price of the scrip fell to a low of 151, i.e 33.5% fall from previous close price but after the cancellation of decision of acquisition, it recovered marginally to close at 157.10 on NSE. 2. The investigation alleged that Shri T.A.N. Murti ( “Noticee”), Head, Investor Relations of SCSL, indulged in insider trading when he was in possession of unpublished price sensitive information relating to the acquisition of MIL and MPL by SCSL which was announced on December 16, 2008. It was alleged that the noticee was one of the key personnel of SCSL who got to know about the announcement of acquisition of MIL and MPL in advance and traded immediately before the announcement of acquisition. The noticee had sold 14,500 shares on December 15, 2008 at around 11.30 AM, after which his holding in SCSL was reduced to 3000 shares. It was further observed that the noticee had sent SMS to Mr. Srinivasu Satti (SS), Head of Mergers and Acquisitions department of SCSL at midnight i.e, 00:18:51 on December 15, 2008. It was also observed from the telephone records of SS that he had called the noticee at 12:36:05 hours on December 14, 2008 and at 00:19:27 hours on December 15, 2008, which lasted for about 9 minutes. SS had mailed the draft presentation on the acquisition deal to the noticee on December 14, 2008 at 7:56 PM. The financial results of MPL were also sent to the noticee by SS at 7:53 PM and 10:09 PM on December 14, 2008 through two e-mails. 3. In view of the findings of the investigation as given above, SEBI, vide Orders dated January 07, 2011 and April 08, 2011, appointed the undersigned as Adjudicating Officer (AO) under Section 15-I of the SEBI Act, 1992 (SEBI Act) read with Rule 3 of Securities and Exchange Board of India (Procedure for Holding Inquiry and Imposing Penalties by Adjudicating Officer) Rules, 1995 (Adjudication Rules) to inquire into and adjudge under Section 15G of the SEBI Act, the alleged violation of Regulation 3 (i) of the SEBI (Prohibition of Insider Trading) Regulations, 1992 (PIT Regulations) read with Section 12A (d) and (e) of the SEBI Act by the Noticee. Adjudication order in respect of TAN Murti in the matter of SCSL Show Cause Notice, Reply & Personal hearing 4. Show Cause Notice dated August 17, 2011 (SCN) was issued to the Noticee in terms of the provisions of Rule 4 (1) of the Adjudication Rules to show cause as to why an inquiry should No be held against him in respect of the violations alleged to have been committed by him. The SCN alleged that the Noticee had traded in the shares of SCSL when in possession of unpublished price sensitive information. Copy of the statement of the noticee recorded by SEBI, noticee's letter dated February 01, 2010 to SEBI, telephone records of the noticee of his phone No 9849171150 mentioning details of calls to the number (9849098158) of SS and copies of e-mails received by the noticee on December 14, 2008 from SS were furnished to the noticee along with the SCN. 5. In response to the SCN, the noticee had sought, vide e-mail dated September 02, 2011, 6 weeks time for filing reply. However, the Noticee was informed vide letter dated September 09, 2011 that such long extension of time for filing reply to SCN cannot be granted and he was advised to appear for personal hearing on September 29, 2011. Further, vide e- mail dated September 14, 2011, the noticee was advised to submit response to the SCN. The noticee appeared for hearing on September 29, 2011 and submitted that he had filed consent application for settling the proceedings. SEBI, vide communication dated September 04, 2012 advised that the consent application filed by noticee had been rejected. Vide e- mail dated September 27, 2012 , the noticee has also intimated that the consent application filed by him had been rejected by SEBI and sought time till October 25, 2012 for filing reply. Vide notice dated October 05, 2012, the request of the noticee for extension of time was acceded to partially and the noticee was advised to file the reply on or before personal hearing scheduled for October 19, 2012. The noticee’s representative, Shri Joby Mathew, Advocate, vide letter dated October 15, 2012 sought time for filing reply till October 25, 2012 and also requested for rescheduling the personal hearing fixed for October 19, 2012. The noticee was advised to appear for hearing on November 05, 2012. The noticee submitted detailed reply vide letter dated October 31, 2012 and appeared for hearing on November 05, 2012. During the hearing, while reiterating the submissions made vide reply dated October 31, 2012, the noticee sought time till Adjudication order in respect of TAN Murti in the matter of SCSL November 12, 2012 for filing additional submissions. The noticee submitted additional submissions vide letter dated November 09, 2012. 6. The salient submissions of the Noticee in response to the SCN, made vide his letters dated October 31, 2012 and November 09, 2012 are as under:  He is an alumni of the prestigious Indian Institute of Management (IIM) Bangalore and Birla Institute of Technology (BITS) Ranchi  He joined SCSL in 2001 and he has never been a designated employee No a key managerial person in any offer document and public record. He was No part of the \"Leadership council\"  As an Assistant Vice President of Finance & Investor Relations, he was No always privy to information available to Board of Directors or the senior management of SCSL.  With regard to the merger of MIL & MPL, he received a draft version of the proposal from SS on December 14, 2008 & the said proposal did No mention the names of the entities to be merged, the date of merger or any other material particulars based on which a decision could have been taken to sell the shares of SCSL.  He met the Chairman of SCSL only late in the evening of December 15, 2008 (after he had sold his shares) i.e. on the eve of the Board meeting and only in the said meeting for the first time he came to know about the merger and the identity of the entities that were proposed to be merged with SCSL. He was involved in the Board meeting with the Chairman and was given information regarding the merger for having interaction with investors following the announcement of the merger. Further, he was equally surprised by the decision of the Board to withdraw the proposal for merger on December 17, 2008. He sold the shares of SCSL in December, 2008 to accumulate funds for purchase of a house flat at a better location and having better amenities in Hyderabad.  He had received the draft presentation on proposed acquisition of the two companies from SS at 7.53 pm and 10.09 pm on December 14, Adjudication order in respect of TAN Murti in the matter of SCSL 2008. However, he would No have been able to take the decision to sell a major portion of his holdings in SCSL based on such incomplete data information.  The contract notes issued by broker in respect of the sale of 14,500 shares of SCSL on December 15, 2008 show the time of sale as 11.16 am whereas in the Show Cause Notice, the time of sale is stated to be from around 11.30 a.m.  It is No established from the SMS sent by the noticee or the conversation that he had with SS was with the knowledge of the proposed merger or the details thereof. The call on December 14, 2008 at 12:36:05 was for a mere 7 seconds thereby precluding the chance of SS passing on the purported unpublished price sensitive information, as falsely alleged or otherwise.  Even the Compliance Officer of SCSL closed the trading window only on December 17, 2008. As the trading window was No closed, he did No suspect the presence of UPSI.  The sale of these shares was influenced by numerous analyst and Bloomberg indicating lower profit estimates and target prices for many IT sector companies. Consideration of Issues, Evidence and Findings 7. I have carefully perused the documents available on record, written and oral submissions made by the Noticee. The issues that arise for consideration in the present case are: a. Whether the Noticee has violated the provisions of Regulation 3 (i) of the PIT Regulations read with Section 12A (d) and (e) of the SEBI Act? b. Does the violation, if any, on the part of the Noticee attract penalty under section 15G of SEBI Act? c. If so, how much penalty should be imposed on the Noticee taking into consideration the factors mentioned in section 15J of the SEBI Act? Adjudication order in respect of TAN Murti in the matter of SCSL 8. The relevant provisions of the SEBI Act and the PIT Regulations are as follows: \"Section 12A, SEBI Act- Prohibition of manipulative and deceptive devices, insider trading and substantial acquisition of securities or control: No person shall directly or indirectly- (a).......... (b).......... (c)................. (d) engage in insider trading; (e) deal in securities while in possession of material or non-public information or communicate such material or non-public information to any other person, in a manner which is in contravention of the provisions of this Act or the rules or the regulations made thereunder.....\" Reg.3(i), PIT Regulations- Prohibition on dealing, communicating or counseling on matters relating to insider trading: No insider shall- (i) either on his own behalf or on behalf of any other person, deal in securities of a company listed on any stock exchange when in possession of any unpublished price sensitive information; 9. Regulation 3 (i) of the PIT Regulations prohibits dealing in securities of a company when in possession of unpublished price sensitive information. Section 12A (d) and (e) of the SEBI Act prohibit insider trading and dealing in securities, while in possession of material or non-public information, in a manner which is in contravention of the provisions of the SEBI Act and the rules and regulations made thereunder. 10. I note that in order to establish the charge, it is necessary to prove that the noticee was an 'insider' and whether he dealt in securities when in possession of any 'unpublished price sensitive information'. In terms of Regulation 2(e) of the PIT Regulations, an 'insider' is any person who is or was connected with the company or is deemed to have been connected with the company. Regulation 2(c) of PIT Regulations deals with the term 'connected person' and as per Regulation 2(c) (ii), inter alia, any person who occupies the position as an officer or an employee of the company is a person connected to the Adjudication order in respect of TAN Murti in the matter of SCSL company. I find that the noticee was Head, Investor Relations of SCSL during the period of investigation and being an employee of the company he was a 'connected person' and was thus an 'insider' of the company. 11. In order to decide whether the said acquisition proposal amounted to 'price sensitive information', it is imperative to look into the relevant legal provisions concerning the same. Regulation 2(ha) of the PIT Regulations states as under:- \"price sensitive information' means any information which relates directly or indirectly to a company and which if published is likely to materially affect the price of securities of company. Explanation.- The following shall be deemed to be price sensitive information:- (i) periodical financial results of the company; (ii) intended declaration of dividend (both interim and final); (iii) issue of securities or buy-back of securities; (iv) any major expansion plans or execution of new projects; (v) amalgamation, mergers and takeovers; (vi) disposal of the whole or substantial part of the undertaking; and (vii) significant changes in policies, plans or operations of the company\" 12. I find that the various types of information mentioned in the above list are very wide in nature & scope and are No limited to only concrete decisions steps taken in that regard. They are broad enough to cover within their ambit any information, related to these 7 types of information in the list, which if published is likely to materially affect the price of securities of a company, which could even be in the nature of a proposal. I find that SCSL's announcement on December 16, 2008 about the merger of MIL & MPL with SCSL was price sensitive information. This announcement resulted in a fall in the price of SCSL scrip to 151 - (33.5% fall from previous close day's closing price). However, after the announcement of cancellation of the decision on December 17, 2008, the price recovered marginally to close at 157.10 on NSE . Adjudication order in respect of TAN Murti in the matter of SCSL 13. The Noticee has contended that he only received a draft proposal by e- mail from SS and the said proposal did No mention the names of the entities to be merged, the date of merger or any other material particulars based on which he could have taken a decision to sell the shares of SCSL. I find that the noticee who was Head, Investor Relations at the relevant time was a key personnel at SCSL and sold a major chunk of his holdings i.e, 14,500 shares of SCSL on December 15, 2008 at around 11.30 AM. After this sale, his holding in SCSL was reduced to 3000 shares. I find that the noticee had received an e- mail from SS at 7.53 PM on December 14, 2008. The subject of the said mail was \"B2: Balance sheet\". Another e-mail was received by the noticee from SS at 7:56 PM on December 14, 2008. The attachment to the said mail was titled \"Acquisition of B1 & B2 by Alpha -notes.pptx.\". The attachment contained draft presentation about the acquisition of two companies. Following this mail, at around 10:09 PM, the noticee received another mail from SS with the subject \"B2: Financial Statements\" and the attachment to the said mail was titled \"Maytas Properties2008.pdf:Maytas Properties2008Auditor Report.pdf\". This attachment contained the financials and auditors report for MPL. From all these mails, it is clear that that \"B2\" is the code for MPL. The e-mails talk about the acquisition of two companies and from the above discussion, it is clear that one of the two companies is MPL (\"B2\"), then it can be reasonably presumed that \"B1\" is the code for MIL. Thus, I find that the noticee was aware of the acquisition of MIL and MPL by SCSL before he transacted in the shares of SCSL. Further, the e- mail sent at 7.56 PM was addressed to the noticee and a copy of the same was marked to Mr. Vadlamani Srinivas (CFO of SCSL). The e-mail which was sent at 10:09 PM was sent to Mr.G Ramakrishna (VP, Finance) and Mr G Jayaraman (Compliance Officer, SCSL) and copies were marked to the noticee and Shri Vadlamani Srinivas. E- mail sent at 7:53 PM was originally sent to Mr. G Ramakrishna , G Jayaraman and Vadlamani Srinivas and later on was forwarded to the noticee. As all the recipients of the said mails are key personnel senior management persons of SCSL, it is clear that the discussions on the proposed acquisition of MIL and MPL were happening for some time and the noticee was also aware of the said acquisitions. In view of the same, I am No in a position to accept the Adjudication order in respect of TAN Murti in the matter of SCSL contention of the Noticee that he was No aware of the proposal for acquisition of MIL & MPL by SCSL before he sold SCSL shares. 14. Further, I find from the mobile records of the noticee that he had sent an SMS to SS at midnight i.e, 00:18:51 on December 15, 2008. SS had called the noticee at 12:36:05 hours on December 14, 2008 and at 00:19:27 hours on December 15, 2008, which lasted for about 9 minutes. Taking into account the mobile records and the e- mails as stated above and the subsequent transaction of the noticee on the morning of December 15, 2008 in the shares of SCSL, I find that the noticee was aware of the forthcoming acquisition deal by December 14, 2008 itself and traded when he was in possession of the said information. Being a seasoned finance professional with substantial experience in the field, there would No have been any difficulty for the noticee to anticipate the possible market reaction to the acquisition of MIL and MPL by SCSL. In fact, SCSL’s announcement on December 16, 2008 (evening) to acquire MIL and MPL resulted in a substantial fall in share price of SCSL on December 17, 2008 when the scrip fell to a low of 151, a 33.5% fall from previous close, but after the cancellation of the decision, recovered marginally to close at 157.10 on NSE. 15. The noticee has sold 14,500 shares of SCSL at an average price of 226 - per share on December 15, 2008 before the news of acquisition of MIL & MPL became public. The trading window that was closed on December 17, 2008 remained closed till June 12, 2009, thereby the employees could trade again only on June 15, 2009 (June 13-14,2009 being Saturday and Sunday) when the scrip of SCSL opened at . 77.40. If the noticee had held on to those 14,500 shares without selling them on December 15, 2008, the noticee could have sold them off earliest on June 15, 2009 at 77.40. As a result, the noticee has avoided losses of about .148.60 per share being the difference between the average sale price on December 15, 2008 and the price on June 15, 2009. This difference amounts to . 21, 54, 700 - for 14,500 shares. Adjudication order in respect of TAN Murti in the matter of SCSL 16. From the discussion above and the facts and circumstances of the case, I find that the noticee being an insider was in possession of 'unpublished price sensitive information' when he sold 14,500 shares of SCSL. Hon'ble SAT in the matter of Mrs Chandrakala vs SEBI (Appeal No 209 2011 decided on 31.01.2012) observed thus: \"..........If an insider trades or deals in securities of a listed company, it may be presumed that he she traded on the basis of unpublished price sensitive information in his her possession unless contrary to the same is established. The burden of proving a situation contrary to the presumption mentioned above lies on the insider\". 17. In this context, I have perused the reasons given by the noticee for his sale of 14,500 shares of SCSL on December 15, 2010. I find that the noticee is very inconsistent or unstable regarding the reasons for the said sale. He has cited different reasons at different times. In his letter dated February 01, 2010 he mentioned numerous reasons such as funding for exercise of options, selling before quiet period (trading window closure), bearish outlook of investment community towards IT industry etc. In his letter dated October 31, 2012, he mentions that he wanted to purchase a house at a better location and he needed money for the same. However, in his letter dated November 09, 2012, he mentions about analyst reports as the reason. He has No submitted any documents which indicate that he had a pressing need of funds at that time for purchase of house. In other words, the noticee has No given any convincing evidence for selling such a large quantity of shares at that point of time. 18. In the instant case, the noticee was an insider and he had traded while in possession of unpublished price sensitive information. The noticee has contended that he was No aware that the two companies SCSL was going to acquire were MIL and MPL as the names of the companies were mentioned as B1 and B2 in the draft presentation he received from SS. This contention does No appear to be correct because from the e- mails received by the noticee from SS on December 14, 2008 it is clear that \"B2\" was the code for MPL. Adjudication order in respect of TAN Murti in the matter of SCSL 19. The frequent conversations by the noticee with SS on December 14-15, 2008 further support the view that the noticee was aware of the information of acquisition of the two companies. 20. Thus it is clear that the noticee sold the shares of SCSL on December 15, 2010 when he was in possession of unpublished price sensitive information and has thus violated the provisions of Regulation 3(i) of PIT Regulations read with Section 12A (e) and (d) of the SEBI Act. 21. The aforesaid violations by the Noticee make him liable for penalty u s. 15G of the SEBI Act which reads as under: “Penalty for insider trading 15G. If any insider who,- (i) either on his own behalf or on behalf of any other person, deals in securities of a body corporate listed on any stock exchange on the basis of any unpublished price sensitive information; or (ii) communicates any unpublished price- sensitive information to any person, with or without his request for such information except as required in the ordinary course of business or under any law; or (iii) counsels, or procures for any other person to deal in any securities of any body corporate on the basis of unpublished price-sensitive information, shall be liable to a penalty of twenty-five crore rupees or three times the amount of profits made out of insider trading, whichever is higher. 22. I find that unlike the charging provision of regulation 3 (i) of PIT Regulations which prohibits trading in a scrip ‘while in possession’ of UPSI regarding the same scrip, section 15 G of SEBI Act penalises trading in a scrip ‘on the basis of’ the UPSI. For interpretation of the words ‘on the basis of’ in section 15G of SEBI Act, I rely on the interpretation of the words ‘on the basis of’ by the Hon’ble SAT in its order dated May 09, 2008 in the matter of Rajiv B Gandhi vs. SEBI (Appeal No.50 of 2007). In the said case, the Hon’ble SAT has elaborated on the issue of whether the insider, though in possession of unpublished price sensitive information, had traded ‘on the basis of’ that Adjudication order in respect of TAN Murti in the matter of SCSL information or not? In this regard the Hon’ble SAT made the following observation: We are of the considered opinion that if an insider trades or deals in securities of a listed company, it would be presumed that he traded on the basis of the unpublished price sensitive information in his possession unless he establishes to the contrary. Facts necessary to establish the contrary being especially within the knowledge of the insider, the burden of proving those facts is upon him. The presumption that arises is rebuttable and the onus would be on the insider to show that he did No trade on the basis of the unpublished price sensitive information and that he traded on some other basis. He shall have to furnish some reasonable or plausible explanation of the basis on which he traded. If he can do that, the onus shall stand discharged or else the charge shall stand established”. 23. The Hon’ble Supreme Court of India in the matter of SEBI vs. Shri Ram Mutual Fund1 held that “once the violation of statutory regulations is established, imposition of penalty becomes sine qua No of violation and the intention of parties committing such violation becomes totally irrelevant. Once the contravention is established, then the penalty is to follow.” 24. While determining the quantum of penalty, it is important to consider the factors stipulated in section 15J of SEBI Act, which reads as under:- Factors to be taken into account by the adjudicating officer. While adjudging quantum of penalty under S.15-I, the adjudicating officer shall have due regard to the following factors, namely:- (a) the amount of disproportionate gain or unfair advantage, wherever quantifiable, made as a result of the default; (b) the amount of loss caused to an investor or group of investors as a result of the default; (c) the repetitive nature of the default.” 25. It is one of the basic tenets of PIT Regulations is to prohibit trading by insiders by virtue of their access to price sensitive information and thereby gain at the cost of investors. This is to bring about fairness in the securities market. Thus, any violation of the PIT Regulations has to be viewed seriously. For orderly and fair functioning of the securities market, it is essential for every market player to fulfill the requirements mandated by the law. Hence, the violation by 1 (2006) 68SCL 216 (SC) Adjudication order in respect of TAN Murti in the matter of SCSL the Noticee needs to be viewed seriously. In the instant case, the information was highly price sensitive and when the same was made public, the market reacted very adversely leading to a fall of 33.5% of share price which is quite substantial. The noticee by selling 14,500 shares of SCSL on December 15, 2008 has avoided a loss of . 21, 54, 700 -. Order 26. After taking into consideration all the facts and circumstances of the case, I come to the conclusion that this is a fit case for imposing the monetary penalty on the aforesaid Noticee. I, in exercise of the powers conferred upon me under section 15- I (2) of the SEBI Act, impose a penalty of 65,00,000 (Rupees Sixty Five Lakh only) on the Noticee in terms of Section 15G of the SEBI Act for violation provisions of Regulation 3(i) of PIT Regulations read with Section 12A (e) and (d) of the SEBI Act. I am of the view that the said penalty is commensurate with the violation committed by the Noticee. 27. The penalty shall be paid by way of a duly crossed demand draft drawn in favour of “SEBI- Penalties Remittable to Government of India” payable at Mumbai within 45 days of receipt of this order. The said demand draft shall be forwarded to General Manager, Investigation Department-6 (IVD-ID6), Securities and Exchange Board of India, Plot no.C4-A, ‘G’ Block, Bandra Kurla Complex, Bandra (E), Mumbai- 400 051. 28. In terms of the Rule 6 of the Adjudication Rules, copies of this order are sent to the Noticee and also to the Securities and Exchange Board of India. The matter is disposed of accordingly. DATE: 21.12.2012 PIYOOSH GUPTA PLACE: Mumbai ADJUDICATING OFFICER"
+    },
+    "id": 0
+  }
+]
