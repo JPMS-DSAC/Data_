@@ -1,5 +1,9 @@
 Documents from SEBI have been collected, and have been transformed for our tasks. This README explains the available data.
 
+The original documents are in PDF form in PDF/
+
+The below can be found in TXT-JSON/
+
 **ALL_REGULATIONS_SPLIT** - 
 Regulatory documents from SEBI website, downloaded and grouped by the type of regulation, name of each pdf is the date of release of the . Names were annotated manually
 
