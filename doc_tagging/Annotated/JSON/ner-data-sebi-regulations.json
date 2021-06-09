@@ -1,5 +1,6 @@
 [
   {
+    "_comment": "This fiile consists of named entity annoations done on SEBI regulatory documents by legal experts. There are 10 named entities namely; objective, authority, subject-individual, subject-organisation, date, legal_doc, legal_term, object_general, transaction,value.",
     "completions": [
       {
         "created_at": 1617729995,
